@@ -7,3 +7,9 @@ __pycache__/
 # Secrets (kept outside the repository, listed as a safeguard)
 .env
 *.env
+requirements.txt
+setup.sh
+.venv
+*.pptx
+*_solutions.ipynb
+*.pdf
