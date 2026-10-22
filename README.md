@@ -15,3 +15,7 @@ The lecture notebook holds the exercises we do during the lecture and all calcul
 ## Data
 
 The data are in the `data` folder and are described in [data/README.md](data/README.md). The notebooks load them directly from this repository, so you do not need to download anything.
+
+## Python refresher
+
+An optional introduction to Python in English and Danish, for students who want to brush up: see [python-refresher](python-refresher/README.md).
