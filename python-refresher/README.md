@@ -1,6 +1,6 @@
 # Python refresher
 
-A short introduction to Python for students who want to brush up before or during the course. It starts from scratch, follows one case (Ishuset, a small chain of ice cream kiosks) and comes in English and Danish. It is optional and not part of the curriculum. The Moodle page has the three introductory modules (PDF), the data file for Module C and a self-check quiz.
+A short introduction to Python for students who want to brush up before or during the course. It starts from scratch, follows one case (Ishuset, a small chain of ice cream kiosks) and comes in English and Danish. It is optional and not part of the curriculum. The Moodle page has the three introductory modules (PDF) and the data file for Module C.
 
 All notebooks open in Google Colab from the links below. To keep your own changes, save a copy to your Google Drive (File, Save a copy in Drive).
 
@@ -18,4 +18,4 @@ Suggested solutions are in [en/solutions](en/solutions) and [da/loesninger](da/l
 
 ## På dansk
 
-Et kort introforløb i Python for dig, der vil genopfriske Python før eller under kurset. Det starter fra bunden, følger én case (Ishuset, en lille kæde af iskiosker) og findes på engelsk og dansk. Forløbet er frivilligt og ikke en del af pensum. De tre introducerende moduler (PDF), datafilen til modul C og en selvtjek-quiz ligger på Moodle. Løsningsforslag ligger i mappen [da/loesninger](da/loesninger).
+Et kort introforløb i Python for dig, der vil genopfriske Python før eller under kurset. Det starter fra bunden, følger én case (Ishuset, en lille kæde af iskiosker) og findes på engelsk og dansk. Forløbet er frivilligt og ikke en del af pensum. De tre introducerende moduler (PDF) og datafilen til modul C ligger på Moodle. Løsningsforslag ligger i mappen [da/loesninger](da/loesninger).
