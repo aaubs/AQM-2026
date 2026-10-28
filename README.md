@@ -9,12 +9,14 @@ All notebooks open in Google Colab from the links below. To keep your own change
 | Session | Topic | Lecture notebook | Workshop notebook |
 |---|---|---|---|
 | 1 | Sampling distributions | [lecture01.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture01/lecture01.ipynb) | [workshop01.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture01/workshop01.ipynb) |
+| 2 | Confidence intervals | [lecture02.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture02/lecture02.ipynb) | [workshop02.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture02/workshop02.ipynb) |
+| 3 | Hypothesis tests | [lecture03.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture03/lecture03.ipynb) | [workshop03.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture03/workshop03.ipynb), and extra exercises in the style of the textbook: [03_workshop-book.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture03/03_workshop-book.ipynb) |
 
 The lecture notebook holds the exercises we do during the lecture and all calculations from the slides. In the workshop notebook you write the code yourselves. Solutions to the workshop are added to the session's folder after the session.
 
 ## Data
 
-The data are in the `data` folder and are described in [data/README.md](data/README.md). The notebooks load them directly from this repository, so you do not need to download anything.
+The data are in the `data` folder and are described in [data/README.md](data/README.md): simulated data from RetailCorp, a fictional online retailer, used in Lectures 1 to 4, and from Lecture 3 a public airline passenger survey. The notebooks load them directly from this repository, so you do not need to download anything.
 
 ## Python refresher
 
