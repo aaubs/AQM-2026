@@ -12,7 +12,7 @@ The files are clean: there are no missing or impossible values. Messy data come 
 |---|---|---|---|
 | `orders_population.csv` | 50,000 | All orders from January to June 2026 (the population) | Lecture 1 |
 | `orders_sample.csv` | 200 | A simple random sample of orders from the population | Lecture 1 |
-| `survey.csv` | 400 | Customer survey before and after a website redesign | Lecture 4 |
+| `survey.csv` | 300 | Customer survey before and after a website redesign | Lecture 4 |
 | `newsletter_test.csv` | 10,000 | Newsletter test with two versions, A and B | Lecture 4 |
 | `airline_survey.csv` | 25,976 | Airline passenger satisfaction survey (public data, see below) | Lecture 3 |
 
@@ -41,7 +41,7 @@ One row per order.
 
 ## Survey (`survey.csv`)
 
-400 customers who answered the same survey before and after a website redesign.
+300 customers who answered the same survey before and after a website redesign. Each row is one customer, so the two scores in a row belong together.
 
 | Column | Type | Description |
 |---|---|---|
