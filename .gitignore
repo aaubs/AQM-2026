@@ -13,3 +13,6 @@ setup.sh
 *.pptx
 *_solutions.ipynb
 *.pdf
+
+# GitHub configuration files and workflows
+.github/ 
