@@ -1,0 +1,210 @@
+order_id,system,order_date,warehouse,carrier,region,delivery_hours,late,order_value_dkk,n_items,rating
+RC-000152,old,2026-01-05,Århus,Carrier A,Hovedstaden,"28,5",Nej,"151,49 kr.",3,5
+RC-000302,old,2026-01-06,Århus,Carrier A,Syddanmark,"43,8",Nej,"951,05 kr.",10,5
+RC-000636,old,2026-01-07,Århus,Carrier B,Hovedstaden,"35,3",Nej,"454,55 kr.",2,4
+RC-000813,old,2026-01-07,København,Carrier A,Hovedstaden,"23,2",Nej,"160,97 kr.",3,4
+RC-000927,old,2026-01-08,København,Carrier A,Syddanmark,"43,0",Nej,"151,57 kr.",1,4
+RC-001178,old,2026-01-09,Århus,Carrier B,Hovedstaden,"25,0",Nej,"311,38 kr.",3,5
+RC-001616,old,2026-01-10,Århus,Carrier B,Hovedstaden,"40,9",Nej,"522,86 kr.",8,5
+RC-002094,old,2026-01-12,Århus,Carrier A,,"47,6",Nej,"500,53 kr.",7,4
+RC-002601,old,2026-01-14,København,Carrier B,Hovedstaden,"33,3",Nej,"883,56 kr.",5,5
+RC-002708,old,2026-01-14,Århus,Carrier A,Hovedstaden,"44,7",Nej,"142,28 kr.",3,5
+RC-003279,old,2026-01-16,Århus,Carrier B,Hovedstaden,"35,5",Nej,"677,59 kr.",9,5
+RC-003933,old,2026-01-18,Århus,Carrier B,Hovedstaden,"32,2",Nej,"952,61 kr.",5,5
+RC-004067,old,2026-01-19,Århus,Carrier A,Midtjylland,"40,2",Nej,"1.182,05 kr.",9,4
+RC-004408,old,2026-01-20,Århus,Carrier B,Hovedstaden,"45,5",Nej,"478,88 kr.",7,3
+RC-004777,old,2026-01-21,Århus,Carrier B,Midtjylland,"39,4",Nej,"349,38 kr.",4,3
+RC-004798,old,2026-01-21,Århus,Carrier A,Midtjylland,"33,6",Nej,"952,09 kr.",2,4
+RC-005514,old,2026-01-24,Århus,Carrier A,Midtjylland,"28,1",Nej,"246,81 kr.",4,5
+RC-005553,old,2026-01-24,Århus,Carrier A,Hovedstaden,"41,1",Nej,"102,76 kr.",1,4
+RC-005620,old,2026-01-24,Århus,Carrier A,Nordjylland,"30,1",Nej,"775,51 kr.",2,5
+RC-005624,old,2026-01-24,Århus,Carrier B,Syddanmark,"55,8",Ja,"415,58 kr.",4,2
+RC-005734,old,2026-01-24,Århus,Carrier B,Hovedstaden,"31,5",Nej,"1.010,52 kr.",4,99
+RC-006264,old,2026-01-26,København,Carrier A,Sjælland,"42,5",Nej,"513,29 kr.",4,5
+RC-006583,old,2026-01-27,København,Carrier B,Hovedstaden,"37,2",Nej,"623,11 kr.",5,3
+RC-006727,old,2026-01-28,Århus,Carrier A,Midtjylland,"17,8",Nej,"319,21 kr.",3,5
+RC-006728,old,2026-01-28,København,Carrier A,Syddanmark,"21,3",Nej,"490,20 kr.",5,5
+RC-006930,old,2026-01-29,København,Carrier A,Hovedstaden,"49,3",Ja,"963,24 kr.",8,99
+RC-007233,old,2026-01-30,København,Carrier A,Hovedstaden,"39,1",Nej,"251,42 kr.",3,99
+RC-007430,old,2026-01-30,København,Carrier A,Midtjylland,"27,0",Nej,"209,20 kr.",4,5
+RC-007751,old,2026-01-31,Århus,Carrier B,Hovedstaden,"44,2",Nej,"208,23 kr.",2,4
+RC-008708,old,2026-02-04,Århus,Carrier A,Syddanmark,"29,5",Nej,"459,66 kr.",7,99
+RC-008785,old,2026-02-04,Århus,Carrier B,Syddanmark,"36,9",Nej,"691,29 kr.",7,4
+RC-009209,old,2026-02-06,København,Carrier A,Syddanmark,"35,6",Nej,"1.047,01 kr.",12,4
+RC-009347,old,2026-02-06,Århus,Carrier A,Hovedstaden,"49,3",Ja,"129,33 kr.",2,3
+RC-009669,old,2026-02-07,København,Carrier A,Syddanmark,"35,6",Nej,"1.335,71 kr.",4,4
+RC-009744,old,2026-02-07,Århus,Carrier A,Hovedstaden,"41,2",Nej,"296,45 kr.",4,3
+RC-009746,old,2026-02-07,Århus,Carrier A,Hovedstaden,"22,5",Nej,"424,82 kr.",4,5
+RC-009869,old,2026-02-08,København,Carrier A,Hovedstaden,"32,4",Nej,"712,63 kr.",6,4
+RC-009915,old,2026-02-08,Århus,Carrier A,Syddanmark,"44,6",Nej,"799,35 kr.",3,4
+RC-010275,old,2026-02-09,København,Carrier A,Hovedstaden,"28,6",Nej,"335,20 kr.",3,5
+RC-010504,old,2026-02-10,Århus,Carrier A,Midtjylland,"34,9",Nej,"856,23 kr.",4,4
+RC-010750,old,2026-02-11,Århus,Carrier B,Nordjylland,"49,5",Ja,"200,61 kr.",3,99
+RC-010842,old,2026-02-11,København,Carrier B,Hovedstaden,"36,5",Nej,"381,75 kr.",2,5
+RC-011003,old,2026-02-12,Århus,Carrier B,Hovedstaden,"32,3",Nej,"1.118,08 kr.",7,4
+RC-011095,old,2026-02-12,København,Carrier B,Sjælland,"40,5",Nej,"436,55 kr.",4,5
+RC-011408,old,2026-02-13,København,Carrier A,,"36,6",Nej,"311,33 kr.",4,5
+RC-012198,old,2026-02-16,København,Carrier A,Midtjylland,"47,3",Nej,"865,16 kr.",8,3
+RC-012819,old,2026-02-18,Århus,Carrier A,Hovedstaden,"37,1",Nej,"111,26 kr.",1,3
+RC-013509,old,2026-02-20,København,Carrier A,Hovedstaden,"32,3",Nej,"228,75 kr.",2,5
+RC-014104,old,2026-02-23,Århus,Carrier A,Sjælland,"45,6",Nej,"200,04 kr.",2,99
+RC-014111,old,2026-02-23,Århus,Carrier A,Nordjylland,"30,5",Nej,"582,90 kr.",4,5
+RC-014234,old,2026-02-23,København,Carrier A,,"35,0",Nej,"596,12 kr.",2,5
+RC-014320,old,2026-02-23,Århus,Carrier B,Syddanmark,"28,6",Nej,"427,14 kr.",3,4
+RC-014361,old,2026-02-23,Århus,Carrier A,Syddanmark,"37,5",Nej,"318,04 kr.",2,99
+RC-014596,old,2026-02-24,Århus,Carrier B,Sjælland,"33,8",Nej,"910,45 kr.",3,4
+RC-014977,old,2026-02-26,Århus,Carrier A,Hovedstaden,"40,4",Nej,"301,98 kr.",2,99
+RC-015265,old,2026-02-27,Århus,Carrier A,Midtjylland,"40,9",Nej,"325,42 kr.",3,4
+RC-016038,old,2026-03-01,Århus,Carrier A,Sjælland,"26,5",Nej,"363,92 kr.",1,99
+RC-016241,old,2026-03-02,Århus,Carrier A,Sjælland,"39,8",Nej,"1.955,37 kr.",5,4
+RC-016379,old,2026-03-03,Århus,Carrier A,Syddanmark,"37,1",Nej,"397,43 kr.",5,5
+RC-016965,old,2026-03-05,Århus,Carrier B,Hovedstaden,"32,1",Nej,"447,09 kr.",4,99
+RC-017447,old,2026-03-06,København,Carrier A,Syddanmark,"41,9",Nej,"272,60 kr.",1,4
+RC-017616,old,2026-03-07,København,Carrier A,Hovedstaden,"36,6",Nej,"585,78 kr.",2,5
+RC-017623,old,2026-03-07,Århus,Carrier A,Hovedstaden,"35,5",Nej,"395,14 kr.",2,4
+RC-017717,old,2026-03-07,Århus,Carrier A,Sjælland,"35,4",Nej,"1.587,76 kr.",13,5
+RC-017858,old,2026-03-08,Århus,Carrier A,Midtjylland,"42,4",Nej,"225,70 kr.",2,4
+RC-018137,old,2026-03-09,Århus,Carrier B,Hovedstaden,"39,1",Nej,"749,29 kr.",4,4
+RC-018236,old,2026-03-09,København,Carrier A,Hovedstaden,"40,3",Nej,"107,07 kr.",2,99
+RC-018458,old,2026-03-10,København,Carrier B,Midtjylland,"44,6",Nej,"170,36 kr.",1,4
+RC-018643,old,2026-03-10,København,Carrier A,Hovedstaden,"33,1",Nej,"251,82 kr.",2,99
+RC-019158,old,2026-03-12,Århus,Carrier B,Hovedstaden,"33,4",Nej,"2.456,74 kr.",20,5
+RC-019758,old,2026-03-15,København,Carrier A,Midtjylland,"37,4",Nej,"646,22 kr.",8,99
+RC-019903,old,2026-03-15,Århus,Carrier A,Nordjylland,"17,7",Nej,"438,38 kr.",3,5
+RC-020230,old,2026-03-16,København,Carrier B,Hovedstaden,"36,7",Nej,"658,71 kr.",7,3
+RC-020322,old,2026-03-16,København,Carrier B,Midtjylland,"37,0",Nej,"1.873,68 kr.",9,99
+RC-020424,old,2026-03-17,Århus,Carrier A,Syddanmark,"34,0",Nej,"834,10 kr.",3,99
+RC-020601,old,2026-03-17,København,Carrier B,Hovedstaden,"32,5",Nej,"303,00 kr.",2,99
+RC-020631,old,2026-03-17,Århus,Carrier B,Nordjylland,"42,5",Nej,"663,83 kr.",4,99
+RC-020903,old,2026-03-18,Århus,Carrier A,Midtjylland,"41,1",Nej,"223,75 kr.",1,4
+RC-022351,old,2026-03-23,Århus,Carrier A,Midtjylland,"47,6",Nej,"701,68 kr.",6,5
+RC-022392,old,2026-03-24,København,Carrier B,Hovedstaden,"20,0",Nej,"296,58 kr.",2,5
+RC-022497,old,2026-03-24,Århus,Carrier A,Midtjylland,"37,3",Nej,"558,58 kr.",5,99
+RC-022555,old,2026-03-24,Århus,Carrier A,Sjælland,"35,0",Nej,"1.155,27 kr.",6,5
+RC-022766,old,2026-03-25,Århus,Carrier B,Hovedstaden,"43,7",Nej,"316,56 kr.",2,99
+RC-022835,old,2026-03-25,København,Carrier A,Syddanmark,"27,5",Nej,"176,82 kr.",2,4
+RC-023378,old,2026-03-27,Århus,Carrier A,Hovedstaden,"32,7",Nej,"316,66 kr.",6,4
+RC-023584,old,2026-03-28,Århus,Carrier B,Hovedstaden,"39,1",Nej,"491,00 kr.",3,4
+RC-023592,old,2026-03-28,København,Carrier A,Hovedstaden,"31,1",Nej,"424,05 kr.",3,4
+RC-023773,old,2026-03-28,Århus,Carrier A,Midtjylland,"39,4",Nej,"788,43 kr.",4,99
+RC-024061,old,2026-03-30,Århus,Carrier A,Sjælland,"32,3",Nej,"2.805,43 kr.",19,5
+RC-024638,new,2026-04-01,Aarhus,Carrier B,Syddanmark,39.9,No,1076.67,5,4
+RC-024861,new,2026-04-02,Copenhagen,Carrier A,Nordjylland,37.4,No,245.22,1,3
+RC-025171,new,2026-04-03,Copenhagen,Carrier A,Syddanmark,22.9,No,287.86,4,4
+RC-025177,new,2026-04-03,Aarhus,Carrier B,Nordjylland,28.2,No,307.62,5,4
+RC-025181,new,2026-04-03,Aarhus,Carrier A,Hovedstaden,24.3,No,995.38,7,5
+RC-026228,new,2026-04-06,Aarhus,Carrier A,Midtjylland,15.7,No,93.11,1,5
+RC-026236,new,2026-04-06,Aarhus,Carrier A,Syddanmark,34.8,No,1049.31,5,5
+RC-026457,new,2026-04-07,Aarhus,Carrier A,Sjælland,43.0,No,325.25,4,4
+RC-026557,new,2026-04-07,Copenhagen,Carrier A,Hovedstaden,36.4,No,807.18,7,
+RC-024638,new,2026-04-01,Aarhus,Carrier B,Syddanmark,39.9,No,1076.67,5,4
+RC-024861,new,2026-04-02,Copenhagen,Carrier A,Nordjylland,37.4,No,245.22,1,3
+RC-025171,new,2026-04-03,Copenhagen,Carrier A,Syddanmark,22.9,No,287.86,4,4
+RC-025177,new,2026-04-03,Aarhus,Carrier B,Nordjylland,28.2,No,307.62,5,4
+RC-025181,new,2026-04-03,Aarhus,Carrier A,Hovedstaden,24.3,No,995.38,7,5
+RC-026228,new,2026-04-06,Aarhus,Carrier A,Midtjylland,15.7,No,93.11,1,5
+RC-026236,new,2026-04-06,Aarhus,Carrier A,Syddanmark,34.8,No,1049.31,5,5
+RC-026457,new,2026-04-07,Aarhus,Carrier A,Sjælland,43.0,No,325.25,4,4
+RC-026557,new,2026-04-07,Copenhagen,Carrier A,Hovedstaden,36.4,No,807.18,7,
+RC-026734,new,2026-04-08,Aarhus,Carrier A,Syddanmark,24.4,No,197.83,2,4
+RC-027050,new,2026-04-09,Aarhus,Carrier A,Syddanmark,35.0,No,227.66,1,4
+RC-027461,new,2026-04-11,Aarhus,Carrier A,Hovedstaden,47.7,No,145.75,2,5
+RC-027650,new,2026-04-11,Copenhagen,Carrier A,Sjælland,40.4,No,629.76,4,
+RC-028346,new,2026-04-14,Aarhus,Carrier B,Syddanmark,44.3,No,295.30,1,
+RC-028934,new,2026-04-16,Copenhagen,Carrier B,Midtjylland,39.5,No,703.60,5,5
+RC-029014,new,2026-04-16,Aarhus,Carrier B,Nordjylland,47.0,No,286.94,2,4
+RC-029128,new,2026-04-17,Aarhus,Carrier A,Midtjylland,31.8,No,161.65,4,
+RC-029796,new,2026-04-19,Aarhus,Carrier A,Sjælland,34.3,No,614.83,4,4
+RC-029942,new,2026-04-19,Aarhus,Carrier A,Sjælland,48.6,Yes,3274.42,20,3
+RC-030137,new,2026-04-20,Copenhagen,Carrier A,Sjælland,43.3,No,799.02,5,4
+RC-030166,new,2026-04-20,Copenhagen,Carrier A,Syddanmark,37.9,No,623.56,8,4
+RC-030205,new,2026-04-20,Aarhus,Carrier A,Syddanmark,34.5,No,195.02,4,
+RC-030422,new,2026-04-21,Aarhus,Carrier B,Midtjylland,32.8,No,199.74,1,4
+RC-030474,new,2026-04-21,Copenhagen,Carrier B,Midtjylland,43.4,No,160.05,1,4
+RC-031348,new,2026-04-25,Aarhus,Carrier A,Midtjylland,31.6,No,391.93,0,5
+RC-031370,new,2026-04-25,Copenhagen,Carrier A,Hovedstaden,37.3,No,549.04,3,5
+RC-031578,new,2026-04-25,Aarhus,Carrier A,Midtjylland,31.6,No,538.27,3,4
+RC-031668,new,2026-04-26,Aarhus,Carrier A,Nordjylland,35.7,No,283.67,4,
+RC-032187,new,2026-04-27,Copenhagen,Carrier B,Syddanmark,41.3,No,218.27,3,5
+RC-032196,new,2026-04-27,Aarhus,Carrier A,Midtjylland,29.8,No,113.73,1,5
+RC-032574,new,2026-04-29,Aarhus,Carrier A,Hovedstaden,26.7,No,72.47,1,5
+RC-032969,new,2026-04-30,Aarhus,Carrier B,Syddanmark,37.7,No,284.99,2,
+RC-033014,new,2026-04-30,Copenhagen,Carrier A,Nordjylland,52.0,Yes,610.32,3,
+RC-033223,new,2026-05-01,Aarhus,Carrier A,Hovedstaden,35.3,No,515.25,6,5
+RC-033280,new,2026-05-01,Copenhagen,Carrier A,Syddanmark,43.7,No,571.15,4,
+RC-033366,new,2026-05-01,Copenhagen,Carrier A,Syddanmark,46.6,No,806.49,7,
+RC-033407,new,2026-05-02,Aarhus,Carrier A,Midtjylland,35.5,No,119.78,1,4
+RC-033518,new,2026-05-02,Aarhus,Carrier A,Nordjylland,37.9,No,237.89,4,5
+RC-033741,new,2026-05-03,Copenhagen,Carrier B,Syddanmark,31.8,No,1291.75,8,4
+RC-033745,new,2026-05-03,Copenhagen,Carrier B,Syddanmark,33.4,No,236.89,4,5
+RC-033875,new,2026-05-03,Copenhagen,Carrier B,Syddanmark,35.9,No,2595.32,19,5
+RC-033950,new,2026-05-03,Copenhagen,Carrier A,Midtjylland,48.2,Yes,206.02,3,
+RC-033989,new,2026-05-04,Copenhagen,Carrier B,Syddanmark,37.3,No,160.69,4,5
+RC-033997,new,2026-05-04,Copenhagen,Carrier A,Hovedstaden,38.1,No,209.20,3,4
+RC-034528,new,2026-05-05,Aarhus,Carrier A,Hovedstaden,30.0,No,376.34,2,4
+RC-035006,new,2026-05-07,Aarhus,Carrier B,Nordjylland,23.8,No,283.07,1,5
+RC-035170,new,2026-05-08,Copenhagen,Carrier A,Hovedstaden,31.2,No,285.05,4,4
+RC-035593,new,2026-05-09,Aarhus,Carrier A,Midtjylland,39.3,No,232.43,2,5
+RC-035719,new,2026-05-10,Aarhus,Carrier B,Syddanmark,39.7,No,1099.44,6,4
+RC-036283,new,2026-05-12,Aarhus,Carrier B,Hovedstaden,29.5,No,762.15,4,5
+RC-036344,new,2026-05-12,Copenhagen,Carrier A,Midtjylland,21.0,No,123.09,2,5
+RC-036707,new,2026-05-13,Aarhus,Carrier B,Syddanmark,31.5,No,910.24,7,5
+RC-036942,new,2026-05-14,Aarhus,Carrier B,Hovedstaden,31.5,No,324.45,3,5
+RC-037321,new,2026-05-15,Aarhus,Carrier A,,45.4,No,224.50,1,4
+RC-037357,new,2026-05-15,Copenhagen,Carrier A,Hovedstaden,42.1,No,254.23,1,4
+RC-038776,new,2026-05-20,Aarhus,Carrier A,Midtjylland,50.7,Yes,508.06,7,
+RC-038819,new,2026-05-20,Aarhus,Carrier B,Hovedstaden,20.6,No,832.74,3,4
+RC-038916,new,2026-05-21,Copenhagen,Carrier A,Midtjylland,46.3,No,15823.70,10,3
+RC-038954,new,2026-05-21,Aarhus,Carrier A,Hovedstaden,18.0,No,1062.55,9,5
+RC-039242,new,2026-05-22,Copenhagen,Carrier A,Syddanmark,32.4,No,415.12,6,5
+RC-039395,new,2026-05-22,Copenhagen,Carrier B,Hovedstaden,45.3,No,368.53,1,3
+RC-039505,new,2026-05-23,Copenhagen,Carrier A,Sjælland,55.8,Yes,854.26,3,
+RC-039735,new,2026-05-24,Aarhus,Carrier A,Midtjylland,33.3,No,86.44,1,4
+RC-039849,new,2026-05-24,Aarhus,Carrier B,Sjælland,36.2,No,1117.51,3,4
+RC-040147,new,2026-05-25,Copenhagen,Carrier B,Midtjylland,44.3,No,156.85,3,3
+RC-040309,new,2026-05-26,Aarhus,Carrier A,Midtjylland,22.0,No,1192.13,8,5
+RC-040389,new,2026-05-26,Aarhus,Carrier B,Sjælland,44.7,No,623.14,4,4
+RC-040958,new,2026-05-28,Aarhus ,Carrier A,Hovedstaden,43.7,No,784.04,8,4
+RC-040984,new,2026-05-28,Aarhus,Carrier A,Sjælland,32.4,No,934.05,6,
+RC-041052,new,2026-05-28,Aarhus,Carrier A,Syddanmark,40.9,No,266.03,2,4
+RC-041484,new,2026-05-30,Aarhus,Carrier B,Hovedstaden,31.3,No,249.04,2,4
+RC-042690,new,2026-06-03,Copenhagen,Carrier A,Midtjylland,35.7,No,143.66,2,
+RC-042721,new,2026-06-03,Aarhus,Carrier A,Midtjylland,40.9,No,565.75,-1,4
+RC-042857,new,2026-06-03,Aarhus,Carrier A,Sjælland,35.8,No,229.86,3,4
+RC-043328,new,2026-06-05,Aarhus,Carrier A,Syddanmark,30.2,No,1013.71,12,5
+RC-043890,new,2026-06-07,copenhagen,Carrier A,Midtjylland,53.9,Yes,976.34,8,3
+RC-044253,new,2026-06-08,Aarhus,Carrier A,Hovedstaden,36.5,No,191.54,3,5
+RC-044473,new,2026-06-09,Copenhagen,Carrier B,Hovedstaden,30.5,No,423.75,4,4
+RC-044624,new,2026-06-10,Aarhus,Carrier A,Midtjylland,49.7,Yes,501.41,3,2
+RC-044750,new,2026-06-10,Aarhus,Carrier B,Syddanmark,41.7,No,692.25,4,4
+RC-044858,new,2026-06-11,Copenhagen,Carrier B,Hovedstaden,47.2,No,454.95,3,4
+RC-044964,new,2026-06-11,Copenhagen,Carrier B,Hovedstaden,57.2,Yes,265.96,1,3
+RC-045155,new,2026-06-11,Copenhagen,Carrier A,Midtjylland,60.5,Yes,457.25,3,
+RC-045490,new,2026-06-13,Aarhus,Carrier B,Hovedstaden,41.8,No,749.56,5,4
+RC-045504,new,2026-06-13,Copenhagen,Carrier B,Hovedstaden,46.6,No,896.02,5,3
+RC-045760,new,2026-06-14,Aarhus,Carrier B,Syddanmark,34.5,No,331.06,4,4
+RC-045872,new,2026-06-14,Copenhagen,Carrier B,Nordjylland,33.1,No,228.81,3,5
+RC-045914,new,2026-06-14,Copenhagen,Carrier A,Syddanmark,49.7,Yes,237.32,1,3
+RC-046190,new,2026-06-15,Aarhus ,Carrier B,Midtjylland,35.8,No,757.00,3,4
+RC-046612,new,2026-06-17,Copenhagen,Carrier A,Midtjylland,48.3,Yes,346.18,3,2
+RC-046786,new,2026-06-17,Copenhagen,Carrier B,Nordjylland,39.4,No,783.89,3,
+RC-046917,new,2026-06-18,copenhagen,Carrier B,Hovedstaden,25.9,No,332.28,2,
+RC-047178,new,2026-06-19,Copenhagen,Carrier B,Syddanmark,39.3,No,206.73,2,5
+RC-047317,new,2026-06-19,Aarhus,Carrier B,Hovedstaden,32.5,No,140.60,3,5
+RC-047400,new,2026-06-19,Copenhagen,Carrier B,Hovedstaden,36.3,No,320.46,3,
+RC-047462,new,2026-06-20,Aarhus,Carrier A,Syddanmark,18.9,No,504.43,6,4
+RC-047506,new,2026-06-20,Copenhagen,Carrier A,Nordjylland,37.6,No,409.45,4,4
+RC-047600,new,2026-06-20,Copenhagen,Carrier B,Syddanmark,38.4,No,411.60,1,4
+RC-047674,new,2026-06-20,Aarhus,Carrier B,Syddanmark,35.4,No,761.11,3,4
+RC-047728,new,2026-06-21,Aarhus,Carrier A,Syddanmark,31.7,No,357.90,1,5
+RC-048418,new,2026-06-23,Aarhus,Carrier A,Sjælland,46.8,No,462.48,6,
+RC-048604,new,2026-06-24,Copenhagen,Carrier A,Hovedstaden,23.6,No,317.56,1,
+RC-048822,new,2026-06-25,Copenhagen,Carrier B,Hovedstaden,32.5,No,301.58,3,4
+RC-048986,new,2026-06-25,Aarhus,Carrier A,Midtjylland,37.2,No,562.41,6,4
+RC-049104,new,2026-06-26,Aarhus,Carrier A,Midtjylland,30.3,No,823.93,0,5
+RC-049365,new,2026-06-26,Aarhus,Carrier A,Hovedstaden,26.4,No,585.12,5,5
+RC-049582,new,2026-06-27,Copenhagen,Carrier B,Midtjylland,52.7,Yes,461.84,6,4
+RC-049622,new,2026-06-27,Copenhagen,Carrier B,Sjælland,29.9,No,1305.36,6,4
+RC-049726,new,2026-06-28,Aarhus,Carrier A,Midtjylland,44.2,No,565.29,3,4
+RC-049775,new,2026-06-28,Copenhagen,Carrier A,Hovedstaden,39.3,No,580.58,4,4
+RC-049994,new,2026-06-28,Copenhagen,Carrier A,Midtjylland,37.5,No,1563.52,9,5

@@ -1,10 +1,10 @@
-# Data for Lectures 1 to 4
+# Course data
 
 RetailCorp is a fictional Danish online retailer of home and kitchen goods. It ships orders to customers across Denmark from two warehouses, in Aarhus and Copenhagen, using two parcel carriers. Lectures 1 to 4 follow RetailCorp through questions about delivery times, late deliveries, basket values, customer satisfaction and a newsletter test. The folder also holds one public dataset, an airline passenger survey, used from Lecture 3.
 
 The company and all its data are invented. We simulated the data so that every number in the course can be reproduced and checked. Because we simulated all orders, and not only a sample, Lecture 1 can compare sample results with the true values for the whole population. With real data that is almost never possible, since the population is unknown.
 
-The files are clean: there are no missing or impossible values. Messy data come later in the course, in separate files.
+The files for Lectures 1 to 4 are clean: there are no missing or impossible values. From Lecture 5 the folder also holds deliberately messy files, as data often look before cleaning.
 
 ## Files
 
@@ -15,6 +15,8 @@ The files are clean: there are no missing or impossible values. Messy data come 
 | `survey.csv` | 300 | Customer survey before and after a website redesign | Lecture 4 |
 | `newsletter_test.csv` | 10,000 | Newsletter test with two versions, A and B | Lecture 4 |
 | `airline_survey.csv` | 25,976 | Airline passenger satisfaction survey (public data, see below) | Lecture 3 |
+| `orders_export.csv` | 209 | The raw export behind the 200 sampled orders, from two order systems (messy) | Lecture 5 |
+| `customer_survey.csv` | 612 | Customer survey linked to purchases (messy) | Workshop 5 |
 
 ## Loading a file
 
@@ -79,3 +81,37 @@ Known issues:
 - `Customer Type` is written "Loyal Customer" and "disloyal Customer" (lower case d).
 - 1,916 passengers are under 18; the youngest is 7.
 
+
+## Order export (`orders_export.csv`, Lecture 5)
+
+The 200 orders of `orders_sample.csv` as RetailCorp's IT department exported them. RetailCorp moved to a new order system on 1 April 2026, so the file holds the export from the old and the new system. The file is not cleaned: finding and handling its problems is the topic of Lecture 5. The data description from IT:
+
+| Column | Content |
+|---|---|
+| `order_id` | Order number |
+| `system` | `old` (until 31 March) or `new` (from 1 April) |
+| `order_date` | Date of the order |
+| `warehouse` | Warehouse that shipped the order: Aarhus or Copenhagen |
+| `carrier` | Carrier A or Carrier B |
+| `region` | The customer's region |
+| `delivery_hours` | Hours from order to delivery |
+| `late` | Delivered after more than 48 hours |
+| `order_value_dkk` | Value of the order in DKK |
+| `n_items` | Number of items in the order |
+| `rating` | The customer's rating of the delivery, 1 to 5 stars. The old system records "no answer" as 99 |
+
+## Customer survey (`customer_survey.csv`, Workshop 5)
+
+In September 2026 RetailCorp invited 1,500 customers, drawn at random from the customers who ordered at least once in January to June 2026, to a short survey. 600 answered, and their answers were linked to their orders and spend in January to June. The file is not cleaned. The data description:
+
+| Column | Content |
+|---|---|
+| `customer_id` | Customer number |
+| `age` | Age in years |
+| `region` | The customer's region |
+| `channel` | Where the customer orders most often: App or Web |
+| `member` | Member of the loyalty club |
+| `orders_h1` | Number of orders, January to June 2026 |
+| `spend_h1` | Total spend in DKK, January to June 2026, as exported from the shop system |
+| `satisfaction` | "How satisfied are you with RetailCorp?", 0 to 10. "Don't know" is recorded as −1; empty if the question was skipped |
+| `recommend` | "Would you recommend RetailCorp to a friend?" |

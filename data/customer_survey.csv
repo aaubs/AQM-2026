@@ -1,0 +1,613 @@
+customer_id,age,region,channel,member,orders_h1,spend_h1,satisfaction,recommend
+CS-0001,51,Sjælland,App,No,1,"817,57 kr.",,No
+CS-0002,18,Syddanmark,App,Yes,2,"992,99 kr.",7,Yes
+CS-0003,34,Sjælland,Web,No,3,"2.487,97 kr.",,No
+CS-0004,60,Syddanmark,Web,No,2,"1.383,77 kr.",6,No
+CS-0005,39,Hovedstaden,Web,No,1,"550,72 kr.",4,Yes
+CS-0006,30,Sjælland,APP,N,4,"1.097,37 kr.",8,Yes
+CS-0007,40,Midtjylland,App,No,3,"634,97 kr.",6,No
+CS-0008,34,Syddanmark,App,Yes,3,"1.136,63 kr.",9,Yes
+CS-0009,60,Syddanmark,App,No,1,"1.313,68 kr.",9,Yes
+CS-0010,45,Syddanmark,Web,no,4,"863,31 kr.",8,No
+CS-0011,37,Midtjylland,app,Yes,2,"1.644,51 kr.",6,No
+CS-0012,33,Syddanmark,Web,Yes,2,"446,24 kr.",8,Yes
+CS-0013,42,hovedstaden,Web,Yes,3,"855,23 kr.",5,Yes
+CS-0013,42,hovedstaden,Web,Yes,3,"855,23 kr.",5,Yes
+CS-0014,51,Hovedstaden,app,No,6,"1.847,32 kr.",10,Yes
+CS-0015,37,Syddanmark,App,No,1,"840,10 kr.",,No
+CS-0016,46,Midtjylland,Web,No,1,"721,89 kr.",,Nej
+CS-0017,53,Midtjylland,App,No,3,"1.988,52 kr.",6,Yes
+CS-0018,44,Hovedstaden,Web,No,2,"896,66 kr.",,Ja
+CS-0019,60,Hovedstaden,APP,Yes,2,"1.066,91 kr.",-1,No
+CS-0020,36,hovedstaden,Web,No,1,"558,91 kr.",,Yes
+CS-0021,26,Sjælland,App,Yes,3,"940,83 kr.",10,No
+CS-0022,42,Southern Denmark,Web,Yes,4,"1.078,13 kr.",7,Yes
+CS-0023,57,Hovedstaden,App,Yes,5,"1.562,77 kr.",8,Yes
+CS-0024,70,Syddanmark,App,No,1,"217,83 kr.",6,Nej
+CS-0025,38,Syddanmark,Web,No,5,"2.151,51 kr.",8,Yes
+CS-0026,25,Hovedstaden,Web,Yes,4,"2.973,49 kr.",7,Yes
+CS-0027,56,Nordjylland,App,No,3,"2.121,07 kr.",8,No
+CS-0028,80,Sjælland,Web,Yes,1,"449,91 kr.",5,Yes
+CS-0029,50,Nordjylland,Web,Yes,1,"393,18 kr.",9,No
+CS-0030,38,Sjælland,App,Yes,4,"3.001,53 kr.",6,Yes
+CS-0031,52,Hovedstaden,Web,No,1,"585,20 kr.",5,No
+CS-0032,44,Midtjylland,App,Yes,3,"1.463,88 kr.",8,Y
+CS-0033,39,Hovedstaden,App,yes,5,"2.195,44 kr.",-1,Y
+CS-0034,26,Midtjylland,App,No,3,"1.333,44 kr.",8,Yes
+CS-0035,40,Midtjylland,app,Yes,1,"391,48 kr.",4,no
+CS-0036,38,Sjælland,Web,Yes,4,"5.049,82 kr.",7,Yes
+CS-0037,18,Syddanmark,App,No,3,"1.007,15 kr.",,Yes
+CS-0038,32,Sjælland,App,No,2,"1.128,28 kr.",7,Yes
+CS-0039,48,North Denmark,Web,Yes,2,"1.297,71 kr.",8,No
+CS-0040,56,Sjælland,Web,No,4,"3.348,41 kr.",7,Yes
+CS-0041,61,Southern Denmark,App,No,2,"1.021,27 kr.",7,Yes
+CS-0042,37,Hovedstaden,Web,No,1,"395,93 kr.",7,Yes
+CS-0043,47,Midtjylland,App,Yes,2,"604,56 kr.",9,Yes
+CS-0044,47,Midtjylland,App,Yes,2,"1.174,66 kr.",7,Yes
+CS-0045,30,Nordjylland,Web,Yes,1,"302,44 kr.",3,No
+CS-0046,53,Nordjylland,Web,Yes,3,"1.440,92 kr.",7,Yes
+CS-0047,18,Hovedstaden,App,No,2,"550,43 kr.",8,No
+CS-0048,46,Nordjylland,Web,Yes,1,"548,08 kr.",8,Yes
+CS-0049,42,Syddanmark,Web,Yes,2,"508,87 kr.",4,No
+CS-0050,47,Sjælland,Web,No,1,"464,23 kr.",7,No
+CS-0051,33,Midtjylland,Web,Yes,3,"1.882,62 kr.",,Yes
+CS-0052,38,Southern Denmark,App,No,4,"1.358,61 kr.",6,Yes
+CS-0053,30,Syddanmark,Web,Yes,2,"947,67 kr.",7,no
+CS-0054,58,Sjælland,App,Yes,3,"2.145,50 kr.",7,Yes
+CS-0055,72,Hovedstaden,App,No,1,"572,66 kr.",,No
+CS-0056,53,Nordjylland,App,No,1,"731,47 kr.",6,No
+CS-0057,72,Hovedstaden,App,No,2,"1.019,01 kr.",7,No
+CS-0058,49,Nordjylland,Web,No,3,"1.168,52 kr.",6,No
+CS-0059,56,Midtjylland,App,Yes,3,"1.434,69 kr.",9,Yes
+CS-0060,20,Midtjylland,Web,No,2,"1.919,66 kr.",7,No
+CS-0061,39,Hovedstaden,Website,Yes,5,"3.596,09 kr.",8,Yes
+CS-0062,26,Southern Denmark,App,Yes,1,"318,84 kr.",7,No
+CS-0063,30,Hovedstaden,App,Yes,2,"516,76 kr.",-1,Yes
+CS-0064,48,Midtjylland,App,Yes,2,"2.870,36 kr.",10,Yes
+CS-0065,40,Southern Denmark,App,No,2,"680,11 kr.",5,No
+CS-0066,18,Sjælland,Web,No,1,"439,90 kr.",,N
+CS-0067,33,Hovedstaden,Web,No,3,"1.130,60 kr.",7,No
+CS-0068,43,Midtjylland,App,No,2,"701,49 kr.",7,No
+CS-0069,52,Region Hovedstaden,Web,No,3,"2.688,52 kr.",10,Yes
+CS-0070,44,Hovedstaden,web,No,2,"1.081,39 kr.",6,No
+CS-0071,55,Region Sjælland,Web,No,1,"386,43 kr.",,Yes
+CS-0072,68,Zealand,Web,Yes,2,"754,35 kr.",9,Yes
+CS-0073,38,Midtjylland,App,N,3,"1.323,98 kr.",7,No
+CS-0074,18,Hovedstaden,App,No,4,"1.917,05 kr.",10,No
+CS-0074,18,Hovedstaden,App,No,4,"1.917,05 kr.",10,No
+CS-0075,44,North Denmark,App,No,3,"2.218,70 kr.",10,Yes
+CS-0075,44,North Denmark,App,No,3,"2.218,70 kr.",10,Yes
+CS-0076,42,Syddanmark,App,No,2,"571,79 kr.",8,Nej
+CS-0077,39,Hovedstaden,App,Yes,2,"1.648,55 kr.",7,Yes
+CS-0078,71,Midtjylland,App,Yes,1,"317,63 kr.",4,No
+CS-0079,41,Sjælland,Web,No,1,"483,04 kr.",,No
+CS-0080,66,Midtjylland,App,No,1,"430,62 kr.",,Yes
+CS-0081,44,Region Midtjylland,App,no,1,"657,58 kr.",9,Yes
+CS-0082,36,Midtjylland,Web,Yes,3,"818,63 kr.",6,No
+CS-0083,53,Hovedstaden,App,No,3,"1.415,88 kr.",7,No
+CS-0084,33,Hovedstaden,Website,No,3,"1.805,05 kr.",7,Yes
+CS-0085,39,Nordjylland,App,No,1,"272,18 kr.",8,Yes
+CS-0086,38,Syddanmark,App,N,5,"5.297,48 kr.",10,Yes
+CS-0087,38,Sjælland,App,Yes,4,"2.669,32 kr.",8,Yes
+CS-0088,58,Syddanmark,Web,No,2,"646,15 kr.",,No
+CS-0089,50,hovedstaden,App,No,3,"1.442,57 kr.",8,yes
+CS-0090,42,Midtjylland,Web,Yes,2,"1.134,77 kr.",7,No
+CS-0091,49,Nordjylland,App,Yes,2,"1.889,25 kr.",6,No
+CS-0092,37,Syddanmark,App,No,4,"2.405,97 kr.",4,No
+CS-0093,75,Midtjylland,Web,Yes,2,"2.435,79 kr.",9,No
+CS-0093,75,Midtjylland,Web,Yes,2,"2.435,79 kr.",9,No
+CS-0094,49,Hovedstaden,App,Yes,3,"1.791,08 kr.",10,No
+CS-0095,54,Region Sjælland,Web,Yes,5,"2.091,44 kr.",6,No
+CS-0096,45,Nordjylland,Web,No,3,"2.955,20 kr.",,No
+CS-0097,40,Hovedstaden,Web,No,4,"4.542,82 kr.",6,No
+CS-0098,41,Midtjylland,APP,Yes,2,"1.618,31 kr.",8,Yes
+CS-0099,33,Midtjylland,App,Yes,3,"1.820,35 kr.",7,Yes
+CS-0100,41,Hovedstaden,App,No,2,"1.718,14 kr.",7,Yes
+CS-0101,29,Midtjylland,Web,Yes,3,"1.025,21 kr.",5,No
+CS-0102,41,Midtjylland,App,Yes,3,"1.699,37 kr.",7,Yes
+CS-0103,32,Region Nordjylland,web,Yes,3,"3.124,75 kr.",6,Yes
+CS-0104,59,Hovedstaden,App,Yes,2,"2.150,21 kr.",7,Yes
+CS-0105,44,hovedstaden,App,Yes,3,"2.786,25 kr.",6,No
+CS-0106,54,Midtjylland,Web,Nej,2,"1.138,34 kr.",10,Yes
+CS-0107,41,hovedstaden,App,No,2,"700,70 kr.",9,Yes
+CS-0108,44,Midtjylland,App,No,3,"987,02 kr.",5,No
+CS-0109,23,Sjælland,Web,No,2,"977,75 kr.",7,No
+CS-0110,29,Sjælland,App,No,4,"1.509,66 kr.",-1,No
+CS-0111,44,Nordjylland,Web,No,2,"1.102,01 kr.",6,No
+CS-0112,71,Midtjylland,Web,Yes,4,"806,35 kr.",8,Yes
+CS-0113,43,Midtjylland,App,Yes,3,"1.265,50 kr.",10,Yes
+CS-0114,23,Hovedstaden,Web,Yes,2,"1.233,86 kr.",,No
+CS-0115,43,Syddanmark,App,No,2,"1.377,03 kr.",10,No
+CS-0116,65,Hovedstaden,Web,No,3,"3.340,20 kr.",6,No
+CS-0117,55,Syddanmark,App,Y,1,"367,76 kr.",,Yes
+CS-0118,28,Syddanmark,Web,no,3,"1.862,48 kr.",8,No
+CS-0119,34,Region Nordjylland,App,No,2,"1.136,02 kr.",-1,No
+CS-0120,57,Zealand,App,No,4,"1.843,82 kr.",10,Yes
+CS-0121,65,Hovedstaden,Web,No,1,"571,86 kr.",7,Yes
+CS-0122,52,Midtjylland,App,No,2,"897,80 kr.",8,Yes
+CS-0123,46,Hovedstaden,App,Nej,2,"828,37 kr.",,Yes
+CS-0124,49,Midtjylland,App,Yes,3,"1.853,37 kr.",10,Yes
+CS-0125,46,Sjælland,Web,Yes,3,"2.696,75 kr.",5,Yes
+CS-0126,47,Hovedstaden,Web,No,1,"414,86 kr.",,No
+CS-0127,44,Nordjylland,App,No,3,"1.735,40 kr.",8,No
+CS-0128,32,Hovedstaden,App,No,1,"649,19 kr.",,No
+CS-0129,24,Hovedstaden,App,Yes,1,"1.121,28 kr.",7,No
+CS-0130,38,Southern Denmark,App,No,1,"328,86 kr.",6,No
+CS-0131,64,Central Denmark,Web,No,4,"3.386,13 kr.",7,No
+CS-0132,39,Hovedstaden,Web,Yes,1,"371,74 kr.",6,No
+CS-0133,34,hovedstaden,App,Yes,2,"1.407,41 kr.",6,No
+CS-0134,32,Hovedstaden,Web,No,3,"2.410,15 kr.",,Yes
+CS-0135,43,Nordjylland,Web,No,4,"2.136,98 kr.",7,No
+CS-0136,,Midtjylland,Website,No,2,"929,10 kr.",10,No
+CS-0137,39,Syddanmark,App,No,1,"707,10 kr.",5,No
+CS-0138,31,Syddanmark,App,Yes,2,"553,73 kr.",10,Yes
+CS-0139,47,Midtjylland,Web,No,2,"1.066,66 kr.",9,Yes
+CS-0140,56,Hovedstaden,Web,Yes,2,"729,19 kr.",5,No
+CS-0141,65,Midtjylland,Web,Yes,4,"1.844,71 kr.",10,Yes
+CS-0142,42,Syddanmark,Web,No,2,"464,65 kr.",,Yes
+CS-0143,33,Capital Region,Web,Yes,2,"808,23 kr.",7,No
+CS-0144,48,Hovedstaden,App,Yes,5,"2.102,40 kr.",8,Yes
+CS-0145,,Region Syddanmark,Website,No,4,"2.250,93 kr.",7,No
+CS-0146,27,Hovedstaden,App,N,1,"917,48 kr.",7,No
+CS-0147,44,Midtjylland,Website,Yes,3,"1.629,68 kr.",6,Yes
+CS-0148,41,Sjælland,App,Yes,3,"2.180,08 kr.",7,Yes
+CS-0149,41,Hovedstaden,App,No,1,"319,76 kr.",,No
+CS-0150,53,Syddanmark,App,No,1,"451,03 kr.",,No
+CS-0151,47,Midtjylland,Web,Yes,3,"1.527,36 kr.",2,No
+CS-0152,49,Hovedstaden,Web,No,3,"992,44 kr.",7,Yes
+CS-0153,29,Midtjylland,App,Yes,4,"1.088,05 kr.",6,No
+CS-0154,38,Midtjylland,Web,Yes,7,"4.061,53 kr.",7,No
+CS-0155,49,Nordjylland,App,Yes,4,"1.923,48 kr.",10,Yes
+CS-0156,36,Syddanmark,App,No,1,"296,18 kr.",7,No
+CS-0157,18,Syddanmark,Web,No,2,"1.286,25 kr.",9,Yes
+CS-0158,40,Hovedstaden,App,No,1,"379,86 kr.",,No
+CS-0159,68,Midtjylland,App,No,2,"1.346,02 kr.",4,No
+CS-0160,34,Hovedstaden,Web,No,3,"1.458,36 kr.",7,Yes
+CS-0161,51,Midtjylland,App,No,1,"579,45 kr.",-1,No
+CS-0162,50,Midtjylland,Web,yes,2,"524,12 kr.",9,Yes
+CS-0163,53,Syddanmark,App,No,2,"888,32 kr.",10,Yes
+CS-0164,49,Hovedstaden,App,Yes,5,"6.065,84 kr.",9,Yes
+CS-0165,36,Syddanmark,App,Yes,3,"899,04 kr.",9,Y
+CS-0166,38,Hovedstaden,App,Yes,4,"1.367,47 kr.",10,Yes
+CS-0167,62,Sjælland,Web,Yes,2,"2.037,34 kr.",5,No
+CS-0168,32,Hovedstaden,App,Yes,3,"1.392,25 kr.",10,Yes
+CS-0169,37,Syddanmark,Web,No,2,"972,34 kr.",5,No
+CS-0170,67,Hovedstaden,APP,No,3,"1.865,41 kr.",6,Yes
+CS-0171,0,Hovedstaden,Web,Yes,2,"731,33 kr.",8,Yes
+CS-0172,45,Capital Region,APP,No,3,"1.483,10 kr.",7,No
+CS-0173,24,Hovedstaden,App,Yes,1,"451,87 kr.",7,Yes
+CS-0174,55,Midtjylland,App,No,4,"3.181,75 kr.",8,Y
+CS-0175,38,Sjælland,App,No,3,"1.223,78 kr.",7,Yes
+CS-0176,64,Syddanmark,Web,Yes,4,"2.905,06 kr.",10,No
+CS-0177,25,Syddanmark,App,No,2,"772,50 kr.",7,No
+CS-0178,39,Syddanmark,App,No,1,"662,30 kr.",5,No
+CS-0179,62,Hovedstaden,Web,Ja,2,"1.318,92 kr.",10,Yes
+CS-0180,54,Nordjylland,Web,No,1,"700,80 kr.",9,Yes
+CS-0181,62,Nordjylland,Web,Yes,7,"3.151,62 kr.",,No
+CS-0182,47,Hovedstaden,App,No,3,"2.554,47 kr.",5,Nej
+CS-0183,31,Hovedstaden,Web,Yes,2,"1.025,48 kr.",,Yes
+CS-0184,34,Hovedstaden,App,Yes,2,"744,63 kr.",7,No
+CS-0185,54,Midtjylland,App,No,3,"1.133,60 kr.",8,Yes
+CS-0186,38,Hovedstaden,App,No,2,"1.676,62 kr.",6,Yes
+CS-0187,59,Region Hovedstaden,Web,Yes,4,"1.225,69 kr.",7,Yes
+CS-0188,25,Hovedstaden,App,Yes,1,"519,07 kr.",8,Yes
+CS-0189,38,Hovedstaden,App,No,2,"1.598,18 kr.",5,No
+CS-0190,44,Nordjylland,App,No,2,"463,69 kr.",7,Yes
+CS-0191,35,Hovedstaden,Website,Yes,2,"2.012,79 kr.",7,Yes
+CS-0192,67,Syddanmark,Web,Yes,1,"730,54 kr.",10,Yes
+CS-0193,35,Midtjylland,App,No,2,"524,95 kr.",6,No
+CS-0194,55,Midtjylland,Web,Yes,3,"2.373,08 kr.",,yes
+CS-0195,58,Midtjylland,app,No,3,"899,13 kr.",6,No
+CS-0196,72,Midtjylland,App,Yes,2,"937,18 kr.",8,Yes
+CS-0197,35,Syddanmark,App,Yes,4,"3.612,25 kr.",-1,Yes
+CS-0198,,Hovedstaden,Web,No,5,"4.193,12 kr.",6,Y
+CS-0199,63,Nordjylland,App,No,1,"501,38 kr.",10,Yes
+CS-0200,44,Capital Region,App,Yes,3,"1.315,20 kr.",,No
+CS-0201,41,Hovedstaden,APP,No,3,"1.265,13 kr.",10,Yes
+CS-0202,50,North Denmark,Web,Yes,2,"917,54 kr.",9,Yes
+CS-0203,63,Syddanmark,Web,No,5,"3.336,10 kr.",10,Yes
+CS-0204,63,Hovedstaden,App,No,3,"492,21 kr.",,No
+CS-0205,50,Region Midtjylland,App,Yes,1,"670,61 kr.",7,No
+CS-0206,54,Sjælland,App,Yes,7,"2.585,92 kr.",10,Yes
+CS-0207,42,Syddanmark,APP,No,2,"1.757,55 kr.",7,Yes
+CS-0208,37,Hovedstaden,App,No,4,"842,55 kr.",9,Yes
+CS-0209,48,Midtjylland,Web,no,2,"305,11 kr.",6,Yes
+CS-0210,18,Southern Denmark,Web,Yes,2,"978,45 kr.",10,No
+CS-0211,33,Syddanmark,Web,Yes,3,"657,92 kr.",8,Yes
+CS-0212,27,Nordjylland,App,Yes,2,"674,06 kr.",8,Yes
+CS-0212,27,Nordjylland,App,Yes,2,"674,06 kr.",8,Yes
+CS-0213,39,Sjælland,App,Yes,4,"1.698,48 kr.",7,Yes
+CS-0214,60,Midtjylland,Web,Y,2,"896,46 kr.",6,Yes
+CS-0215,44,Syddanmark,App,No,2,"1.305,13 kr.",9,Yes
+CS-0216,41,Midtjylland,APP,Yes,3,"2.044,44 kr.",6,Yes
+CS-0217,69,Midtjylland,Web,Yes,1,"426,14 kr.",8,No
+CS-0218,52,Hovedstaden,Web,Yes,2,"1.291,54 kr.",4,No
+CS-0219,61,Hovedstaden,Web,No,4,"1.892,46 kr.",4,No
+CS-0220,49,Hovedstaden,App,No,4,"1.536,18 kr.",8,Yes
+CS-0221,61,Hovedstaden,App,Yes,1,"409,36 kr.",8,No
+CS-0222,54,Midtjylland,App,Yes,4,"1.915,92 kr.",8,Yes
+CS-0223,72,Syddanmark,Web,No,3,"741,35 kr.",7,Yes
+CS-0224,54,Syddanmark,App,No,4,"1.682,09 kr.",5,Yes
+CS-0225,50,Hovedstaden,App,No,2,"1.258,04 kr.",5,Yes
+CS-0226,39,Syddanmark,App,No,1,"387,60 kr.",6,no
+CS-0227,48,Midtjylland,Web,Yes,2,"661,05 kr.",5,No
+CS-0228,51,Sjælland,Web,Yes,5,"2.607,44 kr.",9,No
+CS-0229,18,North Denmark,Web,Y,2,"1.729,38 kr.",-1,Yes
+CS-0230,38,Midtjylland,Web,Yes,2,"877,78 kr.",,No
+CS-0231,41,Hovedstaden,Web,No,4,"2.339,17 kr.",6,Yes
+CS-0232,39,Region Hovedstaden,web,No,1,"526,11 kr.",,No
+CS-0233,41,Syddanmark,Web,Yes,3,"1.324,69 kr.",8,No
+CS-0234,60,Hovedstaden,Web,No,2,"1.017,08 kr.",7,Yes
+CS-0235,39,Capital Region,Web,Yes,3,"2.064,76 kr.",10,Yes
+CS-0236,48,Midtjylland,App,No,2,"747,95 kr.",,Yes
+CS-0237,51,Syddanmark,App,No,3,"1.030,30 kr.",9,Yes
+CS-0238,45,Region Nordjylland,App,No,1,"391,58 kr.",5,No
+CS-0239,45,Sjælland,Web,Yes,5,"2.323,35 kr.",6,Yes
+CS-0240,47,Nordjylland,App,No,2,"1.983,97 kr.",5,No
+CS-0241,53,Capital Region,Web,No,3,"2.357,17 kr.",4,No
+CS-0242,52,North Denmark,App,No,3,"942,41 kr.",8,Yes
+CS-0243,46,Hovedstaden,App,No,1,"747,65 kr.",5,No
+CS-0244,42,Zealand,App,Yes,1,"283,80 kr.",,Yes
+CS-0245,30,Sjælland,app,No,4,"1.645,66 kr.",7,No
+CS-0246,40,Midtjylland,Web,Yes,5,"1.743,33 kr.",10,Yes
+CS-0247,72,Midtjylland,Web,Yes,3,"1.002,30 kr.",10,Yes
+CS-0248,53,Midtjylland,App,Yes,5,"1.161,06 kr.",8,No
+CS-0249,44,Syddanmark,Web,No,2,"916,02 kr.",,No
+CS-0250,45,Sjælland,App,No,3,"1.067,71 kr.",7,Yes
+CS-0251,64,Midtjylland,App,Yes,2,"906,57 kr.",6,Yes
+CS-0252,57,Sjælland,App,Yes,3,"947,40 kr.",8,Yes
+CS-0253,60,Sjælland,Web,No,2,"571,81 kr.",6,No
+CS-0254,39,Hovedstaden,App,Y,5,"2.209,19 kr.",5,Yes
+CS-0255,69,Sjælland,Web,Yes,2,"809,86 kr.",9,Yes
+CS-0256,18,Southern Denmark,App,Yes,2,"881,42 kr.",10,Nej
+CS-0257,50,Syddanmark,Web,Yes,2,"874,16 kr.",,Yes
+CS-0258,30,Nordjylland,Web,Yes,2,"1.499,83 kr.",7,No
+CS-0259,54,Nordjylland,App,Yes,2,"1.866,52 kr.",8,No
+CS-0260,34,Hovedstaden,APP,Yes,3,"1.513,54 kr.",8,Yes
+CS-0261,61,Syddanmark,Web,No,2,"435,70 kr.",7,No
+CS-0262,19,Capital Region,web,No,3,"941,30 kr.",8,Yes
+CS-0262,19,Capital Region,web,No,3,"941,30 kr.",8,Yes
+CS-0263,51,Midtjylland,App,Y,2,"328,97 kr.",10,Yes
+CS-0264,55,North Denmark,Website,Yes,3,"2.768,51 kr.",6,No
+CS-0265,20,Hovedstaden,App,No,2,"1.108,47 kr.",6,Yes
+CS-0266,18,Nordjylland,Web,Yes,1,"550,98 kr.",,Yes
+CS-0267,37,Midtjylland,Web,Yes,1,"359,76 kr.",,Yes
+CS-0268,37,hovedstaden,Web,No,3,"702,23 kr.",5,Ja
+CS-0269,42,Sjælland,Web,No,1,"539,23 kr.",3,No
+CS-0270,64,Zealand,App,No,2,"441,47 kr.",8,Yes
+CS-0271,48,Sjælland,Web,No,1,"598,10 kr.",6,No
+CS-0272,21,Hovedstaden,Web,Yes,2,"1.506,96 kr.",9,Yes
+CS-0273,28,Midtjylland,App,Yes,2,"1.626,02 kr.",8,Y
+CS-0274,35,Sjælland,App,No,1,"250,12 kr.",8,Yes
+CS-0275,28,Midtjylland,App,No,3,"1.126,09 kr.",7,Yes
+CS-0276,49,Hovedstaden,Web,Yes,2,"703,64 kr.",7,Yes
+CS-0277,58,Hovedstaden,Web,Yes,2,"425,36 kr.",7,No
+CS-0278,25,Syddanmark,App,Yes,3,"19.053,80 kr.",6,No
+CS-0279,54,Midtjylland,App,No,1,"754,18 kr.",5,Yes
+CS-0280,51,Midtjylland,Web,Yes,2,"905,66 kr.",8,No
+CS-0281,38,Midtjylland,App,No,3,"1.224,50 kr.",10,yes
+CS-0282,37,Syddanmark,Web,No,3,"2.022,50 kr.",8,Yes
+CS-0283,,Sjælland,Web,Ja,3,"779,82 kr.",9,Yes
+CS-0284,29,Southern Denmark,app,No,3,"1.852,35 kr.",8,No
+CS-0285,29,Nordjylland,Web,Yes,1,"805,97 kr.",8,Yes
+CS-0286,31,Midtjylland,Web,Yes,1,"107,42 kr.",8,Yes
+CS-0287,,Hovedstaden,App,Yes,3,"1.394,03 kr.",6,No
+CS-0288,53,Hovedstaden,App,Yes,2,"1.531,95 kr.",8,Yes
+CS-0289,45,Hovedstaden,web,Yes,2,"1.173,32 kr.",10,Yes
+CS-0290,18,hovedstaden,Web,No,2,"925,46 kr.",7,Yes
+CS-0291,45,Hovedstaden,Web,Yes,2,"500,07 kr.",8,N
+CS-0292,44,Syddanmark,App,No,3,"1.353,28 kr.",8,Yes
+CS-0293,38,Syddanmark,Web,No,1,"228,75 kr.",6,No
+CS-0294,47,Hovedstaden,App,Yes,3,"994,07 kr.",10,Yes
+CS-0295,43,Nordjylland,Web,Yes,2,"574,39 kr.",8,Yes
+CS-0296,57,Midtjylland,app,Yes,2,"692,42 kr.",4,N
+CS-0297,26,Midtjylland,App,No,5,"2.230,88 kr.",5,Yes
+CS-0298,40,Hovedstaden,App,No,2,"1.823,01 kr.",3,No
+CS-0299,33,Sjælland,Web,No,1,"511,61 kr.",7,No
+CS-0300,40,Syddanmark,Web,No,3,"1.380,05 kr.",8,Ja
+CS-0301,43,Midtjylland,Web,No,2,"818,82 kr.",,Yes
+CS-0302,42,Sjælland,App,Yes,1,"370,43 kr.",9,Yes
+CS-0303,31,Midtjylland,App,No,3,"2.297,41 kr.",10,Yes
+CS-0304,46,Sjælland,Web,Yes,2,"1.053,02 kr.",7,Yes
+CS-0305,46,Hovedstaden,Website,Yes,5,"2.087,46 kr.",9,Yes
+CS-0306,47,Midtjylland,Web,No,1,"686,88 kr.",,No
+CS-0307,41,Sjælland,Web,Yes,3,"1.898,04 kr.",4,No
+CS-0308,51,Region Nordjylland,Web,No,2,"395,88 kr.",9,Yes
+CS-0309,18,Hovedstaden,App,Yes,2,"594,42 kr.",8,Yes
+CS-0310,1973,Midtjylland,App,No,2,"1.008,22 kr.",10,Yes
+CS-0311,20,Sjælland,Web,Yes,2,"1.182,60 kr.",,Yes
+CS-0312,,Region Hovedstaden,App,No,1,"493,97 kr.",10,Yes
+CS-0313,56,Syddanmark,Web,No,1,"604,77 kr.",8,Yes
+CS-0314,26,Midtjylland,Web,No,2,"551,38 kr.",5,No
+CS-0315,48,Capital Region,Web,Yes,3,"1.102,31 kr.",8,Yes
+CS-0316,61,Nordjylland,App,Yes,2,"1.044,69 kr.",9,No
+CS-0317,27,Syddanmark,App,No,1,"422,55 kr.",,Yes
+CS-0318,40,Southern Denmark,App,No,2,"1.433,50 kr.",8,Yes
+CS-0319,26,Midtjylland,App,No,5,"3.379,94 kr.",7,No
+CS-0320,36,Capital Region,App,No,3,"1.574,94 kr.",8,No
+CS-0321,43,Region Nordjylland,App,No,3,"2.439,52 kr.",8,Yes
+CS-0322,48,Region Sjælland,App,No,2,"1.372,35 kr.",10,Yes
+CS-0323,46,Hovedstaden,App,No,1,"647,46 kr.",7,Yes
+CS-0324,61,Syddanmark,Web,Yes,2,"1.028,69 kr.",7,No
+CS-0325,32,Region Sjælland,App,Yes,4,"1.315,38 kr.",6,Yes
+CS-0326,40,Sjælland,Web,Yes,1,"454,08 kr.",9,Yes
+CS-0327,43,Syddanmark,App,No,3,"1.174,49 kr.",3,No
+CS-0328,42,Midtjylland,App,Yes,4,"2.314,67 kr.",6,Yes
+CS-0329,49,Syddanmark,Web,N,1,"597,87 kr.",5,No
+CS-0330,48,Region Hovedstaden,Web,No,1,"274,63 kr.",9,Yes
+CS-0331,53,Sjælland,App,Yes,3,"770,62 kr.",5,No
+CS-0332,38,Sjælland,App,Yes,4,"1.342,10 kr.",8,Yes
+CS-0333,68,Hovedstaden,App,Yes,3,"2.086,64 kr.",9,Yes
+CS-0334,53,Sjælland,App,Yes,3,"985,67 kr.",8,No
+CS-0335,50,Nordjylland,Web,No,2,"1.276,14 kr.",9,Yes
+CS-0336,40,Sjælland,App,No,3,"555,67 kr.",7,No
+CS-0337,33,Sjælland,Web,No,1,"757,70 kr.",,No
+CS-0338,50,Hovedstaden,App,Yes,3,"2.322,78 kr.",,Yes
+CS-0339,47,Midtjylland,Web,No,3,"2.201,25 kr.",8,Yes
+CS-0340,56,Syddanmark,Web,Yes,1,"221,86 kr.",7,No
+CS-0341,62,Sjælland,App,Yes,3,"1.641,40 kr.",9,Yes
+CS-0342,23,Hovedstaden,App,Yes,4,"2.653,94 kr.",-1,Yes
+CS-0343,67,Hovedstaden,App,No,3,"2.876,56 kr.",,Yes
+CS-0344,46,Midtjylland,Web,No,4,"1.419,89 kr.",8,Yes
+CS-0345,50,Hovedstaden,App,Yes,1,"599,54 kr.",6,No
+CS-0346,44,Hovedstaden,App,no,2,"1.442,34 kr.",5,No
+CS-0347,41,Hovedstaden,App,Yes,3,"1.900,60 kr.",9,Yes
+CS-0348,63,Syddanmark,App,No,3,"1.207,04 kr.",10,Yes
+CS-0349,42,Zealand,Web,No,1,"1.412,03 kr.",,Yes
+CS-0350,55,Syddanmark,Web,No,3,"1.060,97 kr.",7,No
+CS-0351,46,Region Hovedstaden,APP,Yes,1,"337,00 kr.",,Yes
+CS-0352,24,Midtjylland,Web,No,3,"1.006,22 kr.",8,Yes
+CS-0353,49,Midtjylland,web,Y,3,"1.050,17 kr.",6,No
+CS-0354,31,Syddanmark,App,Yes,3,"1.286,14 kr.",8,Yes
+CS-0355,42,Syddanmark,Web,No,1,"732,10 kr.",,No
+CS-0356,56,Midtjylland,Web,No,3,"1.180,48 kr.",8,Yes
+CS-0357,72,Nordjylland,App,No,1,"550,88 kr.",-1,Yes
+CS-0358,40,Hovedstaden,App,No,1,"339,61 kr.",,Yes
+CS-0359,46,Nordjylland,Web,No,1,"591,65 kr.",7,No
+CS-0360,60,Hovedstaden,App,Yes,2,"971,10 kr.",10,Yes
+CS-0361,75,Syddanmark,Web,Yes,2,"1.153,22 kr.",6,Yes
+CS-0362,62,Midtjylland,Web,No,3,"695,08 kr.",7,Yes
+CS-0363,20,Hovedstaden,App,Yes,4,"2.168,23 kr.",10,Yes
+CS-0364,46,Syddanmark,App,no,2,"1.097,79 kr.",7,No
+CS-0365,50,Sjælland,Web,Yes,5,"3.156,02 kr.",,Yes
+CS-0366,44,Hovedstaden,Web,No,2,"699,48 kr.",8,Yes
+CS-0367,54,Midtjylland,Web,No,2,"1.077,96 kr.",6,Yes
+CS-0368,45,Hovedstaden,Web,Yes,1,"269,24 kr.",,Yes
+CS-0369,46,Midtjylland,App,No,3,"2.455,69 kr.",,Yes
+CS-0370,48,Hovedstaden,Web,Yes,3,"2.122,73 kr.",10,Yes
+CS-0371,62,Syddanmark,Web,Yes,4,"1.481,81 kr.",9,Yes
+CS-0372,52,Syddanmark,App,No,3,"1.325,91 kr.",4,No
+CS-0373,29,Hovedstaden,APP,Yes,2,"847,34 kr.",7,No
+CS-0374,40,Region Sjælland,App,No,2,"1.425,43 kr.",8,Yes
+CS-0375,41,Hovedstaden,App,No,3,"1.058,33 kr.",,Yes
+CS-0376,29,Hovedstaden,Web,Yes,1,"515,71 kr.",9,Yes
+CS-0377,29,Nordjylland,Web,No,5,"1.238,74 kr.",6,No
+CS-0378,50,Syddanmark,Web,Yes,1,"317,10 kr.",6,No
+CS-0379,40,Hovedstaden,APP,No,3,"1.184,91 kr.",9,Yes
+CS-0380,33,Hovedstaden,Web,No,1,"591,51 kr.",8,Yes
+CS-0381,40,Syddanmark,Website,Yes,5,"2.617,47 kr.",7,No
+CS-0382,43,Syddanmark,Web,Yes,4,"4.555,30 kr.",4,No
+CS-0383,42,Hovedstaden,Web,no,5,"2.661,89 kr.",9,Yes
+CS-0384,32,Hovedstaden,App,No,1,"632,30 kr.",,Yes
+CS-0385,64,Hovedstaden,App,No,3,"749,72 kr.",7,Yes
+CS-0386,76,Region Syddanmark,App,No,4,"2.106,19 kr.",9,Yes
+CS-0387,39,Hovedstaden,Web,Yes,3,"2.906,31 kr.",8,Y
+CS-0388,29,Hovedstaden,App,Yes,2,"2.453,76 kr.",7,Yes
+CS-0389,80,Nordjylland,Web,Yes,1,"331,13 kr.",6,Yes
+CS-0390,26,Hovedstaden,Web,No,2,"918,81 kr.",-1,Yes
+CS-0391,32,Hovedstaden,App,Yes,5,"1.630,14 kr.",7,Yes
+CS-0392,41,Nordjylland,Web,Yes,2,"1.429,51 kr.",8,Yes
+CS-0393,55,Region Syddanmark,App,No,1,"313,29 kr.",,Ja
+CS-0394,51,Hovedstaden,Web,Yes,4,"1.720,42 kr.",9,Yes
+CS-0395,45,Hovedstaden,Web,No,2,"643,31 kr.",7,Yes
+CS-0396,52,Hovedstaden,Web,No,3,"1.381,66 kr.",,Yes
+CS-0397,42,Hovedstaden,App,Yes,2,"828,23 kr.",-1,No
+CS-0398,40,Midtjylland,App,No,2,"556,69 kr.",5,No
+CS-0399,64,Syddanmark,App,No,1,"394,27 kr.",9,Yes
+CS-0400,43,Nordjylland,Web,No,3,"1.575,14 kr.",9,Yes
+CS-0401,48,Syddanmark,App,Yes,4,"1.440,21 kr.",8,Yes
+CS-0402,59,Nordjylland,Web,No,3,"1.087,21 kr.",8,No
+CS-0402,59,Nordjylland,Web,No,3,"1.087,21 kr.",8,No
+CS-0403,22,Sjælland,App,Yes,2,"1.073,05 kr.",5,No
+CS-0404,45,Syddanmark,App,Yes,3,"2.076,45 kr.",10,Yes
+CS-0405,64,Syddanmark,Web,No,2,"538,07 kr.",8,Yes
+CS-0406,22,Midtjylland,App,No,2,"1.536,37 kr.",6,No
+CS-0407,,Hovedstaden,Web,No,1,"1.200,78 kr.",,Yes
+CS-0408,27,Hovedstaden,App,Yes,1,"325,29 kr.",,No
+CS-0409,1978,Sjælland,App,Yes,4,"1.326,19 kr.",8,Yes
+CS-0410,43,Midtjylland,Web,No,2,"427,62 kr.",9,Yes
+CS-0411,40,Hovedstaden,Web,Yes,1,"603,45 kr.",8,No
+CS-0412,40,Midtjylland,Web,No,4,"1.622,14 kr.",,No
+CS-0413,48,Hovedstaden,APP,Yes,5,"4.905,17 kr.",9,No
+CS-0414,62,Hovedstaden,App,Yes,3,"957,92 kr.",9,Yes
+CS-0415,26,Hovedstaden,Web,No,1,"883,93 kr.",6,No
+CS-0416,48,Hovedstaden,App,No,2,"1.417,88 kr.",10,Yes
+CS-0417,62,Hovedstaden,App,No,3,"878,58 kr.",-1,No
+CS-0418,47,Hovedstaden,Web,No,4,"1.747,15 kr.",6,No
+CS-0419,46,Region Midtjylland,App,No,1,"513,98 kr.",6,Yes
+CS-0420,31,Midtjylland,Web,No,3,"1.472,54 kr.",7,No
+CS-0421,71,Sjælland,App,Yes,6,"1.994,08 kr.",-1,No
+CS-0422,56,Syddanmark,App,No,4,"2.262,19 kr.",8,Yes
+CS-0423,37,Central Denmark,App,Yes,3,"1.386,53 kr.",10,Yes
+CS-0424,57,Hovedstaden,App,Yes,3,"644,36 kr.",,Yes
+CS-0425,65,Nordjylland,App,Yes,3,"3.627,95 kr.",6,No
+CS-0426,48,Hovedstaden,App,No,2,"888,96 kr.",8,Yes
+CS-0427,48,Sjælland,App,Yes,1,"662,28 kr.",,No
+CS-0428,25,Southern Denmark,App,No,2,"571,45 kr.",6,Yes
+CS-0429,26,Midtjylland,App,No,1,"498,94 kr.",5,No
+CS-0429,26,Midtjylland,App,No,1,"498,94 kr.",5,No
+CS-0430,18,Syddanmark,web,Yes,3,"897,02 kr.",4,No
+CS-0431,43,Syddanmark,App,Yes,4,"2.203,74 kr.",5,No
+CS-0432,51,Syddanmark,Web,No,2,"751,96 kr.",6,Yes
+CS-0433,66,Hovedstaden,App,N,2,"1.037,27 kr.",,Yes
+CS-0434,37,Hovedstaden,App,Yes,3,"1.895,33 kr.",4,No
+CS-0435,57,Hovedstaden,Web,No,3,"781,03 kr.",5,No
+CS-0436,34,Hovedstaden,Web,No,2,"1.369,14 kr.",6,No
+CS-0437,18,Hovedstaden,Web,Yes,2,"1.248,01 kr.",-1,Nej
+CS-0438,46,Syddanmark,Web,No,2,"271,93 kr.",3,No
+CS-0439,37,hovedstaden,App,No,3,"1.627,71 kr.",,Yes
+CS-0440,,Midtjylland,Web,Yes,1,"411,77 kr.",7,No
+CS-0441,44,Region Hovedstaden,App,Yes,3,"1.835,24 kr.",9,Yes
+CS-0442,47,Midtjylland,Web,No,3,"1.031,22 kr.",8,No
+CS-0443,46,Hovedstaden,App,No,3,"1.340,94 kr.",7,No
+CS-0444,52,Midtjylland,Web,No,3,"510,88 kr.",7,Yes
+CS-0445,47,Sjælland,Web,Yes,2,"614,44 kr.",7,Yes
+CS-0445,47,Sjælland,Web,Yes,2,"614,44 kr.",7,Yes
+CS-0446,54,Nordjylland,App,No,1,"186,60 kr.",7,Ja
+CS-0447,68,Sjælland,Web,No,6,"3.383,28 kr.",5,Yes
+CS-0448,40,Midtjylland,App,No,1,"620,21 kr.",8,No
+CS-0449,37,Midtjylland,Web,No,1,"934,41 kr.",,Yes
+CS-0450,46,Midtjylland,App,No,1,"666,75 kr.",7,No
+CS-0451,34,Syddanmark,App,No,2,"1.590,10 kr.",8,Yes
+CS-0452,45,Region Sjælland,Web,No,3,"1.615,64 kr.",8,Yes
+CS-0453,50,Syddanmark,App,No,1,"640,50 kr.",6,No
+CS-0454,56,Capital Region,App,Yes,1,"476,61 kr.",8,Yes
+CS-0455,31,Hovedstaden,App,No,2,"821,29 kr.",2,No
+CS-0456,77,Sjælland,Web,No,1,"427,31 kr.",6,No
+CS-0457,34,Hovedstaden,Web,Yes,3,"1.435,47 kr.",9,Yes
+CS-0458,43,Region Nordjylland,Web,No,1,"205,34 kr.",,Yes
+CS-0459,30,Hovedstaden,App,Yes,3,"506,67 kr.",4,No
+CS-0460,59,Hovedstaden,Web,No,2,"965,64 kr.",6,Yes
+CS-0461,36,Syddanmark,Web,No,1,"537,51 kr.",,Yes
+CS-0462,35,Syddanmark,web,Yes,2,"1.195,25 kr.",7,No
+CS-0463,36,Capital Region,Web,Yes,3,"1.366,79 kr.",6,No
+CS-0464,39,Midtjylland,App,Yes,1,"218,49 kr.",9,Yes
+CS-0465,37,Sjælland,App,No,3,"1.347,50 kr.",4,Yes
+CS-0466,56,Hovedstaden,App,No,2,"1.313,20 kr.",6,No
+CS-0467,45,Hovedstaden,Web,No,3,"1.545,76 kr.",8,Yes
+CS-0468,,Hovedstaden,Web,no,2,"836,38 kr.",,Yes
+CS-0469,57,Syddanmark,Web,No,1,"266,92 kr.",,Yes
+CS-0470,45,Midtjylland,Web,Yes,3,"3.781,32 kr.",8,Yes
+CS-0471,47,Region Hovedstaden,Web,Yes,1,"396,81 kr.",5,No
+CS-0472,47,Hovedstaden,App,Yes,3,"1.578,80 kr.",7,Yes
+CS-0473,52,Sjælland,Web,No,3,"1.993,73 kr.",6,Y
+CS-0474,52,Hovedstaden,App,No,2,"980,72 kr.",6,No
+CS-0475,59,Nordjylland,Web,No,1,"437,00 kr.",6,Yes
+CS-0476,52,Midtjylland,Web,No,1,"300,20 kr.",8,Yes
+CS-0477,44,Midtjylland,Web,No,2,"394,98 kr.",,Yes
+CS-0478,55,Hovedstaden,App,Yes,3,"2.998,33 kr.",4,No
+CS-0479,51,Midtjylland,Web,Yes,2,"714,14 kr.",8,Yes
+CS-0480,21,Sjælland,Web,No,2,"1.286,05 kr.",,No
+CS-0481,31,Syddanmark,App,No,2,"1.189,00 kr.",8,Yes
+CS-0482,26,Syddanmark,App,No,3,"1.177,19 kr.",8,No
+CS-0483,24,Midtjylland,App,No,2,"1.414,42 kr.",5,No
+CS-0484,37,Midtjylland,App,No,1,"258,84 kr.",5,No
+CS-0485,50,Hovedstaden,App,No,2,"219,99 kr.",6,Nej
+CS-0485,50,Hovedstaden,App,No,2,"219,99 kr.",6,Nej
+CS-0486,58,Midtjylland,App,No,1,"330,38 kr.",5,No
+CS-0487,56,Central Denmark,Web,No,3,"658,53 kr.",8,Y
+CS-0488,57,Syddanmark,App,Yes,3,"3.196,91 kr.",10,Yes
+CS-0489,56,Sjælland,Web,Yes,3,"2.648,48 kr.",9,N
+CS-0490,69,Midtjylland,App,Yes,5,"1.228,44 kr.",9,Yes
+CS-0491,41,Midtjylland,App,Yes,1,"351,15 kr.",7,Yes
+CS-0492,33,Hovedstaden,App,No,2,"983,91 kr.",5,yes
+CS-0493,46,Hovedstaden,Web,Yes,1,"1.415,67 kr.",-1,No
+CS-0494,68,Hovedstaden,Web,Yes,1,"699,08 kr.",,Yes
+CS-0495,45,Hovedstaden,Web,No,3,"1.409,41 kr.",8,Yes
+CS-0496,60,Hovedstaden,App,No,2,"511,78 kr.",,Yes
+CS-0497,55,Hovedstaden,Web,Yes,5,"2.377,25 kr.",8,Yes
+CS-0498,,Midtjylland,App,No,3,"1.921,24 kr.",-1,Nej
+CS-0499,57,Hovedstaden,App,No,1,"374,84 kr.",,No
+CS-0500,18,Nordjylland,App,Yes,5,"3.960,66 kr.",7,Yes
+CS-0501,40,Midtjylland,App,Yes,4,"1.732,78 kr.",9,Yes
+CS-0502,32,Region Hovedstaden,App,No,2,"861,94 kr.",10,Yes
+CS-0503,75,Hovedstaden,App,Yes,4,"2.521,46 kr.",6,No
+CS-0504,41,Nordjylland,Web,No,2,"372,67 kr.",6,No
+CS-0505,50,Syddanmark,App,No,3,"2.619,38 kr.",9,Yes
+CS-0506,33,Syddanmark,App,No,1,"239,76 kr.",5,No
+CS-0507,36,Syddanmark,App,Yes,2,"813,93 kr.",10,Yes
+CS-0508,34,Sjælland,App,Yes,4,"1.327,51 kr.",10,Yes
+CS-0509,24,Capital Region,Web,No,1,"472,67 kr.",6,Yes
+CS-0510,50,Hovedstaden,Web,No,2,"759,65 kr.",8,Yes
+CS-0511,48,Hovedstaden,App,Yes,5,"3.591,47 kr.",-1,Yes
+CS-0512,35,Hovedstaden,App,Yes,2,"1.130,80 kr.",9,Yes
+CS-0513,53,Southern Denmark,App,Yes,3,"1.770,36 kr.",8,Yes
+CS-0514,41,Syddanmark,App,Yes,5,"1.131,38 kr.",7,Yes
+CS-0515,34,Syddanmark,App,Yes,4,"2.709,33 kr.",9,Yes
+CS-0516,73,Hovedstaden,Web,Yes,3,"1.801,53 kr.",8,Yes
+CS-0517,33,Nordjylland,Web,No,3,"3.151,63 kr.",10,Yes
+CS-0518,54,Nordjylland,App,No,1,"904,89 kr.",,Yes
+CS-0519,61,Syddanmark,App,No,3,"595,44 kr.",5,No
+CS-0520,48,hovedstaden,App,Yes,1,"279,14 kr.",,No
+CS-0521,19,Midtjylland,App,No,2,"1.223,48 kr.",9,Yes
+CS-0522,44,Syddanmark,Web,No,3,"3.115,85 kr.",,No
+CS-0523,31,Midtjylland,Web,yes,3,"1.966,50 kr.",8,Yes
+CS-0524,43,Midtjylland,Web,Yes,1,"303,74 kr.",6,Yes
+CS-0525,64,Hovedstaden,App,Yes,4,"3.563,28 kr.",-1,Yes
+CS-0526,42,Syddanmark,Web,No,1,"461,46 kr.",6,Yes
+CS-0527,44,Sjælland,App,No,4,"1.193,95 kr.",9,Yes
+CS-0528,48,Hovedstaden,Web,Yes,2,"351,41 kr.",7,No
+CS-0529,25,Hovedstaden,App,No,5,"33.291,00 kr.",7,Yes
+CS-0530,48,Syddanmark,App,Yes,4,"2.020,09 kr.",8,No
+CS-0531,33,Hovedstaden,Web,No,4,"698,69 kr.",3,No
+CS-0532,21,Syddanmark,Web,Yes,4,"4.906,62 kr.",6,Yes
+CS-0533,44,Nordjylland,App,No,2,"748,76 kr.",,Yes
+CS-0534,51,Hovedstaden,App,No,3,"994,58 kr.",7,Yes
+CS-0535,31,Region Syddanmark,App,Yes,2,"722,11 kr.",10,No
+CS-0536,43,Nordjylland,App,No,1,"266,70 kr.",7,Yes
+CS-0537,2008,Hovedstaden,App,Yes,6,"1.748,02 kr.",8,Yes
+CS-0538,48,Nordjylland,Web,No,2,"1.827,24 kr.",10,Yes
+CS-0539,37,Sjælland,Web,No,2,"645,98 kr.",6,No
+CS-0540,47,Hovedstaden,App,yes,5,"3.236,78 kr.",8,Y
+CS-0541,37,Hovedstaden,App,No,2,"1.240,21 kr.",9,Yes
+CS-0542,39,Hovedstaden,Web,Yes,3,"2.561,57 kr.",7,No
+CS-0543,50,Midtjylland,Web,Yes,3,"1.445,00 kr.",8,No
+CS-0544,58,Midtjylland,App,No,5,"2.315,44 kr.",9,Yes
+CS-0545,54,Midtjylland,App,Yes,3,"2.524,82 kr.",8,no
+CS-0546,39,Hovedstaden,Web,No,2,"1.113,11 kr.",6,No
+CS-0547,66,Syddanmark,APP,No,2,"827,84 kr.",7,No
+CS-0548,55,Sjælland,App,No,2,"1.252,68 kr.",6,Yes
+CS-0549,,Hovedstaden,App,Yes,2,"809,23 kr.",7,Yes
+CS-0550,41,Sjælland,Web,no,3,"1.046,41 kr.",6,No
+CS-0551,61,Sjælland,App,No,2,"733,99 kr.",9,Yes
+CS-0552,42,Region Hovedstaden,Web,No,1,"1.335,57 kr.",,Yes
+CS-0553,52,Nordjylland,Web,Yes,5,"2.717,85 kr.",8,Yes
+CS-0554,53,Midtjylland,Web,Yes,1,"539,21 kr.",6,Yes
+CS-0555,45,Hovedstaden,App,Yes,3,"2.004,75 kr.",8,Yes
+CS-0555,45,Hovedstaden,App,Yes,3,"2.004,75 kr.",8,Yes
+CS-0556,57,Hovedstaden,Web,No,1,"300,78 kr.",7,No
+CS-0557,32,Syddanmark,App,No,1,"539,10 kr.",3,No
+CS-0558,41,Midtjylland,App,No,1,"455,51 kr.",,No
+CS-0559,53,Hovedstaden,APP,No,1,"419,21 kr.",-1,Yes
+CS-0560,52,Midtjylland,App,Yes,2,"433,26 kr.",6,Yes
+CS-0561,64,Hovedstaden,App,No,1,"1.362,30 kr.",8,Yes
+CS-0562,37,Hovedstaden,Web,No,2,"1.317,39 kr.",9,Yes
+CS-0563,76,Syddanmark,App,No,3,"26.245,80 kr.",8,Yes
+CS-0564,,Hovedstaden,App,No,1,"422,93 kr.",,Y
+CS-0565,29,Midtjylland,Web,Yes,2,"1.035,86 kr.",-1,No
+CS-0566,43,Nordjylland,Web,Yes,2,"1.559,53 kr.",8,Yes
+CS-0567,51,Hovedstaden,App,Y,4,"1.779,03 kr.",6,No
+CS-0568,31,Syddanmark,App,No,2,"561,43 kr.",6,Yes
+CS-0569,34,Midtjylland,Web,No,1,"662,90 kr.",6,No
+CS-0570,58,Midtjylland,Web,Yes,1,"353,10 kr.",10,Yes
+CS-0571,66,Region Sjælland,Web,No,4,"2.764,88 kr.",8,Yes
+CS-0572,19,Hovedstaden,App,Yes,5,"1.745,45 kr.",10,Yes
+CS-0573,18,Hovedstaden,App,Yes,1,"207,33 kr.",6,Yes
+CS-0574,42,Nordjylland,Web,Yes,7,"6.528,73 kr.",,Yes
+CS-0575,55,Hovedstaden,Web,Yes,1,"234,16 kr.",5,No
+CS-0576,59,Syddanmark,App,No,2,"1.075,69 kr.",6,no
+CS-0577,1969,Hovedstaden,App,Yes,2,"696,40 kr.",8,Nej
+CS-0578,21,Hovedstaden,Web,Yes,2,"993,69 kr.",7,yes
+CS-0579,44,Hovedstaden,App,No,2,"750,88 kr.",6,Yes
+CS-0580,37,Hovedstaden,App,No,1,"287,19 kr.",6,No
+CS-0581,45,Hovedstaden,App,No,4,"1.275,91 kr.",9,No
+CS-0582,29,Nordjylland,Web,No,1,"597,82 kr.",6,No
+CS-0583,34,Syddanmark,App,No,1,"584,03 kr.",8,Yes
+CS-0584,50,Hovedstaden,App,Yes,1,"598,75 kr.",7,No
+CS-0585,48,Hovedstaden,Web,No,3,"1.519,96 kr.",7,No
+CS-0586,21,Sjælland,Web,Yes,3,"682,65 kr.",9,Yes
+CS-0587,45,Syddanmark,App,Yes,3,"1.355,03 kr.",7,No
+CS-0588,36,Hovedstaden,App,No,1,"318,30 kr.",6,No
+CS-0589,52,Region Syddanmark,Web,Yes,2,"867,91 kr.",,Yes
+CS-0590,43,Syddanmark,Web,Yes,2,"1.367,00 kr.",4,Yes
+CS-0591,49,Region Syddanmark,App,Yes,3,"1.416,77 kr.",7,Yes
+CS-0592,58,Sjælland,App,No,2,"712,97 kr.",6,No
+CS-0593,55,Hovedstaden,App,No,4,"4.189,95 kr.",4,No
+CS-0594,58,Syddanmark,App,Yes,3,"2.097,73 kr.",8,Y
+CS-0595,48,Capital Region,Web,No,2,"840,56 kr.",-1,Yes
+CS-0596,25,Hovedstaden,Web,Yes,2,"1.078,92 kr.",4,Yes
+CS-0597,26,Syddanmark,app,Yes,2,"1.564,57 kr.",9,Yes
+CS-0598,44,Midtjylland,Web,Yes,2,"871,21 kr.",5,No
+CS-0599,46,Sjælland,Web,No,1,"751,51 kr.",9,No
+CS-0600,51,Hovedstaden,App,No,3,"1.750,06 kr.",9,No
+CS-0600,51,Hovedstaden,App,No,3,"1.750,06 kr.",9,No
