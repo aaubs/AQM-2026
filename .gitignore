@@ -11,8 +11,8 @@ requirements.txt
 setup.sh
 .venv
 *.pptx
-*_solutions.ipynb
 *.pdf
 
 # GitHub configuration files and workflows
-.github/ 
+.github/
+solutions/
