@@ -1,6 +1,6 @@
 # Course data
 
-RetailCorp is a fictional Danish online retailer of home and kitchen goods. It ships orders to customers across Denmark from two warehouses, in Aarhus and Copenhagen, using two parcel carriers. Lectures 1 to 4 follow RetailCorp through questions about delivery times, late deliveries, basket values, customer satisfaction and a newsletter test. The folder also holds one public dataset, an airline passenger survey, used from Lecture 3.
+RetailCorp is a fictional Danish online retailer of home and kitchen goods. It ships orders to customers across Denmark from two warehouses, in Aarhus and Copenhagen, using two parcel carriers. Lectures 1 to 4 follow RetailCorp through questions about delivery times, late deliveries, basket values, customer satisfaction and a newsletter test, and Lectures 6 to 9 through questions about what customers spend and which customers stop buying. The folder also holds one public dataset, an airline passenger survey, used from Lecture 3.
 
 The company and all its data are invented. We simulated the data so that every number in the course can be reproduced and checked. Because we simulated all orders, and not only a sample, Lecture 1 can compare sample results with the true values for the whole population. With real data that is almost never possible, since the population is unknown.
 
@@ -17,6 +17,8 @@ The files for Lectures 1 to 4 are clean: there are no missing or impossible valu
 | `airline_survey.csv` | 25,976 | Airline passenger satisfaction survey (public data, see below) | Lecture 3 |
 | `orders_export.csv` | 209 | The raw export behind the 200 sampled orders, from two order systems (messy) | Lecture 5 |
 | `customer_survey.csv` | 612 | Customer survey linked to purchases (messy) | Workshop 5 |
+| `customers_population.csv` | 60,000 | All customers with an account before 2025 who ordered in 2025 (the population) | Lecture 6 |
+| `customers_sample.csv` | 1,000 | A simple random sample of customers from the population | Lecture 6 |
 
 ## Loading a file
 
@@ -115,3 +117,19 @@ In September 2026 RetailCorp invited 1,500 customers, drawn at random from the c
 | `spend_h1` | Total spend in DKK, January to June 2026, as exported from the shop system |
 | `satisfaction` | "How satisfied are you with RetailCorp?", 0 to 10. "Don't know" is recorded as −1; empty if the question was skipped |
 | `recommend` | "Would you recommend RetailCorp to a friend?" |
+
+## Customers (`customers_population.csv` and `customers_sample.csv`, Lectures 6 to 9)
+
+RetailCorp wants to understand what goes with how much a customer spends in a year, and which customers stop buying. The population is every customer who had an account before 1 January 2025 and ordered at least once in 2025: 60,000 customers. Lectures 6 to 9 use a simple random sample of 1,000 of them. As with the orders, we simulated the whole population, so the lectures can draw repeated samples from it; with real data that is not possible. The files are clean.
+
+| Column | Type | Description |
+|---|---|---|
+| `customer_id` | text | Customer number, "CU-00001" and upwards |
+| `age` | number | Age in years on 1 January 2025 |
+| `region` | text | Danish region of the customer |
+| `channel` | text | Where the customer shopped most often in 2025: "App" or "Web" |
+| `member` | 0 or 1 | 1 if the customer was a member of the loyalty club on 1 January 2025 |
+| `tenure_years` | number | Years since the customer's first order, on 1 January 2025 |
+| `visits_2025` | number | Logged-in visits to the shop (app or website) in 2025 |
+| `spend_2025` | number | Total spend in DKK in 2025 |
+| `churned` | 0 or 1 | 1 if the customer placed no order in January to June 2026 |

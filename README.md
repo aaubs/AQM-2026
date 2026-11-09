@@ -10,14 +10,16 @@ All notebooks open in Google Colab from the links below. To keep your own change
 |---|---|---|---|
 | 1 | Sampling distributions | [lecture01.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture01/lecture01.ipynb) | [workshop01.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture01/workshop01.ipynb) |
 | 2 | Confidence intervals | [lecture02.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture02/lecture02.ipynb) | [workshop02.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture02/workshop02.ipynb) |
-| 3 | Hypothesis tests | [lecture03.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture03/lecture03.ipynb) | [workshop03.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture03/workshop03.ipynb), and extra exercises in the style of the textbook: [03_workshop-book.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture03/03_workshop-book.ipynb) |
-| 4 | Comparing two groups | [lecture04.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture04/lecture04.ipynb) | [workshop04.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture04/workshop04.ipynb) |
+| 3 | Hypothesis tests | [lecture03.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture03/lecture03.ipynb) | [workshop03.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture03/workshop03.ipynb), and extra exercises in the style of the textbook: [book_exercises03.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture03/book_exercises03.ipynb) |
+| 4 | Comparing two groups | [lecture04.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture04/lecture04.ipynb) | [workshop04.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture04/workshop04.ipynb), and extra exercises: [book_exercises04.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture04/book_exercises04.ipynb) |
+| 5 | Messy and missing data | [lecture05.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture05/lecture05.ipynb) | [workshop05.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture05/workshop05.ipynb), and extra exercises: [book_exercises05.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture05/book_exercises05.ipynb) |
+| 6 | Simple linear regression | [lecture06.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture06/lecture06.ipynb) | [workshop06.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/lecture06/workshop06.ipynb) |
 
 The lecture notebook holds the exercises we do during the lecture and all calculations from the slides. In the workshop notebook you write the code yourselves. Solutions to the workshop are added to the session's folder after the session.
 
 ## Data
 
-The data are in the `data` folder and are described in [data/README.md](data/README.md): simulated data from RetailCorp, a fictional online retailer, used in Lectures 1 to 4, and from Lecture 3 a public airline passenger survey. The notebooks load them directly from this repository, so you do not need to download anything.
+The data are in the `data` folder and are described in [data/README.md](data/README.md): simulated data from RetailCorp, a fictional online retailer, used from Lecture 1, and a public airline passenger survey used from Lecture 3. The notebooks load them directly from this repository, so you do not need to download anything.
 
 ## Python refresher
 
