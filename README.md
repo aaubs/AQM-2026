@@ -17,9 +17,13 @@ All notebooks open in Google Colab from the links below. To keep your own change
 
 The lecture notebook holds the exercises we do during the lecture and all calculations from the slides. In the workshop notebook you write the code yourselves. Solutions to the workshop are added to the session's folder after the session.
 
+## Exam assignment
+
+The exam assignment is in [exam_assignment.ipynb](https://colab.research.google.com/github/aaubs/AQM-2026/blob/main/exam/exam_assignment.ipynb). Save a copy in your Google Drive before you start. Each group hands in the completed notebook in Digital Eksamen by 13 January 2027.
+
 ## Data
 
-The data are in the `data` folder and are described in [data/README.md](data/README.md): simulated data from RetailCorp, a fictional online retailer, used from Lecture 1, and a public airline passenger survey used from Lecture 3. The notebooks load them directly from this repository, so you do not need to download anything.
+The data are in the `data` folder and are described in [data/README.md](data/README.md): simulated data from RetailCorp, a fictional online retailer, used from Lecture 1, a public airline passenger survey used from Lecture 3, and the data for the exam assignment. The notebooks load them directly from this repository, so you do not need to download anything.
 
 ## Python refresher
 
