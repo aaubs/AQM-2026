@@ -133,3 +133,80 @@ RetailCorp wants to understand what goes with how much a customer spends in a ye
 | `visits_2025` | number | Logged-in visits to the shop (app or website) in 2025 |
 | `spend_2025` | number | Total spend in DKK in 2025 |
 | `churned` | 0 or 1 | 1 if the customer placed no order in January to June 2026 |
+
+
+
+## employee_wages_dk.csv: private-sector employees in Denmark
+- `wage`: monthly salary before tax, DKK
+- `educ`: years of education
+- `exper`: years of labour-market experience
+- `tenure`: years with the current employer
+- `married`: 1 if married or cohabiting
+- `immigrant`: 1 if the employee has a non-Western immigrant background
+- `north`: 1 if living in North or West Jutland
+- `urban`: 1 if living in a city with more than 50,000 inhabitants
+
+## football_salaries.csv: first-division footballers
+- `salary`: annual salary, EUR
+- `years`: seasons as a professional
+- `gamesyr`: games per season
+- `goalsyr`, `assistsyr`: goals and assists per season
+- `keypassyr`, `tacklesyr`: key passes and tackles per season
+- `passpct`: pass completion, %
+- `natteam`: % of seasons called up to the national team
+- `position`: position as a text label
+- `goalkeeper`, `centreback`, `fullback`, `defmid`, `attmid`, `winger`: position dummies (forwards are the base group)
+
+## university_gpa.csv: first-year university students
+- `colgpa`: grade point average after the first year, 0–4
+- `hsize`: size of the high-school graduating class, in hundreds
+- `hsperc`: high-school class rank, percentile from the top
+- `admtest`: national admission test score, 500–1600
+- `female`: 1 if female
+- `athlete`: 1 if in the elite-sport programme
+
+## sleep_work_time.csv: time-use survey
+- `sleep`: minutes of night sleep per week
+- `totwrk`: minutes of paid work per week
+- `educ`: years of education
+- `age`: age in years
+- `yngkid`: 1 if there is a child under 3 in the household
+- `male`: 1 if male
+
+## service_wages_gender.csv: shop and hospitality workers
+- `wage`: hourly wage, DKK
+- `female`: 1 if female
+- `educ`: years of education
+- `exper`: years of potential experience
+- `tenure`: years with the current employer
+
+## business_loans.csv: small-business loan applications
+- `approve`: 1 if the loan was approved
+- `majority`: 1 if the owner belongs to the majority group, 0 if minority
+- `payratio`: loan repayments as % of the business's income
+- `otheroblig`: other obligations as % of income
+- `loanprc`: loan amount divided by the value of the collateral
+- `unem`: unemployment rate in the business's sector, %
+- `male`, `married`: 1 if the owner is male / married
+- `dep`: number of dependants
+- `degree`: 1 if the owner has a university degree
+- `cosign`: 1 if the loan has a co-signer
+- `goodcredit`: 1 if the owner has a good credit history
+- `pubrec`: 1 if there is a public record of a past default
+- `late1`, `late2`: 1 if one / two or more late payments on earlier loans
+- `highrisk`: 1 if the bank classifies the sector as high-risk
+
+## pension_eligibility.csv: households and employer pension schemes
+- `eligible`: 1 if eligible for an employer-sponsored pension scheme
+- `inc`: annual household income, thousand EUR
+- `age`: age of the main earner
+- `male`: 1 if the main earner is a single male
+- `privpen`: 1 if the household has a private pension savings account
+
+## basketball_players.csv: European basketball league
+- `points`, `assists`: points and assists per game, career average
+- `exper`: years as a professional
+- `age`: age in years
+- `position`: guard, forward or center
+- `guard`, `forward`, `center`: position dummies
+- `marr`: 1 if married
