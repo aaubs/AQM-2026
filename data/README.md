@@ -19,6 +19,7 @@ The files for Lectures 1 to 4 are clean: there are no missing or impossible valu
 | `customer_survey.csv` | 612 | Customer survey linked to purchases (messy) | Workshop 5 |
 | `customers_population.csv` | 60,000 | All customers with an account before 2025 who ordered in 2025 (the population) | Lecture 6 |
 | `customers_sample.csv` | 1,000 | A simple random sample of customers from the population | Lecture 6 |
+| `sme_ai_survey.csv` | 2,024 | Survey of Danish SMEs on the use of AI tools, linked to annual accounts (messy) | Exam assignment |
 
 ## Loading a file
 
@@ -135,7 +136,6 @@ RetailCorp wants to understand what goes with how much a customer spends in a ye
 | `churned` | 0 or 1 | 1 if the customer placed no order in January to June 2026 |
 
 
-
 ## employee_wages_dk.csv: private-sector employees in Denmark
 - `wage`: monthly salary before tax, DKK
 - `educ`: years of education
@@ -210,3 +210,7 @@ RetailCorp wants to understand what goes with how much a customer spends in a ye
 - `position`: guard, forward or center
 - `guard`, `forward`, `center`: position dummies
 - `marr`: 1 if married
+
+## Exam assignment data (`sme_ai_survey.csv`)
+
+The data for the exam assignment. The business development agency and the firms are invented, and the data are simulated for the course, so the results say nothing about real Danish firms. The file is raw, as the agency received it: it has not been checked or cleaned, and finding and handling its problems is part of the assignment. The case and the variables are described in the assignment notebook, [exam_assignment.ipynb](../exam/exam_assignment.ipynb).

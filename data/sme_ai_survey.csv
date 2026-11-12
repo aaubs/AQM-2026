@@ -1,0 +1,2025 @@
+firm_id,region,sector,employees,firm_age,manager_degree,digital_maturity,course,ai_adopted,productivity_2023,productivity_2025
+F-0698,Midtjylland,construction,5,25,Yes,4,0,No,362.1,367.2
+F-1156,Hovedstaden,Business services,2,19,Yes,4,0,No,464.5,568.8
+F-0111,Hovedstaden,Retail and wholesale,32,26,Yes,6,1,Yes,736.2,876.5
+F-1035,Syddanmark,hospitality,9,7,No,5,1,No,408.4,377.4
+F-1709,Syddanmark,Manufacturing,8,18,No,8,0,No,"1.610,5",1705.0
+F-0589,Midtjylland,Manufacturing,5,7,No,5,0,No,1261.9,1114.4
+F-1529,Midtjylland,Business services,9,15,No,5,1,Yes,512.9,587.1
+F-1135,Nordjylland,Construction,2,8,No,3,0,No,836.1,1089.1
+F-0586,Syddanmark,Construction,7,55,No,5,0,No,586.0,939.1
+F-0912,Midtjylland,Manufacturing,16,14,No,4,0,Yes,1543.7,2003.5
+F-1465,Midtjylland,Hospitality,4,9,No,5,0,Yes,404.8,320.8
+F-1618,Midtjylland,Construction,61,45,No,5,0,No,863.7,994.7
+F-0926,Midtjylland,Construction,1,24,No,5,0,No,514.4,586.7
+F-1724,Syddanmark,ICT,9,11,Yes,4,0,No,1098.4,1057.0
+F-1199,Midtjylland,Business services,51,8,Yes,8,0,Yes,1149.5,1299.2
+F-1789,Syddanmark,Construction,8,17,No,6,0,No,1146.6,1396.3
+F-1491,Nordjylland,manufacturing,8,25,No,99,0,No,677.1,741.9
+F-1978,Sjælland,Retail and wholesale,4,12,Yes,6,1,Yes,1691.1,1545.5
+F-1599,Midtjylland,retail and wholesale,9,5,Yes,7,0,No,876.7,
+F-0977,Syddanmark,Hospitality,21,10,Yes,6,0,No,370.0,484.8
+F-0908,Hovedstaden,Retail and wholesale,44,42,No,8,0,Yes,1277.9,1343.4
+F-1662,Syddanmark,ICT,1,8,Yes,6,0,Yes,"710,6 t.kr.",866.2
+F-1070,Midtjylland,ICT,11,22,Yes,5,0,No,"506,2",437.3
+F-0772,Midtjylland,Manufacturing,22,15,No,5,0,Yes,1173.8,1291.9
+F-1431,Syddanmark,Construction,5,12,No,4,0,No,486.3,570.2
+F-1525, Hovedstaden,Manufacturing,15,12,Yes,9,1,Yes,"583,2",762.7
+F-1153,North Denmark,Retail and wholesale,4,21,No,3,0,Y,1069.8,1179.2
+F-1735,Capital Region,Retail and wholesale,8,28,Yes,4,1,No,1273.9,1377.6
+F-1952,Sjælland,Retail and wholesale,11,15,No,5,0,yes,1486.0,1658.8
+F-0782,Nordjylland,Retail and wholesale,4,30,No,4,0,No,1064.1,1020.8
+F-0028,Syddanmark,Retail and wholesale,7,10,Yes,4,0,No,1567.6,1856.5
+F-0735,Nordjylland,Construction,55,13,Yes,7,0,YES,1574.4,1774.8
+F-0348,Midtjylland,Construction,12,,Yes,4,0,No,"1.759,1 t.kr.",2125.6
+F-1777,Midtjylland,Hospitality,16,16,Yes,5,0,Yes,527.9,
+F-1207,Sjælland,ICT,7,9,Yes,8,0,Yes,650.1,700.8
+F-0068,Sjælland,Retail and wholesale,3,4,No,7,0,No,955.4,944.1
+F-1802,Hovedstaden,Business services,4,13,Yes,7,0,No,"1.156,5",1348.2
+F-0569,Hovedstaden,Manufacturing,14,10,No,5,0,No,"973,8",1100.9
+F-0987,Sjælland,Construction,12,8,No,6,0,Yes,873.0,1005.4
+F-1651,Hovedstaden,ICT,7,,Yes,4,0,Yes,961.0,1322.3
+F-0229,Midtjylland,Manufacturing,2,18,Yes,3,0,No,351.6,383.9
+F-0599,Midtjylland,Manufacturing,80,14,Yes,7,1,Yes,"838,2",968.5
+F-0554,Hovedstaden,ICT,3,8,No,5,0,No,908.7,812.1
+F-1766,Hovedstaden,Manufacturing,8,8,No,7,0,Yes,665.9,617.1
+F-1480,syddanmark,ICT,14,7,Yes,5,0,Yes,"624,6",755.6
+F-0451,Capital Region,Manufacturing,2,17,Yes,6,0,No,985.1,906.0
+F-1939,Hovedstaden,Retail and wholesale,10,16,No,4,0,No,1398.6,1434.9
+F-0094,Syddanmark,Business services,8,21,No,5,0,No,"735,4",941.7
+F-0008,Syddanmark,Retail and wholesale,16,14,No,5,0,NO,"506,6",562.3
+F-0762,Region Midtjylland,Retail and wholesale,77,13,Yes,2,0,No,826.4,950.2
+F-0196,Sjælland,Manufacturing,25,11,Yes,3,0,No,1051.1,1000.5
+F-0365,Midtjylland,Retail and wholesale,23,19,Yes,7,1,Yes,672.9,804.5
+F-1418,Hovedstaden,Business services,7,13,Yes,10,0,Yes,"703,6",866.5
+F-0568,Midtjylland,Construction,10,54,Yes,6,0,Yes,"1.387,9",1657.8
+F-1818,Syddanmark,Business services,11,5,Yes,5,0,No,1293.2,1469.9
+F-0135,Hovedstaden,Hotels and restaurants,3,7,No,5,0,No,775.6,570.2
+F-0242,Syddanmark,Construction,24,3,No,6,0,No,508.5,459.9
+F-1052,Hovedstaden,Retail and wholesale,59,21,No,7,0,No,"737,6",970.2
+F-0132,Nordjylland,Retail and wholesale,14,13,Yes,4,0,Yes,991.2,1328.5
+F-0543,Syddanmark,Business services,2,11,Yes,6,0,No,821.7,813.6
+F-1864,Region Hovedstaden,Construction,2,,No,4,0,No,"761,1",757.2
+F-1064, Hovedstaden,Retail and wholesale,8,6,Yes,3,1,Yes,1197.4,1644.0
+F-1108,Syddanmark,ICT,3,10,No,4,0,No,1032.8,1166.4
+F-1351,Syddanmark,Retail and wholesale,75,7,Yes,7,0,No,"1.734,7",2312.6
+F-0195,Syddanmark,Construction,15,22,Yes,3,0,No,565.2,651.6
+F-1652,Hovedstaden,Retail and wholesale,2,26,No,6,0,No,2501.5,2343.2
+F-0243,Sjælland,Hospitality,9,15,No,3,1,No,421.5,419.7
+F-0783,Nordjylland,Business services,17,15,Yes,8,0,Yes,944.9,1410.3
+F-0017,Syddanmark,Hospitality,10,,No,8,0,Yes,334.5,368.1
+F-1672, Hovedstaden,Hospitality,6,44,No,3,0,No,615.4,872.0
+F-0418,Syddanmark,Retail and wholesale,6,12,No,6,0,No,1147.7,1451.7
+F-1743,Nordjylland,Hospitality,4,48,No,4,0,No,207.3,
+F-0252,midtjylland,Construction,4,11,No,4,0,No,242.2,316.9
+F-0994,Syddanmark,Construction,11,8,Yes,6,0,Yes,"614,7",725.5
+F-1916,Sjælland,ICT,6,16,Yes,5,0,No,"431,2",451.0
+F-1848,Sjælland,construction,18,12,Yes,8,0,No,1318.1,1264.6
+F-1090,Hovedstaden,Hospitality,51,20,No,4,0,No,548.6,878.4
+F-0947,Syddanmark,Retail and wholesale,14,12,No,6,0,No,1403.0,1589.4
+F-0778,Nordjylland,construction,36,42,No,6,1,No,565.3,662.7
+F-0300,Hovedstaden,Manufacturing,10,14,No,3,0,No,744.2,835.3
+F-0613,Nordjylland,Business services,7,,Yes,5,0,Yes,521.7,616.4
+F-0336,Hovedstaden,Hospitality,13,7,Yes,3,1,Yes,631.5,514.6
+F-0203,Syddanmark,Business services,3,24,Yes,5,0,Yes,492.7,604.9
+F-0386, Hovedstaden,Hospitality,13,10,Yes,6,0,Yes,547.2,704.1
+F-1858,syddanmark,construction,24,13,No,3,0,No,"498,5",432.5
+F-0898,Midtjylland,Retail and wholesale,4,8,Yes,4,0,No,1010.3,1163.1
+F-1118,Hovedstaden,Retail and wholesale,25,28,Yes,4,0,Yes,1630.2,1665.6
+F-1157,Syddanmark,construction,11,30,No,4,0,Yes,"745,7",907.9
+F-1592,Hovedstaden,Construction,18,25,No,4,1,No,"798,5",977.9
+F-0086,Nordjylland,Manufacturing,7,40,No,3,0,No,1245.9,1249.2
+F-1240,Syddanmark,Business services,19,23,No,5,1,Yes,844.5,1154.0
+F-1748,Sjælland,Manufacturing,8,15,Yes,1,0,Yes,479.6,603.3
+F-0218,Midtjylland,Business services,12,7,Yes,6,1,Yes,672.0,982.1
+F-1413,Region Hovedstaden,Manufacturing,2,19,Yes,4,0,No,"1.391,8",1280.5
+F-1275,Midtjylland,Hospitality,11,28,No,6,0,No,326.1,321.3
+F-1664,Hovedstaden,Hospitality,6,13,Yes,6,0,Yes,419.2,464.0
+F-1795,Hovedstaden,Retail and wholesale,12,8,No,5,0,No,574.1,667.1
+F-0049,Midtjylland,Manufacturing,11,48,Yes,99,0,Yes,1233.8,1720.7
+F-1794,Sjælland,Manufacturing,3,8,No,6,0,No ,475.3,428.0
+F-0629,Hovedstaden,Retail and wholesale,9,14,No,6,0,Yes,"639,8",947.0
+F-1772,Sjælland,Construction,3,14,Yes,10,0,No,581.3,582.2
+F-0646,Syddanmark,Retail and wholesale,10,14,No,3,0,No,539.5,524.7
+F-1917,Sjælland,Retail and wholesale,6,29,No,5,0,No,752.5,740.3
+F-0937,Syddanmark,Business services,22,10,Yes,4,0,No,679.0,624.5
+F-0592,Capital Region,Business services,7,12,Yes,99,1,Yes,647.0,908.7
+F-1016,Hovedstaden,Construction,3,20,No,7,0,No,613.3,619.1
+F-0330,Midtjylland,Retail and wholesale,1,15,No,4,0,No,"916,0",
+F-0902,Nordjylland,Hospitality,28,13,Yes,4,0,Yes,1009.2,780.6
+F-1983,Sjælland,Construction,3,11,No,6,0,No,1094.0,1075.1
+F-0879,Sjælland,Manufacturing,11,14,No,5,0,No,"723,7",806.9
+F-0970,Sjælland,Manufacturing,38,8,Yes,99,0,Yes,667.1,924.4
+F-0393,Midtjylland,Business services,12,7,Yes,5,0,Yes,699.5,953.6
+F-0426,Hovedstaden,ICT,5,11,Yes,7,0,Yes,"809,2",890.7
+F-0279,Midtjylland,Construction,4,6,No,2,1,No,369.5,349.1
+F-0810,Syddanmark,Hospitality,18,14,No,5,0,No,549.2,623.8
+F-0440,Midtjylland,Construction,2,24,No,6,0,No,977.0,938.7
+F-1282,Sjælland,Retail and wholesale,45,18,No,4,0,No,1102.1,1165.7
+F-1347,Syddanmark,Construction,10,31,Yes,5,0, Yes,"855,4",803.3
+F-0855,Hovedstaden,Retail and wholesale,40,21,No,9,0,No,626.5,671.7
+F-1931,Zealand,Retail and wholesale,9,8,No,99,0,No,"1.498,1",1684.9
+F-0469,Midtjylland,Business Services,23,30,Yes,5,0,Yes,"1.465,5",1932.8
+F-1368,Hovedstaden,ict,33,23,Yes,8,0,Yes,988.6,1379.9
+F-1980,Sjælland,Retail and wholesale,7,23,No,4,0,No,1226.2,1450.4
+F-0808,Midtjylland,Hospitality,7,10,No,4,0,No,549.7,647.5
+F-0309,Hovedstaden,Business services,3,,Yes,4,0,No,"489,4",412.5
+F-0779,North Denmark,Business services,8,16,No,1,0,No,336.2,334.4
+F-1715,Syddanmark,Retail and wholesale,3,10,No,3,0,No,"951,2",1020.7
+F-1036,Syddanmark,Business services,10,17,Yes,9,0,Yes,"982,6",1185.9
+F-1500,Hovedstaden,construction,6,45,No,1,0,No,465.3,549.5
+F-0402,Midtjylland,ICT,3,21,No,5,0,Yes,421.3,590.9
+F-0576,hovedstaden,manufacturing,5,5,Yes,5,0,No,679.8,609.4
+F-0046,Syddanmark,Hospitality,3,15,No,7,1,No,329.6,476.8
+F-0291,Hovedstaden,Construction,8,10,No,5,0,N,603.4,583.1
+F-1003,Midtjylland,Retail and wholesale,2,22,No,2,0,No,483.9,521.8
+F-0459,Midtjylland,Construction,1,6,No,5,0,No,"353,6",370.0
+F-0387,Midtjylland,Retail and wholesale,9,6,No,6,0,Yes,710.3,868.9
+F-1113,Hovedstaden,Hospitality,13,14,No,3,0,No,652.2,663.1
+F-1149,Sjælland,Retail and wholesale,11,18,No,4,1,No,404.9,377.5
+F-0384,Syddanmark,Construction,7,22,Yes,5,0,Yes,750.8,912.5
+F-1889,Nordjylland,Manufacturing,6,16,No,9,0,No,1095.7,1353.2
+F-0861,Syddanmark,Retail and wholesale,16,23,Yes,6,0,No,2364.9,2692.8
+F-0013,Sjælland,Construction,23,11,No,10,0,No,"448,5",467.0
+F-0025,Sjælland,Business services,19,21,No,2,0,No,903.2,859.1
+F-0623,Midtjylland,Retail and wholesale,5,9,No,3,0,No,1091.5,1062.3
+F-0234,Midtjylland,Business services,3,11,Yes,99,0,Yes,700.7,
+F-0212,Hovedstaden,Retail and wholesale,34,10,No,8,1,Yes,"2.720,0",3843.7
+F-0285,Midtjylland,Business services,4,45,No,3,0,No,488.1,489.9
+F-0821,Nordjylland,Manufacturing,15,11,No,6,0,No,502.9,517.2
+F-1267,Region Syddanmark,Hospitality,7,26,No,7,0,No,"485,7",
+F-1540,Midtjylland,ICT,3,9,Yes,5,0,No,1195.3,1104.0
+F-0170,Midtjylland,Retail and wholesale,17,57,No,6,0,No,1001.3,989.6
+F-1248,Sjælland,Construction,6,9,Yes,4,1,No,1056.8,1154.2
+F-1395,Syddanmark,ICT,4,7,Yes,6,0,Yes,"1.123,9",1532.9
+F-1318,Hovedstaden,Business services,1,33,No,6,0,No,596.7,803.3
+F-0800,Syddanmark,Construction,54,12,Yes,8,0,No,1180.5,1083.4
+F-1669,Nordjylland,ICT,10,6,Yes,5,0,No,814.9,828.6
+F-1537,Sjælland,Construction,62,16,Yes,5,0,No,649.0,609.8
+F-1778,Sjælland,Construction,14,5,Yes,5,0,No,653.3,757.6
+F-1580,Midtjylland,Business services,13,16,Yes,5,0,No,2015.9,2073.8
+F-1332,Sjælland,Construction,22,20,No,5,0,Yes,449.5,492.8
+F-0995,Hovedstaden,Business services,2,10,Yes,6,0,Yes,726.6,1060.2
+F-0868,Sjælland,Construction,3,7,No,7,0,No,1383.4,1346.0
+F-1340,Capital Region,ICT,9,33,Yes,6,0,Yes,734.6,842.2
+F-1754,Nordjylland,Retail and wholesale,2,22,No,5,0,No,500.6,540.0
+F-1710,Hovedstaden,ICT,13,12,No,6,0,Yes,1090.8,1187.6
+F-1459,Sjælland,Business services,13,24,No,6,1,Yes,466.1,640.1
+F-0508,Hovedstaden,Manufacturing,9,12,No,6,1,No,662.6,553.9
+F-0945,Midtjylland,Manufacturing,4,17,No,5,0,No,588.2,590.9
+F-0044,Syddanmark,Manufacturing,53,9,No,7,0,No,1426.6,1261.8
+F-0968,Sjælland,ICT,97,16,No,8,1,No,1095.9,1283.6
+F-1805,Hovedstaden,ICT,16,8,Yes,99,0,Yes,1380.3,2401.3
+F-0114,Midtjylland,Business services,11,16,Yes,6,0,No,1520.1,1557.7
+F-1339,Hovedstaden,Construction,29,8,No,5,0,No,515.5,
+F-1175,Hovedstaden,Retail and wholesale,7,13,No,4,0,No,852.9,1006.1
+F-1892,Sjælland,Construction,10,5,No,4,1,Yes,1189.6,1600.5
+F-1112,syddanmark,Manufacturing,18,8,No,3,0,No,482.9,444.5
+F-0547,Hovedstaden,Retail and wholesale,13,37,No,2,0,Yes,819.8,793.8
+F-0726,nordjylland,business services,6,16,No,6,0,Yes,"428,6 t.kr.",577.3
+F-1163,Sjælland,Construction,4,5,Yes,5,0,No,"454,2 t.kr.",538.6
+F-1439,Syddanmark,Retail and wholesale,2,5,No,4,0,Yes,2239.8,2558.8
+F-1063,Central Denmark,Manufacturing,4,14,No,2,0,no,325.7,355.8
+F-1574,Syddanmark,ICT,56,18,No,7,0,No,720.9,631.0
+F-1201,Hovedstaden,Hospitality,11,13,No,4,0,No,159.7,164.9
+F-0611,Midtjylland,Hospitality,13,14,Yes,5,0,No,266.0,308.2
+F-0603,Hovedstaden,Manufacturing,13,12,Yes,6,0,No,559.7,648.8
+F-1718,Nordjylland,Manufacturing,17,21,Yes,8,0,No,"763,1",967.6
+F-1895,Midtjylland,ICT,7,20,Yes,9,0,Yes,3274.4,3625.7
+F-0148,Sjælland,Business services,11,9,Yes,9,1,Yes,963.8,1073.2
+F-1642,Sjælland,Manufacturing,7,15,No,4,0,No,540.5,547.2
+F-1998,Midtjylland,Hospitality,6,6,No,5,1,YES,361.1,355.2
+F-1522,Nordjylland,Construction,5,6,No,7,0,No,992.1,1215.9
+F-1613,Midtjylland,Business services,26,9,Yes,4,0,No,1089.8,1326.8
+F-0649,Syddanmark,Business services,34,17,Yes,6,0,Yes,453.6,514.5
+F-0935,Hovedstaden,Hotels and restaurants,7,13,No,4,1,No,735.6,793.2
+F-1280,Midtjylland,Construction,5,8,No,6,0,No,732.1,825.1
+F-0456,Hovedstaden,Hotels and restaurants,6,22,No,6,0,No,335.9,334.4
+F-1745,Southern Denmark,ICT,2,11,No,4,0,No,1257.1,
+F-0817,Syddanmark,Business services,11,16,No,2,0,No,989.3,906.4
+F-1565,Syddanmark,Business services,10,15,No,6,0,No,"624,7",783.1
+F-1345,Nordjylland,Retail and wholesale,31,29,No,5,0,No,1034.2,1150.5
+F-0338,Region Sjælland,Business services,13,9,No,9,0,Yes,"1.118,3",1390.5
+F-0230,Nordjylland,Construction,13,19,No,5,0,Yes,"770,9",795.5
+F-1470,Syddanmark,Construction,12,16,No,1,0,No,861.8,979.4
+F-1474,Nordjylland,Business services,16,23,Yes,8,0,Yes,1449.7,1848.9
+F-1096,Zealand,Hospitality,37,7,Yes,3,1,No,474.0,409.8
+F-1758,Hovedstaden,Hotels and restaurants,7,33,No,4,0,yes,321.4,308.1
+F-0587,Nordjylland,Manufacturing ,3,10,No,99,0,Yes,638.3,866.7
+F-1187,Hovedstaden,Construction,15,17,Yes,4,0,Yes,"1.382,7",1480.3
+F-1969,Hovedstaden,Construction,9,12,No,4,0,Yes,1088.5,1308.8
+F-0742,Hovedstaden,Retail and wholesale,12,8,Yes,9,0,Yes,"1.635,1",1659.4
+F-1427,Sjælland,Retail and wholesale,4,3,Yes,4,0,No,"1.179,6",1443.9
+F-0155,Midtjylland,Retail and wholesale,3,20,No,5,0,Yes,912.0,867.2
+F-0522,Syddanmark,Retail and wholesale,6,,Yes,3,0,No,681.5,753.4
+F-0470,Nordjylland,Manufacturing,15,20,No,4,0,No,972.1,1117.0
+F-1271,Sjælland,Retail & wholesale,22,43,Yes,8,0,Yes,1651.3,2365.7
+F-1958,Midtjylland,Retail and wholesale,2,11,Yes,4,1,Yes,668.7,719.6
+F-0060,Hovedstaden,ICT,58,23,Yes,4,0,Yes,1224.0,1724.6
+F-1698,Region Midtjylland,Retail and wholesale,2,7,No,4,0,No,1947.9,2448.8
+F-1860,midtjylland,Manufacturing,23,34,No,6,0, Yes,757.4,931.7
+F-1139,Midtjylland,Manufacturing,24,30,No,8,0,No,"354,9",374.0
+F-0967,Sjælland,manufacturing,11,15,No,1,0,No,900.2,912.9
+F-1168,Midtjylland,Hospitality,11,6,Yes,5,0,No,956.1,1154.4
+F-1057,Hovedstaden,Manufacturing,5,16,No,5,0,Yes,605.6,617.3
+F-1875,Region Hovedstaden,Retail and wholesale,52,25,No,7,0,Yes,1776.7,1932.5
+F-1940,Hovedstaden,Construction,39,8,No,6,1,Yes,677.7,10671.0
+F-0215,Hovedstaden,construction,16,6,No,4,0,N,520.9,510.1
+F-1224,Syddanmark,Retail and wholesale,3,6,No,6,0,No,1051.6,863.0
+F-0496,Sjælland,Manufacturing,5,5,No,5,0,N,"846,5",774.6
+F-0299,Sjælland,Manufacturing,17,32,Yes,4,1,Yes,625.0,595.2
+F-1272,Sjælland,Manufacturing,17,6,No,3,0,No,407.0,440.3
+F-0059,Syddanmark,Construction,20,19,No,99,1,Yes,580.7,666.8
+F-0001, Hovedstaden,Business services,3,6,Yes,4,0,No,491.9,476.3
+F-1031,Midtjylland,Construction,3,7,No,4,1,Yes,324.8,
+F-1852,North Denmark,Retail and wholesale,8,15,No,6,0,No,600.9,669.9
+F-1626,Midtjylland,Hospitality,5,30,Yes,2,0,No,522.9,733.1
+F-0048,Syddanmark,Manufacturing,10,16,No,5,1,Yes,1788.4,2236.7
+F-0417,Midtjylland,Retail and wholesale,10,7,Yes,5,1,Yes,"737,4",882.2
+F-0096,Syddanmark,Manufacturing,109,12,Yes,5,0,Yes,953.0,1220.4
+F-0284,Syddanmark,Business services,12,18,Yes,6,0,No,1015.0,1149.6
+F-1106,Syddanmark,Business services,4,41,Yes,5,0,Yes,1001.7,
+F-1800,Hovedstaden,Hospitality,37,20,Yes,5,0,No,365.5,505.2
+F-0893,Syddanmark,ict,57,4,No,8,0,Yes,"888,1",1242.1
+F-1104,Nordjylland,Hospitality,3,13,No,1,0,NO,127.3,157.3
+F-0033,Syddanmark,Business services,22,36,Yes,9,0,Yes,2483.1,3024.4
+F-0590,Syddanmark,ICT,2,12,Yes,6,0,No,1278.5,1272.9
+F-1677,Hovedstaden,Construction,2,6,No,4,0,No,689.0,531.5
+F-0024,Nordjylland,Retail and wholesale,23,19,No,2,1,No,628.1,593.6
+F-1486,Hovedstaden,Manufacturing,11,18,Yes,3,0,Yes,527.9,598.7
+F-1943,Sjælland,Retail and wholesale,36,14,Yes,2,1,Yes,"955,5",1409.3
+F-1122,Hovedstaden,Business services,5,15,No,5,0,No,906.6,928.1
+F-1806,Hovedstaden,Manufacturing,5,19,No,4,1,Yes,847.6,883.9
+F-0005,Central Denmark,Construction,5,23,No,3,0,No,1096.8,948.0
+F-1571,Syddanmark,ICT,27,26,No,4,0,Yes,782.8,896.1
+F-0200,Hovedstaden,Manufacturing,22,10,Yes,4,0,No,1329.4,1332.0
+F-0278,Hovedstaden,Manufacturing ,7,11,Yes,7,0,Yes,710.6,772.7
+F-1190,Syddanmark,Business Services,8,12,No,8,0,Yes,366.5,403.2
+F-1886,Syddanmark,Retail and wholesale,8,8,No,4,0,No,821.6,805.6
+F-0952,Syddanmark,Business services,1,22,Yes,7,0,No,"1.020,1",977.5
+F-0289,Syddanmark,Retail and wholesale,30,8,No,4,1,Yes,1181.4,1289.9
+F-1759,Sjælland,ICT,21,42,Yes,7,0,No,742.1,855.4
+F-0929,Midtjylland,Retail and wholesale,5,13,No,3,0,No,745.0,672.0
+F-1594,Hovedstaden,Business services,8,13,No,3,0,No,"1.040,8",1230.0
+F-0637,Hovedstaden,Construction,9,9,Yes,5,0,Yes,1208.3,1260.3
+F-1833,Nordjylland,Construction,5,6,No,6,0,Yes,472.8,686.6
+F-1496,Midtjylland,Business services,21,31,No,6,0,No,786.4,825.8
+F-0492,Midtjylland,Manufacturing,10,28,No,6,0,Yes,732.8,
+F-0679,Nordjylland,Business services,4,16,Yes,4,1,No,549.3,714.3
+F-0549,Nordjylland,ICT,9,10,No,3,0,No,1181.2,1078.7
+F-0708,Midtjylland,Construction,2,12,No,3,0,No,1132.1,
+F-0515,Hovedstaden,Retail and wholesale,4,9,No,4,1,No,1709.1,1836.8
+F-1684,Hovedstaden,Manufacturing ,12,2,No,99,0,No,561.8,794.1
+F-1699,Midtjylland,Construction,16,8,No,3,1,No,1017.5,1140.2
+F-1191,Southern Denmark,Manufacturing,16,21,Yes,6,0,Yes,1108.9,1606.1
+F-1268,Syddanmark,Construction,27,27,No,6,1,No,961.4,843.9
+F-0943,Hovedstaden,manufacturing,124,17,Yes,6,0,Yes,1884.0,2361.7
+F-1276,syddanmark,Business services,52,28,No,7,0,Yes,904.5,1245.6
+F-0344,Midtjylland,Business services,19,22,Yes,6,0,Yes,794.5,1128.6
+F-0747,Midtjylland,Construction,77,23,No,5,0,Yes,824.9,998.5
+F-1430,Hovedstaden,Business services,52,9,Yes,8,0,Yes,1212.6,1506.2
+F-0509,Region Midtjylland,Hospitality,7,8,Yes,7,0,No,1098.5,1207.2
+F-1378,Midtjylland,Business services,25,29,No,3,1,No,"1.256,3 t.kr.",1705.1
+F-0657,Midtjylland,Hospitality,2,16,No,4,0,No,392.2,
+F-0579,Region Hovedstaden,Retail and wholesale,4,6,Yes,2,0,Yes,830.9,1057.8
+F-1000,Hovedstaden,Manufacturing,13,12,Yes,4,0,Yes,1368.9,1530.4
+F-1182,Sjælland,Manufacturing,11,10,Yes,5,0,Yes,1100.5,1569.1
+F-1372,Hovedstaden,Business services,3,23,No,5,0,No,551.2,695.5
+F-0429,Hovedstaden,ICT,14,24,Yes,6,0,Yes,823.3,1310.7
+F-0820,Nordjylland,Retail and wholesale,1,17,Yes,1,0,No,620.5,721.1
+F-1656,hovedstaden,ICT,5,23,Yes,99,0,No,"631,8",615.4
+F-0406,Midtjylland,Construction,5,11,No,3,0,No,1055.9,1358.0
+F-0863,Midtjylland,Retail and wholesale,3,8,Yes,5,0,Yes,842.3,923.9
+F-1924,Hovedstaden,ICT,39,15,No,7,0,Yes,1144.3,1384.2
+F-1334,Nordjylland,Manufacturing,42,10,No,8,1,Yes,576.0,661.6
+F-1855,Syddanmark,Hospitality,14,15,No,4,0,Yes,366.3,486.4
+F-0468,Midtjylland,Business services,3,19,Yes,4,0,Yes,707.7,
+F-1781,Syddanmark,Hospitality,1,16,No,2,0,No,220.7,
+F-0076,Syddanmark,Business services,6,17,Yes,5,0,Yes,1260.8,1429.9
+F-1569,Syddanmark,Business services,29,26,No,5,0,No,475.1,547.8
+F-0325,Sjælland,Business services,38,5,Yes,6,0,Yes,998.0,1263.4
+F-0169,Nordjylland,Retail and wholesale,11,8,Yes,8,0,No,1439.5,1456.4
+F-1155,Midtjylland,Hospitality,65,25,Yes,7,0,Yes,325.7,373.8
+F-0715,Nordjylland,Business services,23,8,Yes,8,0,No,900.3,830.5
+F-1782,Syddanmark,Construction,7,10,No,8,0,No,787.5,864.8
+F-1731,Syddanmark,Retail and wholesale,40,14,No,99,0,Yes,"798,8",795.4
+F-1078,Syddanmark,Retail and wholesale,3,16,Yes,6,0,Yes,1410.0,1703.2
+F-1221,Hovedstaden,Construction,2,15,No,4,0,No,701.8,816.4
+F-1838,Syddanmark,Construction,7,34,No,3,0,No,314.8,417.9
+F-1245,Hovedstaden,Retail and wholesale,7,17,No,3,0,No,1063.8,934.8
+F-1324,Region Syddanmark,Retail and wholesale,8,20,No,4,0,No,765.3,681.6
+F-0858,Hovedstaden,Retail and wholesale,8,74,Yes,5,0,Yes,1014.0,1156.3
+F-0529,Syddanmark,Business services,15,7,Yes,7,0, Yes,507.5,608.2
+F-0329,Sjælland,construction,11,32,Yes,5,0,No,992.3,989.7
+F-1884,Syddanmark,Construction,27,13,No,6,0,No,883.3,868.0
+F-0793,Sjælland,Retail and wholesale,2,16,No,3,0,No,1040.8,1408.1
+F-0865,Syddanmark,Business services,4,37,Yes,6,0,No,649.0,709.9
+F-0538,Hovedstaden,Construction,40,36,No,4,1,Yes,1072.0,961.0
+F-1111,Sjælland,Retail and wholesale,2,6,No,4,0,No,1242.4,1076.5
+F-0173,Sjælland,Manufacturing,45,21,No,2,1,Yes,1159.2,1263.2
+F-1622,Syddanmark,Business services,4,9,No,4,0,no,500.5,
+F-0674,Sjælland,Manufacturing,15,30,No,99,0,No,1906.3,1705.9
+F-1509,Syddanmark,Business services,3,8,Yes,6,0,No,483.4,539.3
+F-1984,Sjælland,Retail and wholesale,3,11,No,3,1,No,866.7,1035.3
+F-1325,Syddanmark,ICT,11,24,No,6,0,Yes,697.6,997.3
+F-1734,Midtjylland,ICT,19,19,Yes,5,0,No,1536.8,1810.7
+F-1658,Midtjylland,Business services,3,37,No,7,0,No,"712,1 t.kr.",859.5
+F-1220,Syddanmark,Retail and wholesale,37,27,No,2,0,Yes,1659.2,2136.6
+F-0443,Hovedstaden,Construction,15,8,No,6,0,No,1214.9,
+F-0746,Syddanmark,Retail and wholesale,18,23,Yes,10,1,Yes,1203.1,1375.4
+F-0632,Nordjylland,Business services,15,15,Yes,5,0,Yes,"808,6",1147.1
+F-0662,Sjælland,Retail and wholesale,13,4,Yes,2,0,No,839.5,966.2
+F-1628,Syddanmark,Retail and wholesale,8,16,Yes,6,0,No,"1.053,1",
+F-0986,Hovedstaden,Construction,6,6,No,2,0,No,642.6,657.3
+F-1366,Hovedstaden,Hospitality,108,15,Yes,5,0,No,678.2,679.9
+F-0482,Syddanmark,Manufacturing,7,11,Yes,5,0,No,1268.9,1513.2
+F-0275,Sjælland,Manufacturing,10,33,No,5,0,Yes,588.2,689.9
+F-0780,hovedstaden,Business services,1,13,No,4,0,No,525.4,526.3
+F-0410,Syddanmark,Construction,39,15,No,6,0, Yes,638.6,882.2
+F-0421,Midtjylland,Business services,16,8,Yes,6,1,Yes,698.2,997.9
+F-0192,Sjælland,Retail and wholesale,6,11,No,5,0,No,611.8,663.4
+F-1526,Hovedstaden,Manufacturing,17,13,Yes,7,0,No,1340.3,1444.8
+F-0133,Midtjylland,Retail and wholesale,14,18,No,4,0,No,1161.3,1147.3
+F-1933,Midtjylland,Manufacturing,14,16,No,99,0,Yes,"525,8 t.kr.",573.4
+F-0633,Midtjylland,Retail and wholesale,6,14,Yes,3,0,No,1426.9,1628.4
+F-0834,Midtjylland,Business services,4,,No,5,0,Yes,500.5,540.4
+F-0394,Hovedstaden,Construction,4,11,Yes,5,0,No,"746,0",1034.5
+F-0720,Syddanmark,Construction,10,23,Yes,7,0,No,"699,8",849.4
+F-1406,Hovedstaden,Business services,-4,20,Yes,6,0,No,1870.3,2140.7
+F-1069,Sjælland,Hospitality,139,17,No,7,0,No,667.6,
+F-1962,Midtjylland,Retail and wholesale,58,20,Yes,7,1,Yes,"935,7",1179.5
+F-1679,Sjælland,Construction,9,15,Yes,4,0,No,"315,4",389.1
+F-1643,Hovedstaden,Retail and wholesale,5,14,No,6,0,No,"2.243,4",2361.4
+F-1060,Sjælland,Construction,10,20,No,2,0,No,234.5,259.3
+F-1263,midtjylland,Business services,16,8,Yes,6,0,Yes,1391.1,1572.7
+F-1985,Midtjylland,ict,8,18,Yes,6,0,Yes,699.1,821.9
+F-0134,Syddanmark,hospitality,16,25,No,4,0,No,502.0,369.4
+F-1102,Nordjylland,Retail and wholesale,29,10,No,4,0,Yes,1476.9,1915.2
+F-0058,nordjylland,Construction,14,29,No,3,1,No,"687,5",886.3
+F-1780,Syddanmark,Hospitality,1,12,No,6,1,No,199.1,196.9
+F-1641,Capital Region,Hospitality,21,13,No,4,0,No,512.2,375.3
+F-1010,Sjælland,Business services,19,9,No,2,1,No,907.3,776.0
+F-1955,Syddanmark,Hospitality,16,18,No,5,0,Yes,543.3,543.5
+F-1949,Hovedstaden,ICT,5,10,Yes,99,1,Yes,"1.879,4",2645.2
+F-0546,Sjælland,Manufacturing,16,11,No,7,0,Yes,1187.1,
+F-1930,Hovedstaden,Construction,10,13,Yes,6,0,Yes,1263.9,1243.2
+F-1960,Midtjylland,IT,4,8,Yes,5,1,Yes,872.0,981.3
+F-0035,Nordjylland,Manufacturing,9,19,Yes,4,0,NO,314.4,283.4
+F-0973,Nordjylland,Hospitality,13,16,Yes,5,0,No,623.6,668.9
+F-0195,Syddanmark,Construction,15,22,Yes,3,0,No,565.2,651.6
+F-0999,Midtjylland,Construction,28,13,Yes,5,0,Yes,1012.8,
+F-0333,Midtjylland,Manufacturing,18,31,No,8,0,Yes,"2.212,4",2744.0
+F-0836,Midtjylland,Retail and wholesale,11,6,No,5,0,No,620.0,648.0
+F-1691,Hovedstaden,Business services,2,14,Yes,1,0,No,335.5,316.1
+F-1357,Midtjylland,Construction,4,29,Yes,3,0,No,1217.4,1303.8
+F-1657,Syddanmark,Retail and wholesale,12,15,No,4,0,Yes,1418.7,1820.3
+F-0951,Nordjylland,Business services,51,9,Yes,10,1,Yes,1769.8,1873.6
+F-0767,Midtjylland,Retail and wholesale,19,17,No,6,0,No,1058.2,1169.7
+F-0578,Syddanmark,Retail and wholesale,16,10,No,6,0,No,1080.1,1058.7
+F-1239,Hovedstaden,Manufacturing,5,10,Yes,7,0,No,1037.7,1305.4
+F-0796,Sjælland,Business services,25,13,Yes,8,0,Yes,1510.9,2109.5
+F-1856,Syddanmark,ICT,23,13,Yes,8,0,Yes,1090.6,1765.3
+F-0638, Hovedstaden,Business services,9,14,Yes,7,0,YES,741.9,
+F-0710,Midtjylland,Manufacturing,39,23,No,5,0,No,936.0,924.1
+F-0337,Hovedstaden,Construction,29,9,Yes,6,0,Yes,746.7,797.5
+F-0663,Hovedstaden,Business services,2,8,No,4,0,No,462.6,492.4
+F-0837,Sjælland,Retail and wholesale,4,21,No,3,0,No,649.9,682.7
+F-0805,Region Nordjylland,Hospitality,26,11,No,2,0,No,"172,6",201.5
+F-0798,Region Syddanmark,Construction,16,9,No,4,0,No,"439,9",534.0
+F-1229,Hovedstaden,Business services,6,15,No,6,0,N,941.8,1050.6
+F-0760,Midtjylland,Hospitality,25,16,No,7,1,No,360.2,313.3
+F-0729,Syddanmark,Construction,46,16,Yes,8,1,Yes,1795.8,1883.2
+F-0677,Syddanmark,Manufacturing,12,7,No,4,0,No,"750,7",681.0
+F-1871,Syddanmark,Business services,10,29,No,5,0,Yes,1183.2,1774.0
+F-1825,Midtjylland,ICT,14,24,No,7,0,Yes,1783.1,2047.9
+F-0161,Midtjylland,Manufacturing,16,,No,2,0,No,"763,0 t.kr.",654.6
+F-0685,Midtjylland,Retail and wholesale,15,14,Yes,4,1,Yes,1110.3,
+F-0290,Midtjylland,Retail and wholesale,27,23,No,4,0,Yes,1354.5,1568.5
+F-0466,hovedstaden,Retail and wholesale,7,7,No,5,0,No,1665.3,2058.8
+F-1181,Syddanmark,Business services,1,,No,6,0,Yes,"674,8",927.9
+F-1304,Midtjylland,Manufacturing,29,10,No,4,0,N,1775.7,1535.9
+F-0220,Sjælland,Hospitality,43,21,No,4,0,No ,"833,8",970.7
+F-0462,Midtjylland,Hospitality,31,17,No,7,0,No,561.7,798.0
+F-0140,Hovedstaden,Business services,27,6,No,8,0,Y,"1.292,7",1678.0
+F-1448,Midtjylland,Manufacturing,3,15,No,2,1,No,"1.440,1",1356.8
+F-1287,Syddanmark,Manufacturing,5,20,Yes,2,0,Yes,681.8,637.8
+F-1433,Syddanmark,Hospitality,42,36,No,6,0,No,420.4,
+F-0464,Hovedstaden,ICT,2,14,No,8,1,Yes,421.4,
+F-0511,Midtjylland,Manufacturing,7,9,No,2,0,No,1097.0,1176.1
+F-1880,Hovedstaden,Manufacturing,9,19,Yes,99,1,No,1296.0,1501.2
+F-0296,Nordjylland,Business Services,13,39,Yes,6,0,Yes,1856.3,2568.8
+F-0172,sjælland,Business services,7,22,No,8,0,Yes,893.2,1057.6
+F-1834,Nordjylland,Manufacturing,12,29,No,6,0,Yes,"949,7",1091.1
+F-0550,Sjælland,Business services,1,14,No,4,0,No,633.0,767.4
+F-0147,Nordjylland,ICT,52,7,Yes,7,0,Yes,"1.210,8",1661.4
+F-1947,Hovedstaden,Business services,2,19,Yes,7,0,No ,1483.9,
+F-0182,Region Syddanmark,Business services,7,25,No,6,0,Yes,549.8,608.2
+F-0928,Sjælland,ICT,8,25,No,8,0,Yes,1035.1,1432.3
+F-1129,Midtjylland,business services,7,16,Yes,7,0,Yes,1015.8,
+F-0434,Midtjylland,Business services,2,9,Yes,5,0,Yes,1544.9,1938.9
+F-1646,Nordjylland,Retail and wholesale,32,20,No,6,1,Yes,894.1,900.4
+F-0575,Hovedstaden,Hotels and restaurants,23,7,Yes,5,0,No,900.3,1030.4
+F-0432,Syddanmark,Business services,6,11,Yes,5,0,No,1096.4,1064.5
+F-1951,Sjælland,Hospitality,2,12,No,1,1,No,"303,3",334.8
+F-0208,Midtjylland,Business services,26,17,Yes,4,0,Yes,727.5,997.6
+F-0139,Midtjylland,Hospitality,9,13,Yes,5,0,No,"927,5",997.0
+F-0073,Hovedstaden,Manufacturing,20,11,Yes,4,0,No,639.2,642.3
+F-0142,Midtjylland,Construction,5,14,No,4,0,No,563.2,518.3
+F-1018,Midtjylland,Retail and wholesale,13,11,Yes,4,1,No,1229.8,1112.2
+F-1914,Midtjylland,Retail and wholesale,21,16,No,6,1,Yes,1605.4,2263.6
+F-0032,Hovedstaden,Construction,7,12,No,5,0,No,830.2,939.1
+F-0100, Hovedstaden,Hospitality,35,15,No,3,0,Yes,654.8,603.4
+F-0478,Sjælland,Retail and wholesale,2,20,Yes,4,0,No,1788.3,1674.2
+F-0446,Nordjylland,Business services,14,9,No,7,0,Yes,247.2,312.3
+F-0745,Syddanmark,Business Services,33,9,Yes,7,0,Y,528.0,
+F-0596,Syddanmark,Construction,8,21,No,6,0,No,"1.131,1",1298.0
+F-0075,Midtjylland,Retail and wholesale,3,25,No,7,0,Yes,"2.699,5",3395.9
+F-1982,Syddanmark,Construction,3,12,Yes,4,0,No,"1.225,6",1104.2
+F-1827,Region Midtjylland,Hospitality,6,5,No,5,0,Yes,655.2,
+F-0938,Sjælland,Manufacturing,4,5,No,5,0,No,964.3,961.4
+F-0014,Hovedstaden,Hospitality,30,10,No,3,0,Yes,819.1,1027.3
+F-1464,hovedstaden,Hospitality,8,10,Yes,5,0,Yes,975.8,1259.4
+F-1349,Sjælland,Retail and wholesale,5,16,Yes,4,0,Yes,1107.2,1226.5
+F-1987,Hovedstaden,ict,25,25,Yes,6,0,Yes,"1.384,1 t.kr.",1776.1
+F-0175,Hovedstaden,Business services,8,20,No,7,0,NO,602.0,574.2
+F-2000,Nordjylland,Retail and wholesale,32,39,Yes,4,0,Yes,1603.5,1983.0
+F-1246,Sjælland,Retail and wholesale,4,12,No,4,1,Yes,935.2,850.6
+F-1934,Syddanmark,Business services,8,4,No,4,0,No,301.0,352.4
+F-0347,Hovedstaden,Hospitality,27,12,Yes,6,1,Yes,479.8,508.1
+F-1257,Syddanmark,Business services,4,16,No,7,0,No,1007.0,1046.5
+F-1394,Midtjylland,Construction,37,21,Yes,6,0,No,1355.6,1377.3
+F-1981,Midtjylland,Manufacturing,13,13,No,7,0,Yes,574.2,548.8
+F-0090,Syddanmark,Business services,13,15,No,5,1,No,670.6,650.8
+F-1438,Nordjylland,Retail and wholesale,14,13,Yes,6,0,Yes,1279.5,1282.6
+F-0982,Syddanmark,Construction,1,12,No,2,0,No,504.5,535.4
+F-1451,Sjælland,Hotels and restaurants,23,14,Yes,3,0, Yes,"590,7",632.4
+F-1367,syddanmark,Business services,1,10,Yes,99,0,No,"798,2",
+F-1553,Syddanmark,Retail and wholesale,11,14,No,5,0,No,1660.0,1575.0
+F-1944,Syddanmark,Construction,7,7,No,5,0,No,589.4,636.8
+F-0118,Midtjylland,Retail and wholesale,3,5,No,6,0,No,658.1,750.5
+F-1809,Hovedstaden,Construction,10,13,No,6,0,No,350.7,361.7
+F-0897,Hovedstaden,Hospitality,5,5,No,3,0,Yes,263.3,232.1
+F-1341,Midtjylland,Retail and wholesale,11,4,No,8,0,Yes,1419.7,1434.0
+F-0474,Region Midtjylland,Business services,6,12,No,5,0,Yes,"733,4",971.7
+F-1054,Midtjylland,ICT,6,23,Yes,9,1,Yes,547.2,720.8
+F-1568,Sjælland,Construction,19,20,No,5,0,No,1042.3,944.9
+F-0880,Syddanmark,Construction,34,18,Yes,8,0,Yes,426.6,429.1
+F-0877,Hovedstaden,Retail and wholesale,4,10,No,1,0,No,"553,9",675.5
+F-1926,Syddanmark,Construction,23,7,Yes,4,0,No,294.5,321.6
+F-0885,Syddanmark,Business services,1,5,Yes,7,0,No,482.3,
+F-0584,Zealand,ICT,10,8,Yes,6,0,Yes,2145.7,2892.2
+F-0185,Hovedstaden,Business services,76,19,Yes,8,0,No,918.3,1019.0
+F-0580,Hovedstaden,Retail and wholesale,26,17,No,3,0,No,"1.185,3 t.kr.",1310.6
+F-0854,Nordjylland,Retail and wholesale,24,21,Yes,7,0,No,2105.9,2156.5
+F-1255,Sjælland,Retail and wholesale,3,18,Yes,4,0,No,2546.9,2626.0
+F-1752,Region Hovedstaden,Business services,20,25,No,8,0,Yes,551.5,684.4
+F-1668,Midtjylland,ICT,2,13,No,6,0,No,"676,4",789.5
+F-0238,Midtjylland,Construction,6,15,No,1,1,N,447.3,463.8
+F-0256,Capital Region,Business services,3,7,No,3,0,Yes,598.8,653.0
+F-0304,Syddanmark,Hospitality,5,18,No,7,1,No,"405,0",375.4
+F-0535,Hovedstaden,Business services,2,26,No,5,0,No,265.9,250.5
+F-1091,Region Hovedstaden,business services,3,9,No,4,1,No,683.8,653.0
+F-0453,hovedstaden,Construction,8,17,No,5,0,No,"1.301,6",1187.2
+F-0499,Hovedstaden,ICT,20,6,Yes,4,0,No,843.6,1081.3
+F-0319,Sjælland,Business services,3,14,No,8,0,No,734.5,698.8
+F-1617,Sjælland,ICT,7,30,Yes,6,0,Yes,"880,2",927.8
+F-1666,Syddanmark,Manufacturing,28,16,Yes,6,0,No,"709,4",667.1
+F-0971,Hovedstaden,ICT,10,11,Yes,9,0, Yes,1229.0,1744.7
+F-1632,Hovedstaden,Retail and wholesale,16,17,No,2,1,No,"989,3",1202.7
+F-0659,Syddanmark,Manufacturing,12,25,Yes,9,0,No,2183.8,2316.3
+F-1495,Midtjylland,Retail and wholesale,6,7,No,6,0,N,"1.519,5",1510.6
+F-1627,Sjælland,ICT,12,9,Yes,6,0,Yes,"692,1",841.0
+F-1896,Hovedstaden,Retail and wholesale,9,11,No,2,0,No,"788,4",680.5
+F-1532,Syddanmark,Retail and wholesale,9,7,No,6,0,Yes,"1.136,4",1200.7
+F-1381,Syddanmark,Construction,5,19,No,4,1,No,772.2,842.4
+F-1143,Midtjylland,Business services,12,18,Yes,7,0,Yes,617.8,862.3
+F-1527,Midtjylland,Business services,4,10,Yes,7,0,No,"499,4",634.8
+F-0341,Sjælland,Business services,7,7,Yes,7,0,No,860.0,974.4
+F-0306,Syddanmark,Hotels and restaurants,18,11,No,5,0,No,439.9,386.3
+F-1235,Syddanmark,Construction,31,7,No,9,0,No,855.3,873.3
+F-0323,Syddanmark,ICT,1,3,No,4,0,No,1307.5,1621.2
+F-0021,Nordjylland,Construction,14,,No,6,0,No,1320.1,1455.9
+F-0608,Sjælland,Hospitality,45,43,Yes,8,0,Yes,"659,5",808.0
+F-1051,syddanmark,Manufacturing,35,11,No,5,0,No,325.8,363.3
+F-1001,Midtjylland,Business services,12,9,Yes,7,0,no,"376,1 t.kr.",401.7
+F-1546,Hovedstaden,Business services,21,23,No,5,0,NO,1174.2,1218.8
+F-1854,Syddanmark,Hospitality,13,55,Yes,5,0,No,"603,9",797.4
+F-1600,Midtjylland,Business services,7,8,Yes,5,0,No,679.4,652.6
+F-0413,Nordjylland,Retail and wholesale,23,11,No,2,0,No,496.7,524.6
+F-0023,Hovedstaden,ICT,4,28,Yes,5,0,Yes,558.9,817.5
+F-0616,Syddanmark,Hospitality,4,18,No,2,0,No,229.8,319.3
+F-0445,Midtjylland,Hospitality,10,18,No,5,1,No,540.2,683.8
+F-1043,Hovedstaden,Manufacturing,44,13,No,8,1,Yes,1578.2,
+F-1704,Syddanmark,hospitality,25,76,No,6,1,No,523.4,568.1
+F-1125,Hovedstaden,Retail and wholesale,3,10,No,4,0,No,2421.6,2831.0
+F-1530,Nordjylland,Construction,6,12,Yes,5,0,Yes,824.7,957.7
+F-0433,Hovedstaden,Retail and wholesale,5,25,No,6,0,No,4452.1,4809.7
+F-1543,Central Denmark,Manufacturing,12,8,No,3,0,No,"653,7",726.4
+F-0301,Syddanmark,Retail and wholesale,16,5,No,9,1,Yes,1292.1,1210.2
+F-0765,Syddanmark,Business services,22,25,Yes,8,0,Yes,851.5,1049.7
+F-0634,Hovedstaden,Hospitality,4,17,No,4,1,No,703.7,666.6
+F-0962,Syddanmark,Manufacturing,40,20,Yes,4,1,Yes,810.1,1022.8
+F-0788,Hovedstaden,Manufacturing,8,28,No,99,0,No ,"912,7",973.8
+F-1461,Hovedstaden,Hospitality,11,16,Yes,5,0,No,341.6,368.7
+F-1320,midtjylland,Retail and wholesale,4,16,No,1,0,No,616.9,747.3
+F-1170,Hovedstaden,Retail and wholesale,14,20,No,4,0,Yes,1420.8,1336.6
+F-1996,Midtjylland,Retail and wholesale,4,18,Yes,8,0,No,1433.6,1363.1
+F-1707,Midtjylland,ICT,8,33,Yes,7,0,Yes,1016.1,1224.1
+F-1907,Hovedstaden,Construction,15,71,No,6,0,No,"1.097,9",1185.8
+F-1296,Sjælland,Business services,3,6,Yes,6,0,No,845.7,813.2
+F-1289,Nordjylland,Manufacturing,20,21,Yes,6,0,Yes,1423.3,1748.1
+F-1236,Syddanmark,Construction,21,14,Yes,6,1,Yes,777.2,991.8
+F-1720,Midtjylland,Retail and wholesale,6,4,No,3,0,No,842.3,1066.0
+F-0540,Syddanmark,Retail and wholesale,15,13,No,6,0,No,1126.4,1118.2
+F-1857,Midtjylland,Business services,33,15,Yes,9,1,Yes,1119.6,1317.2
+F-1769,Syddanmark,construction,2,13,No,5,0,No,521.7,
+F-0786,Nordjylland,Construction,5,15,No,4,0,No,589.5,529.9
+F-1056,Syddanmark,Construction,45,21,No,6,1,No,"502,6 t.kr.",542.0
+F-0763,Midtjylland,Retail and wholesale,2,35,Yes,3,0,No,"1.185,2",
+F-1512,Nordjylland,Manufacturing ,38,28,Yes,9,0,No,650.6,763.9
+F-0415,Hovedstaden,Manufacturing,55,12,Yes,5,1,Yes,1434.7,1426.4
+F-1690,Hovedstaden,ICT,27,8,Yes,5,0,Yes,625.6,817.7
+F-0860,Midtjylland,manufacturing,11,11,No,6,0,No,744.5,818.5
+F-0216,Sjælland,Manufacturing,14,24,No,2,0,Yes,1262.5,1427.2
+F-1877,Midtjylland,Business services,25,16,Yes,8,0,Yes,1484.5,1773.5
+F-1551,Hovedstaden,Retail and wholesale,10,28,No,7,0,Yes,"937,4",952.8
+F-1015,midtjylland,Business services,34,16,No,99,0,No,1035.5,1106.5
+F-0191,nordjylland,Retail and wholesale,18,6,Yes,5,1,No,1171.7,1231.5
+F-1959,Hovedstaden,ICT,9,9,Yes,5,0,Yes,1032.9,1293.3
+F-0922,Syddanmark,Manufacturing,139,36,No,5,0,Yes,847.5,
+F-1616,Midtjylland,Hospitality,8,7,Yes,7,0,Yes,478.4,754.2
+F-0932,Midtjylland,Business services,6,12,No,4,1,No,443.7,428.9
+F-0354,Sjælland,ICT,31,13,Yes,3,0,No,"1.814,0",2026.6
+F-0997,Midtjylland,Retail and wholesale,8,10,No,1,0,No,1122.7,1111.9
+F-1547,Syddanmark,Business services,2,7,No,10,0,No,1512.9,1926.5
+F-1400,Southern Denmark,Retail and wholesale,2,4,No,2,0,No,759.4,753.7
+F-0450,Hovedstaden,Construction,4,12,No,6,0,No,823.7,896.2
+F-1443,midtjylland,Business services,5,4,Yes,99,0,No,925.4,1018.6
+F-0332,North Denmark,Retail and wholesale,15,15,No,4,1,Yes,1309.5,1357.8
+F-0785,Midtjylland,ICT,7,8,No,6,1,Yes,"2.013,1",2526.7
+F-0618,sjælland,Manufacturing,30,37,No,5,0,No,551.3,516.8
+F-0697,Midtjylland,hospitality,5,,Yes,3,0,No,163.6,185.0
+F-0595,Zealand,Business services,12,10,Yes,9,0,Yes,1271.3,1729.2
+F-1822,Sjælland,ICT,12,5,Yes,4,0,Yes,"2.713,7",2859.1
+F-0738,Hovedstaden,Retail and wholesale,11,15,Yes,6,0,No,1942.4,2386.8
+F-1331,Hovedstaden,Hospitality,22,9,No,4,1,No,287.3,302.1
+F-0334,Syddanmark,Hospitality,5,14,Yes,8,0,Yes,600.2,704.5
+F-0087,Hovedstaden,Retail and wholesale,19,4,No,7,0,No,667.9,739.1
+F-1831,Midtjylland,Construction,7,7,Yes,6,0,No,"1.079,6",1158.7
+F-1874,Hovedstaden,ICT,6,24,No,99,0,No,"489,3",504.2
+F-1779,Sjælland,Manufacturing,5,16,No,2,0,No,737.2,1042.5
+F-1839,Hovedstaden,Hospitality,3,13,No,2,0,no,297.2,276.6
+F-0428,Nordjylland,Construction,8,38,No,5,0,No,1078.9,1128.5
+F-1059,Hovedstaden,Retail and wholesale,8,24,No,7,0,No,"1.171,2",1331.4
+F-0689,Midtjylland,Retail and wholesale,223,30,Yes,8,0,Yes,1942.3,2267.7
+F-1198,Southern Denmark,Retail and wholesale,2,12,No,4,0,No,"1.167,0",
+F-1012,Midtjylland,Business services,16,9,No,4,0,Yes,564.2,811.0
+F-1753,Syddanmark,Construction,9,4,No,5,0,No,1257.3,1568.6
+F-1683,Hovedstaden,hospitality,7,10,No,6,0,No,"599,8 t.kr.",725.5
+F-0263,Midtjylland,Business services,18,9,Yes,7,0,Yes,1756.8,2093.8
+F-1946,Sjælland,Construction,10,12,Yes,7,0,No,867.1,916.6
+F-1212,Syddanmark,Business services,7,23,Yes,4,0,Yes,"470,2",525.6
+F-1869,Midtjylland,Hospitality,2,11,No,3,0,No,"272,8 t.kr.",381.8
+F-0626,Midtjylland,ICT,9,8,No,7,0,Yes,1112.3,1365.5
+F-1612,Midtjylland,Retail & wholesale,7,18,No,99,0,No,"768,2",839.4
+F-1133,Hovedstaden,Business services,12,12,No,5,0,No,1585.5,1648.3
+F-0617,Syddanmark,ict,5,23,Yes,4,0,No,479.8,503.9
+F-0640,Syddanmark,retail and wholesale,15,22,Yes,6,0,No,794.5,739.4
+F-1042,Hovedstaden,Construction,39,14,No,5,0,No,328.1,321.5
+F-0993,Syddanmark,Manufacturing,40,4,No,6,1,Yes,1254.9,1160.6
+F-1171,Syddanmark,Business services,17,7,No,5,0,No,"865,5",1005.8
+F-1555,Midtjylland,ICT,3,15,No,5,0, Yes,1230.1,1967.7
+F-1338,Sjælland,ICT,4,11,Yes,6,0,No,"506,0",608.5
+F-0959,Hovedstaden,hospitality,35,15,Yes,9,0,Yes,1199.6,1758.5
+F-0295,Sjælland,Manufacturing,28,7,Yes,8,0,No,1022.4,1108.5
+F-0061,Region Hovedstaden,business services,14,21,Yes,4,0,Yes,803.8,929.3
+F-1216,Hovedstaden,Hospitality,17,12,No,2,0,No,334.8,295.4
+F-0588,Midtjylland,Construction,9,8,No,8,0,No,672.7,645.3
+F-1891,Hovedstaden,construction,6,32,Yes,3,0,No,"803,0",1007.4
+F-1217,Sjælland,Business services,18,8,No,4,0,No,563.0,655.3
+F-0795,Southern Denmark,Business services,7,6,No,7,0,No,1562.7,1754.0
+F-0903,Midtjylland,Business services,8,13,Yes,8,0,Yes,1293.7,1399.3
+F-0099,Syddanmark,retail and wholesale,4,29,No,6,0,No,629.8,596.6
+F-1426,Midtjylland,Manufacturing ,17,14,Yes,7,0,Yes,"2.047,9",2020.9
+F-0471,Nordjylland,Manufacturing,8,9,No,5,1,No,1315.5,1091.7
+F-0188,syddanmark,Retail and wholesale,10,5,No,3,0,Yes,899.9,1173.5
+F-1082,Syddanmark,Manufacturing,4,17,No,5,0,No,"614,9",676.7
+F-0324,Syddanmark,Retail and wholesale,6,14,No,4,0,No,846.5,972.2
+F-1115,Central Denmark,Business services,4,27,Yes,8,0,Yes,1258.8,1373.1
+F-1913,Midtjylland,Retail and wholesale,46,14,Yes,6,0,No,818.9,954.6
+F-1410,Nordjylland,Manufacturing,12,11,Yes,5,0,Yes,918.0,967.7
+F-0258,Hovedstaden,Business Services,8,14,Yes,9,0,Yes,664.7,807.7
+F-0412,Sjælland,hospitality,24,7,No,5,0,No,"399,3",566.2
+F-1173,syddanmark,Construction,11,24,No,4,1,No,481.0,676.0
+F-1265,Hovedstaden,Construction,4,12,No,2,0,No,802.2,
+F-0353,Syddanmark,Construction,2,28,Yes,2,0,No,731.0,
+F-1862,Sjælland,Manufacturing,15,25,Yes,6,0,No,655.1,706.6
+F-1493,Hovedstaden,Hospitality,18,6,Yes,6,0,Yes,867.1,658.6
+F-0126,Hovedstaden,Construction,19,28,No,4,0,NO,"849,1",818.9
+F-0463,Hovedstaden,Retail and wholesale,12,20,No,5,0,No,1693.9,1768.2
+F-1355,Hovedstaden,Manufacturing,3,8,No,2,0,No,635.5,672.0
+F-1633,Sjælland,Retail and wholesale,19,18,Yes,5,0,No,1668.1,2382.4
+F-1653,Syddanmark,Manufacturing,12,24,No,7,0,No,1238.9,1229.6
+F-0904,hovedstaden,Manufacturing,7,51,No,5,0,No,764.2,856.3
+F-1948,Midtjylland,Hospitality,4,13,Yes,1,0,Yes,297.4,276.5
+F-0766,Sjælland,Business services,49,12,Yes,8,1,Yes,1059.4,1750.0
+F-0349,Syddanmark,Manufacturing,21,8,No,2,0,No,825.1,854.5
+F-1876,Syddanmark,ICT,10,7,No,4,0,Yes,683.2,830.9
+F-1845,Nordjylland,Manufacturing,2,30,No,5,0,No,755.6,796.7
+F-1520,Hovedstaden,Business services,9,20,No,5,1,No ,823.8,1088.7
+F-1768,Region Syddanmark,Retail & wholesale,10,17,Yes,3,1,Yes,1067.9,1344.4
+F-1793,Hovedstaden,ICT,9,5,Yes,5,0,YES,"1.197,0",1447.4
+F-1335,Midtjylland,Retail and wholesale,55,11,No,2,0,No,1050.2,8449.0
+F-0512,midtjylland,Construction,20,9,No,6,0,No,"1.038,4",1016.3
+F-1348,Nordjylland,Retail and wholesale,10,13,No,6,0,No,773.3,921.0
+F-1213,Syddanmark,Hospitality,18,21,Yes,8,0,Yes,"607,7",708.0
+F-0751,Southern Denmark,ICT,24,57,Yes,4,1,No,393.9,443.8
+F-1337,syddanmark,Retail & wholesale,26,7,Yes,99,0,No,"1.145,5",
+F-0722,Hovedstaden,Manufacturing,23,31,No,5,0,Yes,760.2,896.8
+F-1089,Sjælland,Retail and wholesale,3,23,No,3,0,No,"1.084,4",1050.1
+F-0978,Syddanmark,Retail and wholesale,3,3,No,2,0,No,172.7,200.4
+F-0761,Midtjylland,Business services,35,13,No,6,0,Yes,806.7,1063.3
+F-1634,Sjælland,Business services,11,,Yes,4,0,No,"692,8",695.8
+F-0257,Sjælland,ICT,12,47,Yes,6,0, Yes,1248.3,1865.9
+F-0874,Syddanmark,Business services,5,6,Yes,4,0,yes,607.3,821.3
+F-1222,Midtjylland,Business services,15,23,Yes,9,0,Yes,1064.0,1249.7
+F-1503,Syddanmark,Hospitality,15,11,No,4,0,No,"543,9",575.1
+F-1450,Sjælland,Retail and wholesale,6,15,No,2,0,No,1169.7,1231.7
+F-1823,Syddanmark,manufacturing,49,13,Yes,7,0,Yes,1273.4,1391.9
+F-0981,Hovedstaden,Retail and wholesale,1,7,Yes,2,0,No,"527,8",
+F-0539,Midtjylland,Construction,22,22,No,6,0,No,508.3,537.8
+F-1261,Hovedstaden,Retail and wholesale,5,29,No,5,0,No ,415.9,350.7
+F-0892,Sjælland,Construction,6,13,No,12,0,No,857.2,857.8
+F-0940,Sjælland,Construction,65,32,Yes,5,0,Yes,407.1,444.8
+F-1878,Midtjylland,Retail and wholesale,7,8,Yes,6,1,Yes,"1.367,3",
+F-1211,Hovedstaden,Business services,18,10,Yes,6,0,Yes,1476.0,1696.2
+F-0597,Hovedstaden,Hospitality,11,42,Yes,5,0,No,"231,5 t.kr.",258.8
+F-0269,Nordjylland,Business services,15,12,No,99,1,No,1160.6,1202.6
+F-1550,Hovedstaden,Retail and wholesale,2,9,Yes,4,0,Yes,"2.552,6",2869.7
+F-1453,Syddanmark,Construction,17,20,No,7,0,No,545.5,619.1
+F-0847,Midtjylland,Construction,9,38,No,3,0,No,610.5,576.9
+F-0461,Hovedstaden,Business services,7,13,No,6,0,Yes,715.3,795.2
+F-1610,Sjaelland,Construction,13,18,No,8,0,No,554.3,517.4
+F-1621,Midtjylland,Manufacturing,17,19,Yes,7,0,No,1551.5,1774.3
+F-1702,Hovedstaden,Business services,5,3,No,7,0,No,"905,3",1008.0
+F-1444,Syddanmark,ict,20,9,Yes,4,0,Yes,804.8,1198.2
+F-1101,Region Midtjylland,Construction,6,3,Yes,5,0,No,473.8,539.5
+F-1912,Hovedstaden,Construction,3,10,Yes,2,0,No,"373,5",398.8
+F-1196,Hovedstaden,Retail and wholesale,4,26,No,3,0,No,1043.5,1193.5
+F-1873,Syddanmark,Construction,11,36,No,6,0,Yes,1050.3,1320.3
+F-0350,Nordjylland,Business services,9,26,Yes,4,0,Yes,1223.9,1686.0
+F-0407,Hovedstaden,Business services,3,17,No,5,0,No,344.9,307.3
+F-0678,Sjælland,Business services,6,11,Yes,7,0,Yes,1403.3,1764.2
+F-1154,Hovedstaden,IT,12,11,Yes,3,0,No,788.9,761.2
+F-0217,Syddanmark,Hospitality,3,13,Yes,5,0,No,377.6,346.8
+F-0907,Nordjylland,Retail and wholesale,48,9,No,5,0,No,713.9,738.8
+F-1696,Hovedstaden,Retail and wholesale,46,17,Yes,8,0,Yes,"1.552,1",1793.4
+F-0969,Hovedstaden,Construction,24,10,No,3,0,No,880.4,692.3
+F-0233,Hovedstaden,ICT,6,57,Yes,3,0,Yes,"1.764,3",2505.9
+F-1390,Syddanmark,Hospitality,8,19,No,5,1,No ,307.4,335.8
+F-1932,North Denmark,Retail and wholesale,11,8,No,5,0,No,"851,1",964.2
+F-1274,Syddanmark,Business services,5,18,Yes,7,0,No,488.3,522.2
+F-0006,Syddanmark,ICT,3,15,No,4,0,No,"1.009,2",1003.5
+F-0755,Sjælland,Construction,2,8,Yes,4,0,No,316.7,371.8
+F-0493,Syddanmark,ICT,5,10,Yes,4,0,Yes,"594,9",
+F-1767,Hovedstaden,Retail and wholesale,3,12,No,5,0,No,721.0,702.8
+F-1237,Midtjylland,Manufacturing,29,18,No,3,1,No,819.2,871.7
+F-1811,Midtjylland,ICT,19,9,Yes,4,1,yes,"1.017,4",1274.8
+F-1964,Nordjylland,Business services,6,14,No,6,0,No,"1.110,0",
+F-1039,Hovedstaden,hospitality,16,30,Yes,7,0,No,"918,6",1396.3
+F-1393,Sjælland,Hospitality,15,9,Yes,5,0,Yes,747.5,1101.0
+F-1997,Syddanmark,Construction,7,15,No,4,0,No,641.0,666.3
+F-1488,Syddanmark,Hospitality,32,47,Yes,10,0,Yes,873.6,1483.0
+F-1596,Hovedstaden,Business services,15,10,Yes,7,0,No,1592.9,1741.5
+F-1780,Syddanmark,Hospitality,1,12,No,6,1,No,199.1,196.9
+F-1194,Nordjylland,Business services,6,18,No,4,0,No,"1.682,3",1975.8
+F-0652,sjælland,Manufacturing,14,10,No,4,0,No,"549,5 t.kr.",577.5
+F-1538,Hovedstaden,Hospitality,4,46,Yes,5,0,Yes,282.3,315.0
+F-1223,Midtjylland,Business services,5,11,Yes,5,0,Yes,838.6,981.7
+F-0949,hovedstaden,Retail and wholesale,8,7,No,6,0,No,1114.5,1388.9
+F-0974,Hovedstaden,Retail and wholesale,4,7,No,7,0,No,"759,7",672.0
+F-1383,Syddanmark,ICT,5,13,Yes,3,0,No,595.1,776.3
+F-1414,Hovedstaden,Construction,11,8,Yes,5,0,Yes,863.9,1165.0
+F-1046,Hovedstaden,Retail and wholesale,23,7,No,3,1,No,1797.5,2025.7
+F-1499,Hovedstaden,Hospitality,4,11,No,6,0,Yes,655.9,
+F-0065,Sjælland,ICT,5,4,Yes,4,1,No,678.3,799.6
+F-1587,Sjælland,Retail & wholesale,35,43,Yes,3,0,Yes,1166.5,1250.1
+F-0787, Hovedstaden,Hospitality,11,34,Yes,4,0,No,474.0,914.2
+F-0122,Hovedstaden,ICT,5,6,No,2,0,Yes,"864,5",911.5
+F-0154,Midtjylland,Retail and wholesale,8,6,Yes,9,0,Yes,732.4,741.8
+F-0404,Sjælland,business services,12,29,No,6,0,Yes,"973,7",1256.9
+F-1476,Sjaelland,Hospitality,3,6,No,9,0,No,439.5,345.6
+F-1379,Sjælland,Manufacturing,22,22,No,2,0,Yes,1344.9,1458.4
+F-1435,Zealand,Business services,15,37,Yes,8,1,No,985.8,952.9
+F-0095,Syddanmark,Business services,8,8,Yes,6,1,Yes,"572,9",649.6
+F-0080,Hovedstaden,Hospitality,18,19,No,6,0,No,438.1,
+F-0642,Hovedstaden,Hospitality,27,17,Yes,4,0,No,"596,6",767.6
+F-1727,Midtjylland,business services,7,23,Yes,6,1,Yes,922.5,1169.5
+F-1359,Hovedstaden,Retail and wholesale,10,12,No,5,0,No,"1.888,4 t.kr.",1977.5
+F-1020,Syddanmark,Manufacturing,4,11,No,2,0,No,867.1,813.5
+F-0425,Hovedstaden,Business Services,11,14,No,6,0,No,"1.241,1",1356.2
+F-0992,Midtjylland,Retail and wholesale,9,28,No,5,0,No,765.5,794.3
+F-0622,Hovedstaden,Manufacturing,17,8,Yes,6,0,Yes,647.1,732.9
+F-0447,syddanmark,ICT,3,8,No,4,0,No,"506,0",563.3
+F-1950,Sjælland,Construction,12,24,No,5,0,No ,577.4,646.6
+F-1305,Hovedstaden,Manufacturing,2,11,No,3,0,Yes,793.3,841.2
+F-1866,Sjælland,Business services,12,12,No,6,0,No,364.3,381.3
+F-1541,Midtjylland,Manufacturing,5,24,Yes,7,0,No,"2.019,2",1812.8
+F-0128,Hovedstaden,Retail and wholesale,6,11,No,4,0,No,745.7,989.8
+F-0734,Hovedstaden,Retail and wholesale,18,14,No,4,0,No,455.5,439.5
+F-0364,Syddanmark,Manufacturing,58,9,No,7,0,No,966.8,869.5
+F-0004,Midtjylland,Manufacturing,4,17,Yes,6,0,No,557.2,570.6
+F-1380,Midtjylland,Manufacturing,54,14,No,5,0,No,1372.0,1490.7
+F-1937,Midtjylland,Construction,22,7,No,4,0,No,659.4,692.8
+F-0676,Hovedstaden,Business Services,24,9,No,9,0,Yes,783.0,1010.3
+F-1521,Syddanmark,Manufacturing,3,6,No,5,0,No,660.2,
+F-0184,Midtjylland,Business services,42,7,Yes,8,0,Yes,691.2,1041.4
+F-0712,Syddanmark,Construction,7,20,Yes,5,0,No,"377,0",409.2
+F-1241,Hovedstaden,retail and wholesale,3,20,No,6,1,Yes,1478.6,1880.1
+F-1233,Region Hovedstaden,Manufacturing,8,12,Yes,4,0,Yes,1878.0,1785.4
+F-1577,Syddanmark,Manufacturing,13,10,No,4,0,No,1198.1,1110.3
+F-1030,Midtjylland,ICT,13,27,Yes,6,0,Yes,1701.6,2530.2
+F-1203,Hovedstaden,Retail and wholesale,7,6,No,3,0,No,1819.7,
+F-0636,Syddanmark,Business services,9,11,Yes,7,1,No,991.3,893.0
+F-0143,Hovedstaden,Retail and wholesale,5,6,Yes,7,0,No,"2.073,3",
+F-1047,Hovedstaden,Hospitality,9,28,No,6,0,No,594.1,776.3
+F-1099,Sjælland,Retail and wholesale,12,20,Yes,4,0,No,"1.312,1",1515.4
+F-0318,Midtjylland,Business services,13,12,No,5,0,No,673.0,
+F-1283,Syddanmark,Construction,11,10,Yes,10,0,No,"2.633,2",2437.4
+F-1688,Syddanmark,Retail and wholesale,19,21,Yes,8,0,Yes,"1.063,7",1285.4
+F-1595,Sjælland,Manufacturing,14,16,No,6,0,Yes,1198.2,1430.9
+F-1045,Hovedstaden,Retail and wholesale,8,18,No,2,0,No,2376.6,2126.9
+F-0758,Syddanmark,Retail and wholesale,2,24,Yes,6,1,No,3210.4,3895.9
+F-0149,Hovedstaden,Business services,28,18,Yes,7,0,Yes,416.2,493.0
+F-1619,Hovedstaden,Retail and wholesale,2,17,No,5,1,No,1323.1,1272.9
+F-1544,Syddanmark,Business services,5,3,Yes,1,0,No,449.0,485.5
+F-1119,Midtjylland,Manufacturing,5,26,No,4,0,No,335.1,356.7
+F-0841,Midtjylland,Retail & wholesale,39,50,No,2,0,No,879.2,990.0
+F-0026,Midtjylland,Hospitality,17,9,Yes,5,0,No,654.2,707.9
+F-1041,Nordjylland,Retail and wholesale,6,11,Yes,3,1,No,967.5,1153.7
+F-1639,Midtjylland,ICT,10,16,No,4,0,No,"759,2",782.6
+F-0840,Hovedstaden,Manufacturing ,4,12,No,5,1,No,685.3,779.6
+F-1408,Sjælland,Construction,11,9,No,4,0,Yes,620.3,561.4
+F-1807,Region Syddanmark,Business services,5,21,No,4,1,Yes,"879,9",1127.1
+F-1649,Hovedstaden,ICT,5,13,Yes,8,0,Yes,"364,2 t.kr.",458.5
+F-0236,Syddanmark,Retail and wholesale,7,25,No,9,0,No,1116.4,1178.4
+F-0789,Hovedstaden,ICT,7,25,Yes,8,0,Yes,1229.2,1484.3
+F-0138,Syddanmark,Manufacturing,7,9,No,2,0,No,718.2,916.5
+F-0829,Syddanmark,Retail and wholesale,9,30,No,4,0,Yes,"1.137,9",1329.9
+F-1729,Sjælland,Construction,3,9,No,6,0,No,887.9,
+F-0335,Sjælland,Construction,6,27,No,4,1,No,"839,4",955.2
+F-1517,Hovedstaden,Retail and wholesale,8,15,No,3,0,No,910.8,1014.7
+F-0201,Sjælland,Hospitality,26,11,No,5,0,Yes,"521,9",677.9
+F-1741,Southern Denmark,Hospitality,3,9,No,6,0,Yes,495.1,630.1
+F-1061,Sjælland,Retail and wholesale,26,20,No,5,0,Yes,2253.3,2001.4
+F-1909,Syddanmark,Hospitality,202,20,Yes,8,0,Yes,713.7,855.4
+F-0377,Hovedstaden,Business services,2,3,Yes,7,0,No,508.1,560.2
+F-1585,Nordjylland,Retail and wholesale,20,18,Yes,7,0,Yes,1054.7,1615.5
+F-1225,Region Hovedstaden,Retail and wholesale,3,14,No,5,1,No,2206.0,2152.5
+F-1510,Sjælland,IT,8,8,No,5,0,No,"1.655,7",1613.4
+F-1117,Region Syddanmark,construction,53,11,Yes,7,0,Yes,"1.362,1",1699.1
+F-0375,Region Sjælland,Business services,6,26,No,3,0,No,863.1,816.5
+F-1837,Hovedstaden,Business services,6,12,No,4,0,Yes,"596,4",691.7
+F-0818,Midtjylland,construction,10,23,No,7,0,No,752.4,664.9
+F-1481,Hovedstaden,Business services,2,9,No,2,1,No,484.3,438.3
+F-0183,Midtjylland,Manufacturing,13,12,No,6,0,No,741.7,695.8
+F-1172,Sjælland,Construction,18,9,No,6,0,No,1799.2,2182.9
+F-0302,Syddanmark,Retail and wholesale,9,12,No,3,1,No,"488,1",613.1
+F-0376,Region Hovedstaden,Construction,15,30,No,7,0,No,795.3,720.0
+F-1859,Syddanmark,Construction,4,16,Yes,9,1,Yes,1069.7,1340.7
+F-1178,Syddanmark,Business services,4,5,Yes,3,0,Yes,468.7,588.3
+F-0152,Nordjylland,Hospitality,5,12,No,4,0,No,306.0,327.0
+F-0555,Sjælland,ICT,12,10,Yes,9,0,Yes,1220.1,1596.2
+F-0307,Sjælland,Business services,2,12,Yes,8,0,Yes,845.1,910.2
+F-0416,Midtjylland,ICT,2,7,Yes,3,0,No,643.3,641.1
+F-1995,Hovedstaden,Retail and wholesale,4,13,No,3,0,No,1506.4,1917.4
+F-0867,Capital Region,Manufacturing,14,8,No,4,0,Yes,1007.7,1257.5
+F-1053,Capital Region,Business services,12,23,Yes,3,0,Yes,789.7,838.9
+F-0853,Midtjylland,Construction,25,15,No,6,0,Yes,821.3,1043.9
+F-0566,Hovedstaden,Manufacturing ,19,12,No,5,0,No,744.6,671.1
+F-1244,Region Midtjylland,Construction,38,,Yes,5,0,Yes,389.5,472.0
+F-0442,Region Hovedstaden,Hospitality,2,7,No,6,0,No ,676.1,583.2
+F-1489,Hovedstaden,Manufacturing,9,7,Yes,3,1,No,1135.8,994.6
+F-0030,Hovedstaden,ICT,5,20,Yes,5,1,No,1007.2,968.5
+F-1425,Midtjylland,Business services,4,5,Yes,4,0,No,420.0,443.4
+F-0274,Hovedstaden,Business services,34,9,Yes,6,0,No,1204.8,1235.3
+F-1428,Central Denmark,Hotels and restaurants,5,4,No,3,0,No,338.9,388.4
+F-0593,Midtjylland,business services,3,27,No,5,0,Yes,756.8,953.6
+F-0531,Syddanmark,retail and wholesale,11,14,Yes,99,0,No,"2.289,5 t.kr.",2113.7
+F-0271,Nordjylland,Manufacturing,7,11,No,4,0,Yes,933.0,1383.5
+F-0548,Syddanmark,Hospitality,5,24,No,5,0,No,824.6,731.8
+F-1764,Midtjylland,Construction,3,4,No,6,0,No,876.4,968.1
+F-0533,Sjælland,ICT,1,23,No,4,0,No,807.3,862.9
+F-1066,Midtjylland,manufacturing,6,5,No,7,0,No,"1.077,7",1489.5
+F-1309,Capital Region,Hospitality,6,8,No,6,0,No,718.5,973.2
+F-0996,Midtjylland,Business services,7,12,No,5,0,No,1954.6,2133.9
+F-0067,Midtjylland,Business services,4,6,Yes,6,0,Yes,508.8,531.1
+F-1991,Hovedstaden,Manufacturing,31,7,Yes,8,0,Yes,865.0,965.8
+F-0804,Region Sjælland,construction,9,6,Yes,6,0,Yes,738.4,930.4
+F-0129,Hovedstaden,Retail and wholesale,3,21,Yes,5,0,No,1657.5,1710.1
+F-1095,Hovedstaden,Retail and wholesale,14,24,No,7,0,No,1926.3,2117.6
+F-1424,Midtjylland,Business services,7,50,Yes,4,0,No,"373,3 t.kr.",411.9
+F-0312,Syddanmark,ICT,2,48,Yes,8,1,No,"1.179,0",1324.6
+F-0811,Hovedstaden,ICT,22,2,Yes,7,0,Yes,615.1,713.2
+F-0282,Syddanmark,Manufacturing,7,18,No,5,0,No,641.6,874.1
+F-1279,Syddanmark,Business services,3,6,Yes,8,0,Yes,1280.0,1564.3
+F-1269,Nordjylland,Business services,59,25,Yes,7,0,Yes,"1.599,2",2145.5
+F-1251,Syddanmark,Manufacturing,13,9,No,4,0,No,529.6,517.3
+F-1739,Hovedstaden,Manufacturing,43,11,Yes,7,1,Yes,484.2,580.5
+F-0322,Midtjylland,Manufacturing,11,10,Yes,6,0,No,473.3,548.0
+F-1681,Sjælland,Business services,8,9,No,5,0,No,881.9,868.2
+F-0363,Syddanmark,ICT,13,18,Yes,10,1,Yes,780.6,1007.5
+F-0465,Syddanmark,Business services,17,18,Yes,3,0,No,484.9,492.6
+F-1674,Hovedstaden,ICT,5,11,No,4,0,Yes,678.6,895.7
+F-0605,Sjælland,Retail and wholesale,34,16,No,7,0,No,"1.023,3",932.5
+F-0670,Syddanmark,Business services,14,12,Yes,9,0,Yes,436.0,555.0
+F-0704,Midtjylland,Retail and wholesale,8,80,Yes,4,0,No,"1.216,0",1423.0
+F-1730,Nordjylland,Hospitality,75,18,Yes,7,0,No,353.0,407.9
+F-1085,Hovedstaden,Business services,13,18,No,6,0,Yes,788.9,1002.6
+F-0414,Midtjylland,Construction,33,34,No,7,0,No,589.1,685.9
+F-0555,Sjælland,ICT,12,10,Yes,9,0,Yes,1220.1,1596.2
+F-1961,Sjælland,Manufacturing ,3,17,No,5,0,No,518.8,
+F-1963,Midtjylland,Hospitality,4,31,Yes,8,0,No,1228.6,1231.4
+F-1584,Hovedstaden,Hospitality,1,28,Yes,3,0,No,196.4,200.2
+F-0371,Hovedstaden,construction,3,6,Yes,6,0,No,522.7,
+F-1941,Hovedstaden,Business services,8,14,Yes,3,0,No,"736,0 t.kr.",773.3
+F-1705,Central Denmark,Construction,4,5,Yes,3,0,No,903.0,1066.5
+F-1317,Midtjylland,ICT,5,23,No,6,0,No,1088.2,1376.9
+F-0277,Hovedstaden,Retail and wholesale,1,9,No,6,0,No,"575,0",681.9
+F-0923,Hovedstaden,Construction,17,28,No,5,0,No,"558,3 t.kr.",603.8
+F-0082,Syddanmark,Construction,11,35,No,7,0,No,"689,0",868.3
+F-1007,Sjælland,Retail and wholesale,5,18,No,2,0,No,"1.097,4",1139.6
+F-1460,Sjælland,Construction,12,22,No,6,1,Yes,1073.9,1233.4
+F-0286,Syddanmark,ICT,20,31,Yes,3,0,Yes,1083.1,1037.3
+F-0523,Hovedstaden,Manufacturing,27,9,No,6,0,Yes,1373.0,1435.6
+F-0737,Region Nordjylland,Construction,5,14,Yes,5,0,No,1018.8,1101.4
+F-1080,Southern Denmark,Retail and wholesale,4,12,No,2,0,No,"946,2",931.0
+F-1740,Hovedstaden,Business services,17,7,Yes,10,0,Yes,2013.4,2289.4
+F-0435,North Denmark,retail and wholesale,11,24,No,3,0,no,1287.2,1428.4
+F-0222,Sjælland,Business Services,11,,Yes,9,0,Yes,1758.5,2366.0
+F-0901,Region Syddanmark,Hospitality,32,17,No,5,0,Yes,"352,8 t.kr.",283.9
+F-0355,Midtjylland,Manufacturing,13,5,Yes,3,1,Yes,1222.1,1172.7
+F-1023,Hovedstaden,Retail and wholesale,4,17,No,5,0,No,1055.8,1059.3
+F-0744,Hovedstaden,Manufacturing,18,14,Yes,6,0,Yes,1409.4,1525.7
+F-1783,Hovedstaden,Business services,16,20,Yes,7,0,Yes,497.5,675.7
+F-0313,Syddanmark,Construction,3,8,Yes,6,0,No,925.0,915.4
+F-1624,Midtjylland,ICT,9,5,Yes,4,1,Yes,1206.7,
+F-1751,Sjælland,Business services,21,25,Yes,8,0,No,448.4,463.5
+F-1126,Syddanmark,Retail and wholesale,10,6,No,4,1,No,570.8,
+F-0430,Midtjylland,Business Services,3,20,No,6,0,No,"839,9",818.5
+F-1303,Syddanmark,Construction,5,16,No,4,0,No,309.4,319.8
+F-0214,Syddanmark,Manufacturing,79,28,Yes,7,0,No,750.4,734.6
+F-0844,Region Hovedstaden,Business Services,6,11,Yes,6,0,No,442.9,553.7
+F-0743,Nordjylland,Retail and wholesale,7,10,No,4,0,No,1342.6,1479.5
+F-0972,Syddanmark,Construction,102,27,No,6,1,Yes,"623,4",653.7
+F-1067,Syddanmark,Business services,7,21,No,6,0,Yes,523.7,723.7
+F-0682,Midtjylland,Construction,11,12,Yes,5,0,No,619.9,622.1
+F-1230,Midtjylland,Retail and wholesale,14,22,Yes,9,1, Yes,1702.0,1738.6
+F-1502,Hovedstaden,Construction,12,14,Yes,4,0,No ,316.7,306.0
+F-1558,Midtjylland,Business services,4,18,No,7,0,No,1141.3,
+F-0914,midtjylland,Business services,2,16,Yes,6,0,No,1098.0,1132.3
+F-1037,Midtjylland,Manufacturing,130,5,Yes,9,0,Yes,2532.8,2532.6
+F-0683,Hovedstaden,Hospitality,18,6,No,4,0,Yes,"1.414,4",1578.2
+F-1277,Midtjylland,Hospitality,39,32,Yes,6,0,Yes,586.2,630.5
+F-0948,Sjælland,Retail and wholesale,7,9,Yes,6,1,No,1321.2,1586.1
+F-0873,Hovedstaden,Manufacturing,10,16,No,2,0,No,"599,8",714.0
+F-1936,Sjælland,ICT,1,4,No,6,0,Yes,583.1,720.7
+F-1009,Sjælland,Hospitality,54,9,No,4,1,No,557.5,632.9
+F-0983,Sjælland,Construction,6,26,No,3,0,No,804.0,1087.9
+F-1312,Midtjylland,Business services,3,19,No,5,0,Yes,507.0,653.1
+F-0490,Nordjylland,Hospitality,19,27,Yes,7,0,Yes,492.7,466.7
+F-0219,Sjælland,Business services,13,33,No,5,0,No,1918.1,1909.6
+F-0245,Hovedstaden,Business services,8,17,No,5,0,Yes,490.1,596.0
+F-0899,Sjælland,ICT,20,13,Yes,8,0,Yes,1389.8,1440.7
+F-0431,Southern Denmark,Construction,11,9,No,2,0,No,660.8,755.4
+F-0620,Midtjylland,ICT,19,29,Yes,5,0,No,721.9,876.6
+F-1900,Nordjylland,ICT,3,12,No,5,0,No,"1.242,2",1366.3
+F-0814,Region Syddanmark,Construction,7,12,No,3,0,No,258.9,294.5
+F-0916,Nordjylland,Manufacturing,13,7,Yes,9,1,Yes,1499.1,1464.2
+F-0388,Syddanmark,Retail and wholesale,3,14,No,6,0,Yes,1309.7,1537.2
+F-1910,Hovedstaden,Construction,37,11,Yes,99,0,No,1421.0,1414.1
+F-1032,nordjylland,Construction,20,13,No,7,0,No,969.3,1270.3
+F-1694,Nordjylland,Business services,18,9,Yes,8,0,Yes,"863,5",803.8
+F-0963,Syddanmark,Retail and wholesale,25,12,Yes,10,0,No,3003.2,4129.4
+F-0980,Hovedstaden,Retail & wholesale,6,20,Yes,5,0,Yes,1072.9,1195.4
+F-1744,Syddanmark,Business services,7,14,No,7,0,Yes,693.8,798.4
+F-1467,Midtjylland,Retail and wholesale,12,19,Yes,99,0,YES,538.6,562.7
+F-0399,midtjylland,Retail and wholesale,9,6,No,6,0,No,780.5,751.8
+F-1790,Nordjylland,Retail and wholesale,9,6,Yes,4,0,Yes,1939.8,2319.8
+F-0310,Region Midtjylland,Hospitality,3,15,No,4,0,No,425.5,423.4
+F-0602,Nordjylland,Business services,1,,No,3,0,Yes,440.4,524.9
+F-1816,Sjælland,Business services,21,4,Yes,8,0,Yes,730.9,924.6
+F-0631,Hovedstaden,Manufacturing,30,39,Yes,4,0,Yes,"2.365,7",2361.6
+F-1141,Midtjylland,Hospitality,6,30,No,5,1,No,"384,2",317.9
+F-0141,Nordjylland,Retail and wholesale,9,4,No,4,0,No,1091.6,949.1
+F-0953,Midtjylland,Retail and wholesale,4,15,Yes,6,0,Yes,643.1,
+F-1973,Central Denmark,Business services,4,11,Yes,9,0,Yes,"771,1",929.8
+F-1967,Region Hovedstaden,construction,3,17,Yes,4,0,No,"958,1",1014.7
+F-0041,Hovedstaden,Manufacturing,1,2,No,2,0,No,628.0,609.2
+F-1761,Sjælland,Hospitality,30,17,No,6,1,No,"329,5",322.0
+F-1582,Southern Denmark,Business services,10,7,Yes,5,1,Yes,840.9,992.9
+F-1712,Syddanmark,ICT,24,20,No,8,0,Yes,1351.4,1660.8
+F-0688,Hovedstaden,Manufacturing,9,33,No,6,1,Yes,737.8,788.7
+F-1957,hovedstaden,Retail and wholesale,140,15,Yes,6,0,Yes,938.1,1128.5
+F-0074,Syddanmark,Manufacturing,8,10,Yes,4,0,Yes,1676.0,1732.9
+F-0266,Region Syddanmark,Retail and wholesale,4,15,Yes,3,1,Yes,674.9,801.7
+F-1808,Midtjylland,Retail and wholesale,23,25,Yes,7,0,Yes,2166.7,2298.1
+F-1336,Syddanmark,Manufacturing,14,9,Yes,5,1,Yes,737.8,857.1
+F-1455,Syddanmark,Manufacturing,7,16,No,4,0,No,1190.9,1149.9
+F-0176,Midtjylland,Manufacturing,44,36,No,4,0,No,1012.8,1177.1
+F-1463,Hovedstaden,Retail and wholesale,10,4,No,6,0,yes,540.0,693.9
+F-0896,Midtjylland,Business services,5,8,No,3,0,No,1148.9,1185.7
+F-1567,Midtjylland,Hospitality,8,10,No,3,0,No,"386,5",294.6
+F-0756,Hovedstaden,Manufacturing,9,15,No,5,0,No,374.2,
+F-0018,Hovedstaden,Hospitality,6,9,No,6,0,No,325.6,437.0
+F-1391,Nordjylland,Business services,10,8,Yes,4,0,No,744.6,778.7
+F-0851,Midtjylland,Retail and wholesale,4,17,No,5,0,no,"1.828,6",1704.1
+F-0235,Syddanmark,Construction,4,8,No,2,0,No,419.1,
+F-0692,Hovedstaden,Retail and wholesale,2,,No,1,0,No,627.5,790.7
+F-0845,Hovedstaden,IT,5,10,Yes,9,0,Yes,1189.2,1449.3
+F-0728,Syddanmark,Retail & wholesale,46,8,Yes,7,1,Yes,"934,3",1018.7
+F-1185,Syddanmark,Manufacturing,12,11,No,4,0,No,592.8,603.2
+F-1308,Midtjylland,Manufacturing,3,13,No,6,0,Yes,546.2,498.3
+F-1581,Midtjylland,Construction,5,15,No,8,0,No,351.1,445.4
+F-0957,Syddanmark,Construction,23,7,No,4,0,No,1020.2,1035.0
+F-1829,Midtjylland,Manufacturing,9,31,No,5,0,No,"287,9",274.5
+F-0137,Hovedstaden,Manufacturing,14,43,No,4,0,Yes,"1.150,4",1581.1
+F-1528,Syddanmark,Construction,3,6,No,6,0,No,746.6,
+F-1193,Nordjylland,Retail and wholesale,14,23,No,8,1,Yes,1200.5,1239.0
+F-0717,Sjælland,Business services,1,29,Yes,3,0,No,385.5,367.3
+F-0190,Nordjylland,Business services,17,16,No,7,0,No,1689.2,1917.2
+F-1763,Midtjylland,Construction,4,12,No,2,1,No,510.0,492.0
+F-1401,Syddanmark,ICT,2,10,Yes,6,0,No,709.7,707.6
+F-1714,Midtjylland,Manufacturing,18,7,Yes,5,1,No,559.9,562.5
+F-0040,Hovedstaden,Hospitality,31,23,No,7,0,Yes,858.8,1262.0
+F-1475,Midtjylland,ICT,111,20,Yes,7,0,Yes,2140.6,2625.8
+F-1354,Syddanmark,construction,3,11,No,4,0,NO,439.0,421.1
+F-1313,Midtjylland,Hospitality,19,7,Yes,3,0,No,259.3,217.9
+F-1116,Region Midtjylland,Hospitality,4,16,No,3,0,No,379.5,455.1
+F-1164,midtjylland,Retail and wholesale,3,19,No,3,0,No,974.3,966.9
+F-1556,Hovedstaden,Construction,20,7,Yes,6,0,Yes,1163.4,1304.0
+F-1844,Sjælland,Retail and wholesale,2,6,No,6,0,No,1448.2,1846.6
+F-0272,Syddanmark,Retail and wholesale,6,21,No,3,0,Yes,718.4,658.1
+F-0385,Capital Region,Business services,4,13,Yes,4,1,Yes,477.7,532.2
+F-0455,Nordjylland,Construction,10,16,Yes,4,0,No,993.2,1095.7
+F-0472,Midtjylland,Hospitality,4,5,No,4,1,Yes,355.9,496.9
+F-0784,Syddanmark,manufacturing,11,19,No,3,0,Yes,732.9,660.5
+F-1162,Syddanmark,Business services,24,17,Yes,8,0,Yes,1282.8,1784.6
+F-1606,Midtjylland,Construction,5,14,No,6,0,No,1291.1,1806.2
+F-0225,Hovedstaden,ICT,3,23,Yes,5,1,Yes,1195.0,1415.6
+F-1100,Hovedstaden,Construction,5,19,No,2,0,No,487.1,594.7
+F-1477,Nordjylland,Manufacturing,5,14,No,3,0,No,650.5,727.6
+F-0411,Midtjylland,Manufacturing,16,,Yes,6,0,Yes,1029.5,1030.4
+F-1815,Hovedstaden,Retail and wholesale,7,17,Yes,4,1,Yes,"1.037,1",1067.4
+F-1773,Syddanmark,Business services,8,15,Yes,6,1,Yes,598.2,689.8
+F-0020,Syddanmark,Hospitality,3,19,Yes,3,1,Yes,407.2,551.4
+F-1925,Syddanmark,Manufacturing,9,14,Yes,8,1,Yes,1498.3,
+F-1445,Hovedstaden,Business services,2,5,Yes,4,0,No,603.7,698.0
+F-0655,Hovedstaden,ICT,3,14,No,3,0,No,"713,8",697.0
+F-1327,Syddanmark,Business services,5,,Yes,7,0,Yes,325.6,404.3
+F-1398,Syddanmark,Business services,5,6,No,5,1,Yes,506.4,654.5
+F-1557,Syddanmark,Retail and wholesale,5,2,No,99,0,No,945.0,
+F-0097,Nordjylland,Retail and wholesale,31,26,Yes,7,0,Yes,3808.1,4080.4
+F-1710,Hovedstaden,ICT,13,12,No,6,0,Yes,1090.8,1187.6
+F-1392,Hovedstaden,Business services,22,37,Yes,5,1,Yes,762.6,991.5
+F-0373,Region Midtjylland,ICT,25,14,No,6,0,Yes,1136.0,1398.8
+F-1026,Hovedstaden,Hospitality,6,5,Yes,4,0,No,"423,8 t.kr.",516.5
+F-0423,Sjælland,retail and wholesale,1,5,No,1,0,No,703.4,794.2
+F-0887,Syddanmark,Retail and wholesale,33,7,No,6,0,Yes,"835,9",949.3
+F-1087,Syddanmark,Retail and wholesale,8,9,No,4,0,No,"964,7",871.8
+F-0457,Hovedstaden,Business services,10,14,Yes,6,0,Yes,991.4,1270.3
+F-1554,Sjælland,Hotels and restaurants,11,21,No,3,0,Yes,337.2,311.2
+F-0857,Sjælland,Business services,11,55,No,3,1,Yes,1292.9,1533.0
+F-1953,Sjælland,Hospitality,72,14,No,5,0,Yes,795.5,945.3
+F-0739,Syddanmark,Construction,10,17,No,6,0,No,1005.0,1073.7
+F-1361,Syddanmark,ICT,21,34,No,7,0,Yes,2319.3,2532.9
+F-0556,Syddanmark,Construction,28,3,No,5,0,Yes,757.9,817.1
+F-0850,Sjælland,Business services,2,11,No,5,0,yes,450.0,620.3
+F-1956,Hovedstaden,Manufacturing,25,8,No,7,0,No,"410,4",497.1
+F-1180,Hovedstaden,Manufacturing,38,12,No,6,0,No,1029.3,1249.5
+F-0110,Hovedstaden,Hospitality,6,15,No,6,0,No,439.7,420.2
+F-1226,Midtjylland,Business Services,4,14,Yes,4,0,No,"439,9 t.kr.",461.5
+F-1867,Hovedstaden,Business services,11,16,No,5,0,No,"798,9",670.3
+F-1363,Hovedstaden,Retail and wholesale,6,16,Yes,2,0,No,1636.1,2082.7
+F-1485,Syddanmark,Business services,2,17,No,5,0,Yes,1111.9,1366.6
+F-0031,Syddanmark,Hospitality,49,23,No,3,0,Yes,389.7,401.1
+F-1388,Midtjylland,Business services,7,12,No,5,0,No,585.4,649.1
+F-1454,Sjælland,Hospitality,17,34,Yes,6,0,No,508.1,558.5
+F-1151,Nordjylland,Manufacturing,74,16,No,1,0,No,857.4,854.9
+F-0146,Midtjylland,Retail and wholesale,9,16,No,6,0,Yes,997.7,1075.7
+F-0297,Hovedstaden,business services,12,6,Yes,5,1,yes,960.6,1165.6
+F-0671,Midtjylland,Construction,42,44,Yes,7,0,Yes,"1.406,4",1387.9
+F-0130,Hovedstaden,Business services,101,9,No,5,0,No,"544,8",553.5
+F-1824,Hovedstaden,Retail and wholesale,12,13,Yes,7,0,yes,2061.2,2336.3
+F-0990,Syddanmark,Manufacturing,7,9,No,6,0,No,"1.895,1",1890.8
+F-0039,Southern Denmark,Manufacturing,17,30,No,5,0,No,945.0,1148.9
+F-0931,Midtjylland,Construction,2,12,No,7,1,No,484.2,440.3
+F-1177,Midtjylland,Construction,11,22,Yes,4,0,No,511.3,606.3
+F-0803,Syddanmark,ICT,21,51,Yes,99,0,Yes,845.9,931.9
+F-1022,Hovedstaden,Retail and wholesale,9,11,No,4,0,No,2197.9,2088.0
+F-1285,Midtjylland,Retail and wholesale,8,61,No,3,0,Yes,"1.112,3",1350.5
+F-1850,Midtjylland,Construction,70,50,Yes,5,0,No,950.1,1067.3
+F-0189,Hovedstaden,Business Services,5,15,No,4,0,No,"652,7",687.4
+F-1776,Midtjylland,Construction,4,8,No,3,0,No,1129.0,
+F-1533,Sjælland,Manufacturing,2,13,No,2,0,No,684.4,883.7
+F-1214,Hovedstaden,Manufacturing ,23,32,No,8,0,No,850.7,766.3
+F-1603,Hovedstaden,Construction,14,,No,3,0,No,795.1,1019.7
+F-1654,Midtjylland,construction,23,12,Yes,5,1,Yes,963.9,1066.5
+F-1501,Nordjylland,Retail and wholesale,9,74,Yes,5,0,No,"1.801,9",1917.5
+F-1227,Hovedstaden,Retail and wholesale,13,29,No,5,0,Yes,1293.1,1398.2
+F-1756,Syddanmark,Retail and wholesale,4,5,Yes,6,0,Yes,1075.9,1417.5
+F-0777, Hovedstaden,ICT,6,32,Yes,4,1,No,754.1,903.0
+F-1846,Nordjylland,Business services,6,8,Yes,4,1, Yes,1821.2,2168.1
+F-0648,Hovedstaden,Retail and wholesale,5,12,Yes,6,0,Yes,519.3,560.8
+F-0573,North Denmark,Business services,2,6,No,4,0,No,965.7,946.7
+F-0627,Midtjylland,Construction,6,5,No,3,0,No,654.2,779.7
+F-0614,Hovedstaden,Manufacturing,3,9,No,3,0,No,"823,6",787.4
+F-0288,Midtjylland,Business services,4,12,Yes,5,0,No,644.0,694.3
+F-1977,Hovedstaden,Manufacturing,25,16,Yes,6,0,Yes,593.5,625.0
+F-0475,Hovedstaden,Business services,37,14,Yes,5,0,Yes,1129.0,
+F-1920,Hovedstaden,Construction,5,20,Yes,1,0,No,690.4,657.1
+F-0915,Nordjylland,Construction,20,9,No,8,0,Yes,569.5,647.9
+F-0383,Hovedstaden,hospitality,8,16,No,1,0,Yes,294.2,405.7
+F-0918,Midtjylland,Retail and wholesale,26,19,No,3,0,No,804.7,810.2
+F-1785,Sjælland,Retail and wholesale,14,26,No,6,0,No,1026.2,986.2
+F-0053,Syddanmark,Manufacturing,33,12,No,4,0,No,667.8,810.4
+F-0479,Hovedstaden,Business services,3,13,Yes,6,0,Yes,"753,2",1074.1
+F-1680,Sjælland,Manufacturing,10,10,Yes,6,0,Yes,"836,8",
+F-0644,Hovedstaden,Hospitality,18,10,No,6,0,No,738.8,491.2
+F-1044,Syddanmark,Retail and wholesale,6,20,No,6,0,No,1458.3,1581.8
+F-0424,Midtjylland,Retail and wholesale,25,16,Yes,7,1,No,1443.7,
+F-0437,Syddanmark,Retail and wholesale,71,10,Yes,6,0,No,409.8,505.1
+F-1847,Sjælland,Business services,21,10,No,8,0,Yes,"1.523,7",1834.2
+F-0359,Hovedstaden,Business services,33,12,No,4,0,Yes,"433,5",638.7
+F-1234,Sjælland,Retail and wholesale,18,9,No,5,0,No,528.9,515.5
+F-1256,Hovedstaden,Business services,17,48,No,5,0,Yes,1120.2,1662.7
+F-1835,Hovedstaden,Business services,6,21,Yes,4,1,no,649.0,778.6
+F-0360,Sjælland,Construction,58,50,No,6,0,Yes,"1.488,7",1685.8
+F-1466,Sjælland,Manufacturing,31,71,No,4,0,Yes,629.6,627.8
+F-0229,Midtjylland,Manufacturing,2,18,Yes,3,0,No,351.6,383.9
+F-1620, Hovedstaden,Business services,9,9,No,3,1,Yes,661.0,809.9
+F-0519,Syddanmark,Retail and wholesale,11,22,Yes,3,0,No,715.9,939.9
+F-0057,Syddanmark,Business services,1,19,No,6,0,No,487.9,593.1
+F-1243,Hovedstaden,Business services,4,15,No,4,0,No,491.0,473.9
+F-1566,Midtjylland,Business services,97,22,Yes,10,0,No,1323.8,1416.9
+F-1127,Syddanmark,Business services,6,16,No,8,0, Yes,748.9,
+F-1717,Midtjylland,Manufacturing,11,24,Yes,6,0,No,"1.764,4",2298.3
+F-1403,Syddanmark,Business services,3,14,No,2,0,No,"537,1",759.1
+F-0476,Hovedstaden,Construction,13,26,Yes,5,0,No,796.1,829.0
+F-0467,Sjælland,Manufacturing,15,15,Yes,99,0,No,"929,2",1164.4
+F-0886,Midtjylland,Retail and wholesale,5,,No,5,0,No,"894,3",740.1
+F-0157,Hovedstaden,ICT,10,9,Yes,6,0,No,1061.7,1364.4
+F-1014,Syddanmark,Construction,23,18,Yes,2,0,No,716.0,732.9
+F-0965,Sjælland,Hospitality,44,25,No,4,0,No,518.3,600.0
+F-0452,Midtjylland,Hotels and restaurants,4,6,No,99,0,No,310.4,283.1
+F-1478,Hovedstaden,Hospitality,3,20,No,4,1,No,322.8,309.3
+F-0084,Syddanmark,Hospitality,37,26,No,6,0,No,255.4,223.0
+F-1625,Syddanmark,Hospitality,62,41,Yes,10,0,Yes,578.0,646.6
+F-0244,Zealand,Retail & wholesale,7,4,Yes,5,0,Yes,"1.788,7",2026.4
+F-0707,Midtjylland,Construction,5,14,Yes,9,0,No,1123.2,1067.6
+F-0240,Hovedstaden,Retail and wholesale,4,9,Yes,3,0,No,1941.6,2206.3
+F-0832,Syddanmark,Retail and wholesale,15,12,No,5,0,No,2735.8,2329.6
+F-1986,Midtjylland,Business services,25,11,No,5,0,Yes,1323.4,1367.4
+F-1935,Nordjylland,Construction,46,12,No,7,0,No ,1298.4,1303.0
+F-1447,Hovedstaden,Manufacturing,7,17,No,2,0,Yes,"660,2",697.9
+F-1817,Hovedstaden,Manufacturing,5,21,Yes,5,0,No,461.3,467.8
+F-0936,Nordjylland,Manufacturing,37,16,No,7,0,No,1309.0,1372.8
+F-1863,Syddanmark,Hospitality,24,6,Yes,4,1,No,494.2,499.4
+F-0089,Region Midtjylland,Business services,12,14,No,7,0,No,"863,5",1021.8
+F-0930,Midtjylland,Retail and wholesale,22,20,Yes,8,1,Yes,2904.5,3949.3
+F-1310,Region Midtjylland,Retail and wholesale,40,24,No,6,0,No,1096.6,1161.5
+F-1405,Midtjylland,Manufacturing,13,10,Yes,6,0,No,710.9,709.3
+F-0565,Hovedstaden,Business Services,3,10,No,7,0,No,812.8,688.9
+F-0562,Hovedstaden,Retail and wholesale,5,12,Yes,3,0,No,"917,5",1012.4
+F-1114,Syddanmark,Business services,6,40,Yes,8,0,Yes,929.9,1308.2
+F-1071,Hovedstaden,Construction,27,12,No,6,0,Yes,705.7,790.6
+F-1210,sjælland,Business services,5,6,Yes,6,0,Yes,"757,2",890.0
+F-1542,Syddanmark,Hospitality,30,21,No,5,0,No,338.7,299.6
+F-0553,Syddanmark,Hospitality,3,8,Yes,3,0,No,"463,7",660.2
+F-0723,Syddanmark,ICT,2,8,No,5,0,No,"894,9",790.2
+F-1307,Midtjylland,Business services,11,27,Yes,4,1,No,715.8,713.7
+F-0259,hovedstaden,Business services,4,19,No,4,1,Yes,578.3,760.3
+F-0559, Hovedstaden,ICT,7,5,Yes,9,1,Yes,1447.9,1722.1
+F-1970,Hovedstaden,ICT,31,8,Yes,8,0,Yes,864.2,1195.4
+F-0249,Hovedstaden,Retail and wholesale,64,12,Yes,1,0,No,1434.7,1556.6
+F-1005,Nordjylland,Business services,16,23,No,5,0,No,"333,8",329.3
+F-0521,Sjælland,ICT,47,22,Yes,6,0,Yes,"1.420,3",1717.0
+F-1903,Nordjylland,construction,12,5,No,6,0,Yes,"432,6",456.9
+F-0909,Sjælland,Manufacturing,26,12,Yes,5,0,No,839.1,1264.5
+F-0231,North Denmark,Construction,16,8,Yes,99,0,Yes,1172.4,1286.1
+F-1771,Sjælland,Business services,115,19,No,6,0,Yes,1326.6,1614.2
+F-0311,Hovedstaden,Manufacturing,15,20,No,5,0,No,"1.087,0",1189.8
+F-1631,Midtjylland,Hospitality,3,9,No,1,0,No,"286,8",317.2
+F-0162,Sjælland,IT,3,19,No,3,0,No,"888,7",
+F-1195,Hovedstaden,Manufacturing,97,15,Yes,9,0,Y,575.8,504.7
+F-1358,Sjælland,Business services,6,12,Yes,6,0,No,1121.8,
+F-0167,Nordjylland,Business services,84,20,Yes,6,0,Yes,769.9,898.4
+F-0202,Hovedstaden,Construction,5,9,Yes,99,0,Yes,352.4,327.5
+F-0346,Hovedstaden,Construction,26,3,Yes,7,0,Yes,716.5,914.7
+F-0716,Nordjylland,ICT,24,34,Yes,7,0,Yes,575.1,
+F-0680,Syddanmark,Manufacturing,10,19,No,4,0,No,1246.5,1457.0
+F-0427,Syddanmark,Construction,20,12,No,6,0,No,"1.993,2",1891.9
+F-0842,Hovedstaden,Manufacturing,9,29,Yes,8,1,N,1284.3,1275.2
+F-0328,Sjælland,Construction,7,11,No,3,0,Yes,"1.246,0",1468.3
+F-1092,Syddanmark,Business services,5,19,Yes,7,0,Yes,831.3,1248.0
+F-1990,Syddanmark,Business services,10,22,Yes,7,1, Yes,616.1,847.9
+F-1183,Hovedstaden,Hospitality,2,19,No,3,0,No,"701,6 t.kr.",637.4
+F-0848,Hovedstaden,ICT,10,16,Yes,5,0,No,1220.1,1216.6
+F-0606,Midtjylland,ICT,10,12,Yes,3,0,No,1091.6,1116.7
+F-0552,Midtjylland,Retail and wholesale,19,54,No,5,1,No,1466.4,1328.5
+F-1868,Syddanmark,ICT,11,7,Yes,5,0,No,"810,0",813.6
+F-0725,Hovedstaden,Hospitality,49,33,Yes,7,0,N,584.0,492.7
+F-0684,Nordjylland,Manufacturing,13,26,Yes,3,0,No,829.9,654.5
+F-1281,Hovedstaden,Business services,3,13,No,3,0,No,370.3,446.5
+F-0831,Hovedstaden,Manufacturing,15,10,No,3,0,No,760.6,826.4
+F-0819,Sjælland,ict,6,19,Yes,7,0,Yes,1546.9,2288.8
+F-0294,Hovedstaden,Construction,5,35,Yes,8,1,Yes,613.0,647.0
+F-0481,Sjælland,Retail & wholesale,5,18,No,2,0,No,"1.964,3",2122.0
+F-1942,Hovedstaden,Retail and wholesale,59,27,No,4,0,Yes,"940,5",1170.9
+F-0658,Midtjylland,Retail and wholesale,34,15,Yes,5,0,Yes,1375.7,1240.9
+F-1008,Hovedstaden,manufacturing,6,17,No,5,0,No,646.8,793.6
+F-1050,Hovedstaden,Manufacturing,22,8,No,7,0,Yes,1991.3,2176.3
+F-0561,Hovedstaden,Construction,48,13,No,3,1,Yes,"1.048,4",1171.2
+F-0979,Midtjylland,Construction,7,10,Yes,5,0,No,585.5,505.2
+F-1123,Sjælland,Business services,6,16,Yes,6,0,No,1220.4,1570.5
+F-0103,Midtjylland,Construction,7,8,No,3,0,No,373.8,381.7
+F-0681,Region Nordjylland,Manufacturing,8,22,Yes,7,0,No,1528.3,1844.4
+F-0270,Syddanmark,ICT,14,13,Yes,6,0,No,"1.232,6",1238.0
+F-1650,Sjælland,Business services,4,20,Yes,1,0,No,1039.8,1292.3
+F-0064,Hovedstaden,Retail and wholesale,4,19,No,7,0,No,1896.3,1967.1
+F-0669,Midtjylland,Retail and wholesale,6,20,No,3,0,No,1615.0,1649.8
+F-1693,Hovedstaden,Manufacturing,3,16,No,6,0,No,538.0,645.4
+F-1675,Syddanmark,manufacturing,24,28,Yes,6,1,Yes,1452.0,1339.0
+F-0204,Hovedstaden,Retail and wholesale,37,6,No,4,0,No,696.1,726.2
+F-1440,Midtjylland,ICT,7,,Yes,6,0,No,2627.1,2636.6
+F-1417,Sjælland,Construction,1,13,No,1,0,No,"381,7",383.1
+F-0567,Midtjylland,Retail and wholesale,24,22,No,8,0,Yes,913.2,1064.0
+F-1232,Nordjylland,Construction,14,8,No,4,0,Yes,323.9,307.6
+F-1898,Region Nordjylland,Business Services,11,12,Yes,99,0,Yes,1156.9,1307.0
+F-1038,Syddanmark,Retail and wholesale,52,23,Yes,7,0,Yes,1641.0,1924.9
+F-1598,Syddanmark,Retail and wholesale,5,11,No,4,0,Yes,1230.2,1453.8
+F-0163,Sjælland,Retail and wholesale,30,14,Yes,4,0,Yes,2149.1,2534.2
+F-1068,Midtjylland,Construction,13,7,Yes,4,1,yes,"685,4 t.kr.",793.3
+F-0420,Hovedstaden,Manufacturing,14,4,No,3,0,No,1014.0,995.7
+F-1165,Midtjylland,ICT,2,13,Yes,6,1,Yes,626.6,802.1
+F-0260, Hovedstaden,retail and wholesale,1,14,No,4,1,No,910.2,1073.9
+F-0765,Syddanmark,Business services,22,25,Yes,8,0,Yes,851.5,1049.7
+F-1706,Syddanmark,Manufacturing,15,24,No,6,0,Yes,669.9,1014.4
+F-1249,Hovedstaden,retail and wholesale,9,9,No,5,0,No,815.2,795.5
+F-0483,Hovedstaden,Hospitality,9,46,No,5,0,No,280.2,240.2
+F-0563,Hovedstaden,Business services,2,7,Yes,6,0,No,608.7,587.3
+F-0769,Nordjylland,Construction,19,29,No,3,0,No,953.9,987.3
+F-1504,Capital Region,Manufacturing,5,28,No,1,0,No,"864,8",929.3
+F-1968,Capital Region,Retail and wholesale,3,27,Yes,4,0,Yes,662.5,880.8
+F-1523,Syddanmark,Hospitality,17,24,No,5,0,No,550.1,648.0
+F-1708,Hovedstaden,Hospitality,4,14,No,2,0,No,"772,5",783.2
+F-0315,syddanmark,Hospitality,7,8,No,6,1,No,"553,3",605.2
+F-1659,Hovedstaden,Construction,15,35,Yes,4,0,No,642.2,887.6
+F-1484,Sjælland,Manufacturing,26,11,No,3,0,No,841.8,1035.4
+F-0641,Hovedstaden,Business services,6,20,Yes,7,0,No,"1.667,0",1663.0
+F-1266,Syddanmark,Manufacturing,2,33,No,4,0,No,555.0,621.1
+F-0757,Midtjylland,Retail and wholesale,6,13,No,5,1,No,983.6,986.6
+F-1798,Syddanmark,Retail and wholesale,10,8,Yes,10,0,Yes,958.7,1082.1
+F-0091,Syddanmark,construction,1,3,Yes,1,0,No,"663,4",687.5
+F-0749,Midtjylland,Manufacturing,17,13,No,4,0,No,"1.087,3",1182.7
+F-1204,Midtjylland,Retail and wholesale,11,19,Yes,4,1,Yes,1265.8,1507.4
+F-0054,Hovedstaden,Retail and wholesale,1,10,Yes,7,0,No,522.0,596.2
+F-1928,Syddanmark,Manufacturing,23,47,Yes,7,1,No,1123.7,1161.0
+F-1422,Midtjylland,Manufacturing,7,15,No,5,0,No,"768,6",805.6
+F-0369,Syddanmark,Business services,10,37,Yes,9,0,Yes,"778,4",1001.9
+F-1013,Syddanmark,Manufacturing,11,11,Yes,6,0,No,1148.8,1367.2
+F-0524,Hovedstaden,Business services,10,22,Yes,3,1,Yes,662.9,715.3
+F-1784,Midtjylland,Manufacturing,7,26,No,4,0,No,503.6,
+F-0775,Midtjylland,Hospitality,7,11,Yes,7,1,Yes,"358,9",308.6
+F-0108,Hovedstaden,Manufacturing,7,31,No,6,0,No,"1.963,2",2427.4
+F-1218,Midtjylland,Business services,3,8,Yes,99,0,No,"1.309,8",
+F-1904,Midtjylland,Business services,24,8,No,3,0,No,1494.6,1750.9
+F-0664,Syddanmark,Construction,5,3,No,4,0,No,"864,3",1022.9
+F-0905,Syddanmark,Business services,22,24,Yes,3,0,Yes,551.1,521.5
+F-0119,Hovedstaden,Business services,2,14,Yes,3,0,No,369.7,443.2
+F-0293,Region Nordjylland,retail and wholesale,31,18,No,4,0,No,1970.6,2101.6
+F-0156,Syddanmark,Manufacturing,22,15,No,7,0,Yes,554.4,678.6
+F-1021,Syddanmark,Hospitality,5,,No,2,0,No,"702,3 t.kr.",985.5
+F-0542,Hovedstaden,Construction,2,17,No,5,1,No,456.0,384.9
+F-1058,Midtjylland,Business services,29,20,Yes,7,0,Yes,876.7,1154.0
+F-1247,Midtjylland,Construction,14,11,No,4,1,No,573.4,558.7
+F-0759,Nordjylland,Business services,14,40,Yes,6,0,Yes,791.0,1088.3
+F-1370,Syddanmark,Construction,73,50,No,5,0,N,509.2,635.6
+F-0210,Midtjylland,Retail and wholesale,3,6,Yes,4,0,No,1135.5,
+F-0704,Midtjylland,Retail and wholesale,8,80,Yes,4,0,No,"1.216,0",1423.0
+F-0489,Midtjylland,Construction,2,6,No,3,1,No,461.0,363.9
+F-1323,Syddanmark,Retail and wholesale,26,5,No,5,0,No,"2.462,5",3186.1
+F-0718,Midtjylland,Retail and wholesale,4,8,No,7,0,Yes,1631.3,1925.9
+F-1074,Midtjylland,Retail and wholesale,3,16,No,3,0,No,"1.687,9",1709.8
+F-0179,Midtjylland,Retail and wholesale,4,26,No,4,0,No,581.8,668.3
+F-0577,Midtjylland,Construction,1,10,Yes,99,0,No,"519,6 t.kr.",476.0
+F-0884,Hovedstaden,Construction,4,6,No,5,1,Yes,883.9,964.0
+F-0665,Syddanmark,Construction,48,30,Yes,6,0,Yes,812.0,822.3
+F-1397,Midtjylland,Business services,4,34,Yes,5,1,NO,1520.9,1604.4
+F-0010,Hovedstaden,Business services,4,17,No,7,0,Yes,623.3,724.9
+F-1103,Nordjylland,Retail and wholesale,33,11,No,3,0,No,751.6,943.4
+F-1608,Syddanmark,Retail and wholesale,15,28,Yes,3,1,No,863.0,840.8
+F-1673,Nordjylland,Business services,10,14,Yes,99,0,No,"486,8",597.6
+F-1029,Midtjylland,Manufacturing,12,12,No,1,0,No,1078.3,1287.8
+F-0180,Sjælland,Manufacturing,9,14,No,4,0,No,"954,8",993.6
+F-1601,Region Midtjylland,Construction,25,9,No,7,0,Yes,479.7,603.7
+F-0408,Hovedstaden,Hospitality,49,26,Yes,5,0,No,513.1,545.8
+F-1667,Syddanmark,Retail and wholesale,17,10,Yes,8,0,No,746.8,705.3
+F-1228,Syddanmark,ICT,5,13,No,8,0,No,960.1,711.4
+F-0016,Syddanmark,Retail and wholesale,4,18,No,4,0,No,1066.1,1080.8
+F-1468,Midtjylland,Retail and wholesale,27,11,Yes,3,0,Yes,2442.3,2991.1
+F-1896,Hovedstaden,Retail and wholesale,9,11,No,2,0,No,"788,4",680.5
+F-0882,syddanmark,Business services,22,7,Yes,8,0,No,964.7,972.4
+F-0653,Sjælland,Manufacturing,16,12,Yes,7,0,Yes,914.0,1016.2
+F-0144,Syddanmark,Retail and wholesale,41,8,No,7,0,No,"1.030,3",1161.1
+F-0581,Hovedstaden,Manufacturing,5,7,No,4,0,No,763.9,856.0
+F-1342,Syddanmark,Construction,9,7,No,7,1,No,"840,2",791.8
+F-0630,Hovedstaden,business services,18,10,Yes,6,0,No,"791,6",761.6
+F-0213,Syddanmark,Retail and wholesale,3,10,No,3,0,No,"637,3",842.6
+F-0713,Syddanmark,Construction,11,6,No,5,0,No,1138.4,897.4
+F-1801,Syddanmark,Manufacturing,87,9,No,5,1,Yes,916.2,1125.1
+F-1346,Nordjylland,Construction,4,11,No,3,0,No,612.9,646.8
+F-0366,Syddanmark,Construction,8,22,No,4,0,No,"730,1",741.8
+F-1721,Sjælland,Manufacturing,10,29,No,5,0,No,1575.0,1702.8
+F-1144,Syddanmark,Manufacturing,16,20,No,8,0,No,749.4,819.1
+F-0812,Nordjylland,Business services,5,19,Yes,7,0,Yes,702.8,846.1
+F-0045,Central Denmark,Business services,11,10,No,5,0,Yes,1285.4,1702.2
+F-0826,Nordjylland,Construction,4,9,No,4,1,No,660.0,
+F-0265,Sjælland,Construction,9,12,No,6,0, Yes,866.0,946.4
+F-0438,Midtjylland,Manufacturing,17,21,Yes,7,0,No,578.2,
+F-1820,Syddanmark,ICT,15,17,Yes,9,0,Yes,"1.477,8",1974.5
+F-1420,Syddanmark,Retail and wholesale,7,,Yes,7,0,Yes,956.7,1049.2
+F-1179,Central Denmark,Manufacturing,49,17,No,5,0,YES,901.5,990.8
+F-1841,Midtjylland,Construction,10,24,Yes,5,1,Yes,1052.7,1145.7
+F-1292,Syddanmark,Retail and wholesale,12,14,No,5,0,No,544.2,546.2
+F-1660,Syddanmark,Business services,4,11,No,5,0,No,547.4,531.0
+F-0591,Midtjylland,Retail and wholesale,3,26,Yes,6,0,Yes,"1.053,5",
+F-0955,Nordjylland,Construction,3,7,Yes,3,0,No,715.7,703.1
+F-0838,Midtjylland,Manufacturing,9,11,No,6,0,Yes,"704,8",656.9
+F-1291,Hovedstaden,Construction,14,,Yes,5,0,No,719.7,719.8
+F-1073,Syddanmark,Retail and wholesale,1,6,No,6,1,No,1492.8,1778.6
+F-1787,Central Denmark,Hospitality,57,46,Yes,7,0,No,492.2,632.2
+F-0505,Hovedstaden,Business services,7,9,No,5,1,Yes,"185,5",270.3
+F-0015,Nordjylland,Manufacturing,10,10,No,6,0,No,"1.370,3",1497.3
+F-0871,hovedstaden,retail and wholesale,3,6,No,2,0,Yes,1060.6,977.8
+F-0925,Sjælland,Retail & wholesale,12,9,No,3,0,No,1403.2,1498.7
+F-0645,Sjælland,Construction,21,23,No,7,1,No,812.7,874.0
+F-1832,Region Syddanmark,Construction,3,13,No,4,0,No,434.2,477.6
+F-1072,Hovedstaden,Business services,5,8,No,4,1,No,1320.4,1443.1
+F-1186,Nordjylland,Business services,4,21,Yes,7,0,Yes,1393.3,1435.6
+F-0956,Nordjylland,Manufacturing,11,26,No,5,0,No,1765.5,1817.4
+F-1437,Hovedstaden,Construction,11,13,No,2,0,Yes,628.6,720.4
+F-1167,Hovedstaden,Hospitality,22,15,No,4,0,No,276.1,316.5
+F-0989,Syddanmark,Retail and wholesale,20,16,Yes,6,0,Yes,1811.8,2026.6
+F-1629,Hovedstaden,Retail and wholesale,91,31,No,8,0,Yes,"1.175,5",1169.3
+F-0043,Hovedstaden,Business services,4,,Yes,3,0,No,296.7,306.0
+F-0807,Hovedstaden,Construction,11,10,Yes,5,0,Yes,2238.9,2813.8
+F-1922,Syddanmark,Retail and wholesale,8,20,No,5,0,No,1298.7,1373.2
+F-0806,Hovedstaden,Retail and wholesale,3,10,No,7,0,No,1582.1,1538.8
+F-0281,Midtjylland,Retail and wholesale,7,9,Yes,3,0,No,1657.6,1815.6
+F-0198,Midtjylland,Retail and wholesale,5,36,No,3,1,No,824.0,827.4
+F-1713,Hovedstaden,Manufacturing,24,7,No,4,0,No,505.9,592.4
+F-1482,Syddanmark,Manufacturing,6,10,No,3,0,No,949.8,954.1
+F-1640,Nordjylland,ICT,3,17,No,6,0,No,959.0,
+F-1262,Nordjylland,Construction,24,9,No,8,0,No,839.9,1017.9
+F-0430,Midtjylland,Business Services,3,20,No,6,0,No,"839,9",818.5
+F-0320,Midtjylland,Construction,59,24,Yes,7,0,Yes,"947,3",1112.4
+F-1564,Sjælland,Retail and wholesale,11,25,Yes,2,1,Yes,803.9,876.7
+F-1387,Hovedstaden,Business services,19,24,Yes,8,0,No,"509,9",623.5
+F-0753,Midtjylland,Manufacturing,103,9,Yes,7,0,Yes,"1.097,2",1297.4
+F-0883,Hovedstaden,Retail and wholesale,8,13,Yes,4,1,Yes,1330.5,1347.6
+F-0802,Sjælland,Retail and wholesale,2,30,No,5,0,No,718.7,737.0
+F-1253,Sjælland,ICT,10,8,No,5,1,Yes,"857,8",1026.6
+F-0019,Syddanmark,Business services,5,12,Yes,4,0,No,662.6,774.7
+F-1137,Midtjylland,ICT,4,27,No,5,0,No,523.4,466.2
+F-1602,Sjælland,Retail and wholesale,5,7,No,4,0,No,1043.0,1112.9
+F-0305,Midtjylland,Hospitality,11,29,Yes,4,0,No,329.5,263.5
+F-0362,sjælland,Hospitality,23,13,No,7,0,Yes,1195.3,1040.3
+F-1828,Region Hovedstaden,Manufacturing,1,2,No,4,0,No,594.3,594.2
+F-0859,Midtjylland,Manufacturing,46,20,No,5,0,No,936.8,990.0
+F-0514, Hovedstaden,business services,10,10,Yes,5,1,Yes,"1.405,0",1675.2
+F-0308,Hovedstaden,Retail and wholesale,7,35,No,4,0,No,"687,2 t.kr.",846.7
+F-0609,Syddanmark,IT,3,17,Yes,8,0,NO,"2.245,9",2530.3
+F-0730,Sjælland,ICT,7,12,No,5,0,No,1738.5,1745.3
+F-0724,Hovedstaden,Business services,5,17,Yes,5,0,Yes,905.0,1187.6
+F-1927,Syddanmark,Hospitality,25,27,Yes,9,0,Yes,939.3,989.7
+F-0773,Syddanmark,Hospitality,10,4,No,5,1,Yes,307.7,270.4
+F-0869,Syddanmark,Construction,51,17,No,5,0,Yes,653.9,876.1
+F-0924,Hovedstaden,Retail and wholesale,60,42,Yes,7,0,Yes,1391.5,1624.7
+F-1208,Hovedstaden,Construction,10,21,Yes,7,0,Yes,1368.8,1460.8
+F-1536,Hovedstaden,Business services,12,12,No,4,0,No,219.1,202.0
+F-0186,Zealand,Manufacturing,7,12,No,4,0,No,1708.2,1651.3
+F-0396,Hovedstaden,Manufacturing,11,13,Yes,3,0,No,910.1,891.5
+F-0106,Hovedstaden,Hospitality,33,10,Yes,4,0,No,1420.9,1593.7
+F-0136,nordjylland,Manufacturing,7,14,No,2,0,No,699.8,697.3
+F-1821,Syddanmark,Business services,14,32,Yes,10,1,Yes,1302.0,1981.3
+F-0067,Midtjylland,Business services,4,6,Yes,6,0,Yes,508.8,531.1
+F-1011,Midtjylland,Retail and wholesale,5,9,No,6,0,No,"1.146,8 t.kr.",961.4
+F-1770,Region Sjælland,Manufacturing,19,6,No,7,0,No,952.4,1098.9
+F-0939,Syddanmark,ICT,24,5,Yes,6,0,Yes,948.2,1301.7
+F-1736,Sjælland,Business services,70,16,Yes,5,0,Yes,665.6,816.1
+F-1284,Sjælland,Manufacturing,24,29,Yes,5,0,N,605.2,536.9
+F-0163,Sjælland,Retail and wholesale,30,14,Yes,4,0,Yes,2149.1,2534.2
+F-1147,Hovedstaden,Retail and wholesale,33,7,Yes,6,0,No,1938.2,2233.7
+F-1938,Midtjylland,retail and wholesale,19,27,Yes,5,0,Yes,"1.593,2 t.kr.",2001.8
+F-1635,Midtjylland,Business services,11,14,No,5,1,Yes,1160.9,1499.6
+F-0273,Midtjylland,Business services,43,15,Yes,5,0,No,"1.333,6",1576.1
+F-1134,Syddanmark,Manufacturing ,35,31,No,6,0,Yes,1446.3,1518.9
+F-0211,Nordjylland,ICT,13,11,Yes,6,0,No,698.5,650.8
+F-1902,Syddanmark,ICT,3,12,Yes,6,0,Yes,923.2,1009.8
+F-0799,Midtjylland,Retail and wholesale,31,11,No,5,0,No ,878.8,1001.4
+F-0998,Syddanmark,Retail and wholesale,1,25,No,1,0,No,976.4,1354.2
+F-1597,Midtjylland,Construction,1,19,No,4,0,No,618.0,745.8
+F-1088,nordjylland,Manufacturing,10,5,No,6,0,No,470.4,542.5
+F-0881,Hovedstaden,Business services,9,7,No,6,0,Yes,1096.7,1323.4
+F-0267, Hovedstaden,Construction,15,23,No,1,0,Yes,799.4,832.7
+F-0675,Hovedstaden,ICT,6,11,No,6,0,No,1552.9,1915.9
+F-0825,Sjælland,Business services,9,20,No,7,0,No,"616,8",730.5
+F-0690,Syddanmark,Construction,3,15,No,99,0,No,634.9,
+F-1065, Hovedstaden,Retail and wholesale,4,6,No,7,0,No,"1.511,3",1883.4
+F-1452,Midtjylland,ICT,25,15,Yes,6,0,Yes,828.5,1064.3
+F-1893,Region Sjælland,Hospitality,51,40,No,7,0,Yes,863.8,1510.3
+F-1655,Midtjylland,construction,3,8,No,7,0,No,699.6,683.9
+F-1079,Nordjylland,Manufacturing,20,10,No,4,0,Yes,835.1,1009.2
+F-1140,Hovedstaden,Hospitality,4,10,No,6,0,No,511.4,555.7
+F-0530,Hovedstaden,Retail and wholesale,8,18,No,6,0,Yes,"767,7",762.4
+F-1471,Hovedstaden,Retail and wholesale,14,25,No,5,1,Yes,550.3,596.8
+F-1726,Hovedstaden,Business services,4,5,No,7,0,No,570.3,524.3
+F-0477,Syddanmark,Construction,15,5,No,8,0,Yes,1263.7,1569.6
+F-0368,Hovedstaden,Manufacturing,18,38,No,99,1,Yes,"695,6",908.1
+F-0342,Syddanmark,Construction,5,53,Yes,3,0,No,280.4,316.8
+F-1660,Syddanmark,Business services,4,11,No,5,0,No,547.4,531.0
+F-1084,Syddanmark,Construction,54,14,No,7,0,No,1731.2,2069.9
+F-0545,Hovedstaden,Business services,5,11,Yes,6,1,Yes,775.8,862.3
+F-0890,midtjylland,Retail and wholesale,9,4,No,2,1,No,1073.1,1201.0
+F-1814,Capital Region,Hospitality,9,16,Yes,99,0,No,"438,3",393.7
+F-1469,syddanmark,construction,3,5,Yes,5,0,Yes,1030.1,990.1
+F-1385,Syddanmark,Business services,21,12,Yes,6,1,no,1058.8,978.4
+F-0687,Midtjylland,Hospitality,5,8,No,2,0,No,320.0,484.4
+F-0352,Hovedstaden,Retail and wholesale,15,33,Yes,3,0,No,869.6,875.0
+F-0253,Syddanmark,Hospitality,6,8,No,3,0,Yes,"214,0",280.3
+F-0900,Syddanmark,Manufacturing,3,22,Yes,8,0,No,550.1,493.5
+F-0919,Midtjylland,ICT,8,12,Yes,5,0,No,"553,6",606.6
+F-1411,Nordjylland,Manufacturing,3,6,No,6,0,No,"1.237,5",1297.7
+F-1560,Midtjylland,Hospitality,38,24,Yes,5,0,No,461.1,447.1
+F-0594,Midtjylland,Business services,3,14,Yes,7,0,No,1216.6,1347.3
+F-1107,Midtjylland,ICT,5,6,Yes,3,0,No,"1.382,2",1386.6
+F-0791,Sjælland,Construction,2,25,No,2,0,No,890.2,1070.3
+F-1432,Sjælland,Construction,22,10,No,6,0,No,"490,9",514.4
+F-0460,Hovedstaden,Retail and wholesale,1,6,No,6,0,Yes,1995.8,2412.1
+F-1350,Midtjylland,ICT,8,15,No,4,0,No,954.6,981.4
+F-0528,Sjælland,ICT,10,13,Yes,4,0,No,935.5,1263.4
+F-1849,Syddanmark,Manufacturing,64,30,Yes,5,0,No,"1.101,0",1001.4
+F-1975,Syddanmark,Construction,37,13,No,2,0,No,840.6,877.5
+F-0378,Hovedstaden,Business services,13,17,Yes,8,0,Yes,"930,4",1056.2
+F-1490,Nordjylland,Hospitality,15,20,Yes,8,0,No,856.6,910.4
+F-1742,Syddanmark,Construction,18,14,No,4,0,No,1058.6,1124.8
+F-0251,Hovedstaden,Business services,54,21,No,6,0,Yes,1791.3,2704.1
+F-0917,Hovedstaden,business services,28,10,Yes,7,1,Yes,999.2,1258.0
+F-1797,Sjælland,Retail and wholesale,8,10,No,3,0,No,654.9,
+F-0187,Hovedstaden,Hospitality,33,,No,4,0,yes,"547,7",630.2
+F-0564,Region Sjælland,Manufacturing,27,27,No,2,0,No,"725,5",904.0
+F-0264,Syddanmark,business services,7,17,Yes,7,0,Yes,1175.3,1488.6
+F-0889,Syddanmark,Business services,4,9,Yes,99,0,NO,749.5,640.9
+F-1593,Sjælland,Construction,16,15,No,4,0,No,548.9,606.0
+F-0237,Syddanmark,Retail and wholesale,31,15,No,5,1,Yes,1836.7,2007.9
+F-1609,Syddanmark,Business services,17,,Yes,6,0,No,528.4,588.1
+F-0390,Sjælland,Hospitality,1,11,Yes,3,0,No,311.7,271.7
+F-1075,Midtjylland,Manufacturing,16,10,No,2,0,No,"596,9",648.2
+F-1273,Syddanmark,Retail and wholesale,14,9,No,3,0,No,"678,6",693.4
+F-1757,Syddanmark,Manufacturing,8,23,No,6,0, Yes,"740,5",791.5
+F-1109,Hovedstaden,ICT,12,7,Yes,9,0,Yes,1651.0,2528.7
+F-1028,Midtjylland,Retail and wholesale,30,21,Yes,6,0,Yes,1374.5,1458.2
+F-1701,Midtjylland,Business services,12,9,No,99,0,No,"1.101,1",1186.9
+F-0422,Hovedstaden,Retail & wholesale,5,5,Yes,5,0,No,659.9,702.8
+F-1791,Sjaelland,ICT,8,6,Yes,4,0,No,541.7,549.3
+F-1343,Nordjylland,Business services,16,13,Yes,4,0,No,716.8,770.2
+F-1330,Hovedstaden,Hospitality,5,33,Yes,7,0,Yes,430.4,483.4
+F-0527,Hovedstaden,Retail and wholesale,17,7,Yes,8,0,No,1151.0,1143.7
+F-0701,Midtjylland,Retail and wholesale,50,12,Yes,7,0,Yes,3015.9,2833.0
+F-0526,Hovedstaden,Retail and wholesale,11,24,Yes,6,0,No,977.9,1353.3
+F-0585,Syddanmark,Retail and wholesale,5,20,No,3,0,No,988.2,992.4
+F-0946,Midtjylland,Construction,39,40,Yes,6,0,Yes,"658,8",725.3
+F-1686,Syddanmark,Hospitality,1,,No,3,0,No,365.8,326.5
+F-0193,Midtjylland,Business services,27,11,No,5,0,No,868.4,1058.0
+F-1573,Hovedstaden,Hospitality,31,18,No,3,1,Yes,584.5,693.5
+F-0628,Syddanmark,Retail and wholesale,3,14,No,5,1,No,814.6,833.5
+F-0228,Syddanmark,Business services,6,20,No,6,1,No,"668,3",843.3
+F-0280,Hovedstaden,Business services,16,4,Yes,6,0,No,"883,7",910.2
+F-1376,Syddanmark,Retail and wholesale,9,10,No,8,1,Yes,"843,3 t.kr.",915.6
+F-1762,Sjælland,Hospitality,20,26,No,8,0,No,668.4,786.8
+F-0088,Midtjylland,Hospitality,8,40,No,4,0,Yes,"306,4",442.9
+F-0022,Hovedstaden,ICT,1,12,No,3,0,Yes,1164.1,1262.9
+F-1494,Midtjylland,Manufacturing,20,11,No,6,0,No,"542,9",586.1
+F-0525,Hovedstaden,Hospitality,16,14,No,7,0,Yes,383.7,486.6
+F-1647,Midtjylland,Construction,8,6,No,4,1,Yes,384.5,451.4
+F-0601,Sjælland,Business services,9,12,Yes,7,0,Yes,585.5,772.9
+F-0029,Nordjylland,Construction,4,24,No,3,1,No,796.3,
+F-1434,Central Denmark,Construction,7,17,Yes,6,0,No,"978,0",1094.9
+F-0815,Sjælland,Hospitality,7,6,No,3,0,No,"405,3",315.0
+F-1209,Central Denmark,Manufacturing,96,48,Yes,5,0,Yes,427.0,529.8
+F-1416,Syddanmark,Business services,21,13,No,6,0,Yes,510.1,701.1
+F-0131,Nordjylland,Construction,17,30,No,5,0,No,803.9,885.9
+F-0164,Sjælland,ICT,10,13,No,2,0,No,793.9,
+F-1264,Capital Region,Manufacturing,53,22,Yes,2,0,No,"1.997,7",1976.2
+F-0910,Syddanmark,Manufacturing,18,4,No,5,0,No,579.6,554.0
+F-1215,Midtjylland,Retail and wholesale,13,19,No,6,0,No,1652.5,1755.9
+F-0598,Region Midtjylland,Manufacturing ,23,66,No,7,0,Yes,1068.2,1061.6
+F-0966,Hovedstaden,Hospitality,5,11,No,3,0,No,365.9,
+F-0374,Hovedstaden,Business services,13,22,Yes,3,0,No,1036.4,
+F-1607,Midtjylland,Construction,33,8,No,8,0,Yes,1134.7,1364.4
+F-0343,Syddanmark,Retail and wholesale,4,13,No,4,0,No,2566.8,
+F-1004,Hovedstaden,Business services,14,9,Yes,7,0,Yes,715.0,969.3
+F-0607,Hovedstaden,ICT,1,9,No,6,0,Yes,1295.9,1402.1
+F-0942,Syddanmark,ICT,9,14,No,5,0,No,2464.9,2501.1
+F-1897, Hovedstaden,Retail and wholesale,41,14,No,6,0,No,1520.9,1571.1
+F-1750,Syddanmark,Hospitality,16,90,No,3,0,No,"546,6",587.4
+F-0003,Hovedstaden,Business services,30,15,Yes,6,0,Yes,"773,8",1003.6
+F-0102,Hovedstaden,Retail and wholesale,7,15,Yes,6,0,NO,741.0,900.1
+F-1888,Nordjylland,Manufacturing,23,10,No,1,0,No,613.4,728.7
+F-1908,Midtjylland,Manufacturing,7,15,Yes,5,0,Yes,812.8,853.4
+F-0835,Southern Denmark,Business services,5,6,Yes,4,0,Yes,676.1,969.3
+F-0283,Midtjylland,Manufacturing ,19,4,No,4,0,No,"613,0",715.9
+F-0480,Sjælland,Manufacturing,36,17,Yes,5,0,No,823.5,915.7
+F-1316,Hovedstaden,Manufacturing,6,36,No,5,0,No,1148.2,1310.2
+F-1932,North Denmark,Retail and wholesale,11,8,No,5,0,No,"851,1",964.2
+F-0661,midtjylland,Retail and wholesale,4,16,No,6,0,Yes,"487,4 t.kr.",525.3
+F-1630,Region Hovedstaden,Construction,7,11,Yes,5,0,No,990.6,1216.9
+F-0036,Hovedstaden,ICT,79,18,No,6,0,Yes,895.4,932.5
+F-1456,Midtjylland,Hospitality,10,28,No,5,0,No,"340,0",335.4
+F-0977,Syddanmark,Hospitality,21,10,Yes,6,0,No,370.0,484.8
+F-1671,Sjælland,Construction,17,29,No,4,0,No,733.2,781.7
+F-0444,Syddanmark,Construction,8,19,Yes,4,0,No,1085.9,1205.5
+F-0458,Region Hovedstaden,Business services,5,11,No,6,0,No,1414.9,1545.8
+F-0774,Midtjylland,Hospitality,2,16,No,4,0,no,373.6,415.1
+F-1548,Sjælland,Hospitality,13,10,No,2,0,No,548.3,634.9
+F-0703,Central Denmark,Retail and wholesale,1,14,No,6,0,No,1096.4,1201.9
+F-0262,Syddanmark,Manufacturing,10,5,No,2,0,No,1124.7,1280.8
+F-1954,Hovedstaden,Hospitality,5,5,No,6,0,No,"392,1",342.1
+F-0650,Sjælland,Hospitality,14,11,No,7,0,No,"707,7",719.7
+F-1570,Hovedstaden,ICT,22,25,Yes,7,1,Yes,1622.1,2340.4
+F-1197,Hovedstaden,Construction,8,4,Yes,4,0,No,1182.1,1346.3
+F-0498,Midtjylland,Manufacturing,5,27,No,1,0,No,1145.7,
+F-0153,Hovedstaden,retail and wholesale,6,34,No,5,0,No,"689,0 t.kr.",784.6
+F-0876,Midtjylland,Retail and wholesale,52,,No,5,0,No,2190.5,2448.1
+F-1738,Region Syddanmark,Construction,142,13,Yes,7,0,Yes,"769,4",1112.6
+F-1851,Hovedstaden,Retail and wholesale,5,32,No,3,0,No,"830,0",
+F-0038,syddanmark,ICT,3,7,No,3,0,No,564.5,635.6
+F-0849,Midtjylland,Construction,5,8,No,5,0,Yes,1751.3,1878.4
+F-0317,Sjælland,Business services,6,42,No,6,0,No,"578,8",716.4
+F-1604,Hovedstaden,Construction,17,20,No,4,1,Yes,1082.8,1069.4
+F-1830,Midtjylland,Business services,7,11,Yes,8,0,Yes,2702.8,3465.8
+F-1615,Syddanmark,Hospitality,7,41,No,3,0,No,499.9,349.1
+F-0639,Midtjylland,ICT,9,19,No,5,1,Yes,1232.4,1503.1
+F-1976,Sjælland,Retail & wholesale,3,10,No,3,0,No,906.5,1172.8
+F-1295,Midtjylland,Business services,1,16,No,4,0,No,676.9,
+F-0647,Hovedstaden,Hospitality,16,4,Yes,8,0,No,"552,2 t.kr.",630.7
+F-0621,Hovedstaden,Construction,6,15,No,1,0,No,776.3,954.3
+F-0205,Sjælland,Retail and wholesale,10,24,No,5,0,No,1319.2,1404.7
+F-0604,Syddanmark,Retail and wholesale,18,19,No,6,0,No,1144.4,1036.1
+F-0083,Hovedstaden,ICT,54,7,Yes,8,0,Yes,937.6,1119.5
+F-1076,North Denmark,Retail and wholesale,4,14,No,4,0,Yes,"1.154,4",
+F-0485,Nordjylland,manufacturing,35,22,No,5,0,No,2067.3,2277.2
+F-1412,Syddanmark,Construction,2,5,No,4,0,No,"305,6",
+F-1899,Hovedstaden,Retail and wholesale,7,19,No,4,0,No,806.2,899.5
+F-0693,Hovedstaden,Business services,8,5,Yes,5,0,Yes,993.5,1402.3
+F-0124,Syddanmark,Construction,27,28,No,6,0,No,"704,3 t.kr.",851.8
+F-1614,Midtjylland,Business services,8,46,Yes,7,1,No,1352.3,1327.2
+F-1511,Nordjylland,Business services,6,13,Yes,5,0,No,747.1,835.4
+F-1270,hovedstaden,Retail and wholesale,7,25,No,3,0,No,"1.324,0 t.kr.",1314.9
+F-0226,Midtjylland,ICT,10,12,Yes,3,0,Yes,"1.467,2",1779.3
+F-0356,Syddanmark,ICT,6,24,No,5,0,Yes,640.3,835.0
+F-1507,Region Syddanmark,Retail and wholesale,4,3,No,4,1,No,1219.0,1386.6
+F-0078,Syddanmark,Business services,9,17,No,4,0,No,658.8,769.3
+F-0488,Hovedstaden,Hospitality,15,34,No,5,0,N,520.6,581.0
+F-0610,Midtjylland,ICT,18,29,Yes,7,0,Yes,"2.019,0",2338.3
+F-0944,Midtjylland,Retail and wholesale,6,10,No,6,0,No,1254.3,1465.7
+F-0071,Midtjylland,Manufacturing,6,32,No,4,0,No,775.2,860.3
+F-0340,Nordjylland,Manufacturing,2,7,No,2,0,No,506.8,636.4
+F-1887,Midtjylland,ICT,8,7,Yes,99,0,Yes,841.4,1068.3
+F-1364,Hovedstaden,Retail & wholesale,8,9,Yes,9,0,Yes,1294.2,1654.3
+F-1315,Hovedstaden,Hotels and restaurants,4,5,Yes,3,0,No,897.0,852.9
+F-0487,Midtjylland,Manufacturing,5,15,Yes,6,0,No,672.6,637.4
+F-1989,Hovedstaden,Retail and wholesale,9,14,No,4,0,No,477.8,448.1
+F-0079,Midtjylland,Business services,14,8,Yes,6,0,Yes,"584,4",686.5
+F-0037,Central Denmark,Business services,7,5,Yes,4,0,Yes,616.3,790.0
+F-0856,Sjælland,Manufacturing,102,34,No,6,0,Yes,"780,9",816.1
+F-1371,Syddanmark,Construction,18,20,No,7,0,No,2588.1,3489.2
+F-1945,Syddanmark,Business services,42,87,No,7,0,Yes,504.4,641.6
+F-1472,Midtjylland,hospitality,5,6,No,99,0,No,195.5,172.2
+F-1559,Sjælland,Business services,7,19,No,99,0,No,849.5,944.6
+F-0098,Syddanmark,Retail and wholesale,42,21,Yes,3,0,Yes,1068.5,1136.0
+F-1086,Hovedstaden,Manufacturing,3,20,Yes,4,1,No,624.6,762.3
+F-1796,Midtjylland,Retail and wholesale,44,,Yes,7,0,Yes,1651.9,1481.2
+F-0823,Sjælland,Hospitality,7,5,Yes,7,0,No,828.6,939.2
+F-1449,Southern Denmark,ICT,13,7,No,4,0,Yes,1661.0,2023.4
+F-1136,Midtjylland,Construction,30,9,No,4,0,No,426.2,583.1
+F-1192,Midtjylland,Business services,2,19,Yes,3,0,No,1171.8,1213.5
+F-0866,Syddanmark,Construction,10,4,Yes,5,0,No,755.8,810.2
+F-0372,Midtjylland,Construction,29,13,Yes,5,0,No,"723,0 t.kr.",662.3
+F-1524,Midtjylland,Construction,30,20,Yes,8,0,No,1219.5,1346.1
+F-0050,Syddanmark,Business services,24,12,Yes,8,0,No,"1.305,2",
+F-0801,Sjælland,Retail and wholesale,11,8,No,3,0,No,667.9,736.9
+F-1319,Nordjylland,Construction,15,26,No,99,0,No,"489,6",602.3
+F-1722,Hovedstaden,Business services,51,23,Yes,7,0,Yes,477.8,614.2
+F-0750,Sjælland,Retail and wholesale,7,6,No,5,0,No,1620.2,1680.5
+F-1716,Syddanmark,construction,11,23,Yes,3,0,No,511.6,526.1
+F-1258,Midtjylland,Business services,32,53,Yes,10,0,No,2263.3,20606.0
+F-1024,Syddanmark,Retail and wholesale,55,57,No,5,0,Yes,1027.2,1460.0
+F-1578,Hovedstaden,Construction,17,16,No,4,0,No,532.7,700.6
+F-0853,Midtjylland,Construction,25,15,No,6,0,Yes,821.3,1043.9
+F-1081,Region Midtjylland,Hospitality,4,5,No,12,0,Yes,366.0,356.7
+F-0127,Hovedstaden,Construction,24,4,No,2,0,No,412.6,483.5
+F-0870,Sjælland,Business services,40,21,No,8,0,Yes,976.4,946.2
+F-1288,Syddanmark,Retail and wholesale,9,11,Yes,7,0,No,1949.7,2514.5
+F-1025,Hovedstaden,ICT,35,11,Yes,5,0,Yes,785.1,1017.1
+F-1774,syddanmark,Business services,18,13,Yes,6,1,Yes,"776,0",1106.4
+F-1473,Midtjylland,Business services,5,14,No,7,0,No,1003.2,1029.7
+F-1572,Sjælland,Business services,15,48,No,4,0,Yes,505.3,
+F-0250,Hovedstaden,Retail and wholesale,1,4,Yes,1,1,No,700.9,781.3
+F-0398,Sjælland,Construction,27,18,No,4,1,No,392.5,560.2
+F-0532,Syddanmark,ICT,11,,No,99,0,No,1007.8,1105.2
+F-0125,North Denmark,Retail and wholesale,19,10,No,6,0,No,"961,1",986.4
+F-1152,Zealand,ICT,60,5,Yes,7,0,Yes,1881.8,2401.2
+F-1733,Hovedstaden,Business services,16,21,Yes,6,0,No,1519.4,1890.6
+F-1094,Syddanmark,Hospitality,5,9,No,6,1,No,764.3,777.1
+F-1576,Syddanmark,ICT,29,22,Yes,6,0,Yes,1895.3,1809.8
+F-0227,Hovedstaden,Business services,8,,No,3,0,No,1091.6,1190.2
+F-0991,Midtjylland,Retail and wholesale,35,32,No,6,0,No,602.5,555.9
+F-1799,Midtjylland,Retail and wholesale,22,25,No,5,0,No,769.6,924.5
+F-0872,Midtjylland,Business services,32,35,Yes,6,0,No,838.5,1016.0
+F-0960,Nordjylland,Manufacturing,24,40,Yes,3,0,No,735.3,1005.6
+F-0600,Midtjylland,Construction,34,18,Yes,6,0,Yes,"367,3",453.3
+F-1638,Midtjylland,Business services,72,20,No,7,1,Yes,"1.225,9 t.kr.",1558.6
+F-1966,Hovedstaden,Hospitality,3,5,Yes,7,0,No,"541,9",639.5
+F-1360,Midtjylland,Hospitality,11,25,No,5,0,No,213.0,225.7
+F-1905,Midtjylland,Business services,3,15,No,7,1,No,"1.318,5",
+F-1872,Hovedstaden,Hospitality,20,15,Yes,6,0,Yes,"531,7",494.1
+F-0246,Hovedstaden,ICT,9,24,No,7,0,Yes,469.3,624.9
+F-1174,Sjælland,Construction,26,34,Yes,4,0,No,"871,7",766.0
+F-0502,Syddanmark,Hospitality,23,16,Yes,2,0,No,"437,1",487.3
+F-0165,Midtjylland,Construction,4,13,Yes,5,1,No,1089.2,935.4
+F-1377,Syddanmark,business services,10,6,Yes,5,0,No,611.5,642.8
+F-1563,Syddanmark,Manufacturing,9,14,No,3,0,No,607.4,681.9
+F-1810,Southern Denmark,Construction,7,27,No,7,0,No,602.1,603.6
+F-0656,Midtjylland,Hotels and restaurants,9,14,Yes,5,0,NO,237.8,
+F-1865,Midtjylland,Construction,37,8,No,2,0,No,357.8,353.0
+F-1836,Nordjylland,ICT,31,11,Yes,4,0,No,931.1,995.8
+F-1552,Syddanmark,Retail and wholesale,3,3,No,4,0,No,1462.5,1432.0
+F-0109,Sjælland,Retail & wholesale,3,8,Yes,5,0,Yes,2667.7,2644.9
+F-0741,Sjælland,Hospitality,4,11,No,4,1,No,744.9,1095.3
+F-0950,hovedstaden,ICT,39,25,Yes,99,0,yes,1226.7,1661.1
+F-1561,Hovedstaden,Business services,15,49,No,9,0,No,843.6,871.9
+F-1097,Midtjylland,Manufacturing,14,13,No,99,0,No,"1.129,5",1260.9
+F-0261,Nordjylland,Retail and wholesale,39,18,Yes,8,1,Yes,2686.0,2632.7
+F-1120,Midtjylland,Hospitality,2,9,No,6,0,No,"191,6 t.kr.",250.3
+F-1812,Hovedstaden,Retail and wholesale,32,12,Yes,5,0,Yes,2442.1,3736.4
+F-0439,nordjylland,Hospitality,7,14,Yes,5,0,No,357.1,392.1
+F-1343,Nordjylland,Business services,16,13,Yes,4,0,No,716.8,770.2
+F-0055,Syddanmark,Business services,5,52,Yes,9,0,Yes,"1.776,7",2053.8
+F-1676,Hovedstaden,Business services,2,20,Yes,7,0,No,"651,2",826.0
+F-1788,Syddanmark,Business services,2,9,Yes,4,1,Yes,457.8,446.1
+F-0077,Syddanmark,Construction,19,6,Yes,6,0,No,542.5,488.4
+F-1329,Midtjylland,Retail and wholesale,8,8,No,7,0,No,2240.3,2210.0
+F-0816,Syddanmark,Business services,12,18,No,6,0,No,1109.6,
+F-1128,Midtjylland,Manufacturing,0,48,No,99,0,No,"938,3",842.4
+F-0719,Syddanmark,Manufacturing,163,16,Yes,6,0,No,1720.6,1823.7
+F-0081,Southern Denmark,ICT,6,4,No,10,0,Yes,2362.5,3190.3
+F-1002,Sjælland,Business services,13,34,No,8,0,No,712.2,
+F-0985,Midtjylland,Business services,8,13,No,7,0,Yes,521.2,
+F-1238,Midtjylland,Retail and wholesale,35,54,Yes,4,0,Yes,746.9,753.9
+F-1994,Sjælland,Manufacturing,9,5,No,4,0,No ,"505,1",611.8
+F-1487,Region Syddanmark,ICT,23,7,Yes,5,0,No,1421.1,1426.8
+F-0009,Syddanmark,Retail and wholesale,13,41,No,5,0,No,786.0,961.2
+F-1685,Midtjylland,Business services,19,10,Yes,5,0,Yes,1053.0,1235.3
+F-1885,Midtjylland,Retail and wholesale,34,11,Yes,3,0,No,2056.0,2173.1
+F-0239,Midtjylland,Business services,4,19,Yes,5,0,N,"1.930,6",2332.1
+F-0199,Syddanmark,Retail and wholesale,4,40,Yes,3,0,No,862.9,805.8
+F-0316,Syddanmark,Manufacturing,11,9,No,4,0,Yes,"600,8",699.9
+F-0454,Hovedstaden,Construction,3,12,No,2,0,No,"516,5 t.kr.",563.8
+F-1636,Sjælland,Hospitality,48,8,No,6,0,Yes,401.7,555.1
+F-1723, Hovedstaden,Retail and wholesale,9,26,Yes,4,0,No,1354.2,1292.3
+F-1130,Hovedstaden,Construction,5,60,Yes,7,1,No,211.9,211.5
+F-0560,Syddanmark,Manufacturing,4,15,No,3,0,No,1071.5,
+F-1988,Hovedstaden,Retail and wholesale,6,13,No,6,0,No,1237.2,1224.6
+F-0612,Syddanmark,construction,6,10,No,6,0,No,715.3,809.1
+F-0933,Midtjylland,Construction,7,43,Yes,6,1,No,"806,5 t.kr.",932.0
+F-1161,Nordjylland,Retail and wholesale,7,7,Yes,4,1,No,1394.6,1275.1
+F-0828,Sjælland,Business services,4,6,No,9,1,No,814.2,916.1
+F-0740,hovedstaden,Hospitality,10,8,Yes,3,0,No,369.0,563.3
+F-1083,Nordjylland,Hospitality,19,7,Yes,8,1,Yes,948.4,983.7
+F-0085,Hovedstaden,Manufacturing,15,8,No,6,0,No,389.8,400.2
+F-1692,Midtjylland,Manufacturing,21,10,No,5,0,Yes,2160.0,2348.8
+F-1687,Sjælland,Construction,-9,8,Yes,5,1,No,1005.3,1082.2
+F-1479,Nordjylland,Construction,28,19,Yes,8,1,Yes,1164.2,
+F-0145,Hovedstaden,Manufacturing,3,9,No,4,0,Yes,566.1,727.6
+F-1749,Hovedstaden,Retail and wholesale,3,5,No,6,0,No,1768.8,
+F-0395,Midtjylland,Manufacturing,10,9,Yes,6,1,Yes,1846.9,2302.9
+F-1648,Midtjylland,ICT,36,11,Yes,5,0,Yes,"1.233,9",1556.6
+F-1921,Hovedstaden,Manufacturing,17,13,Yes,99,1,Yes,1207.0,1372.4
+F-0654,Syddanmark,Retail and wholesale,2,34,Yes,4,0,No ,1293.2,1447.5
+F-1189,Midtjylland,Business services,8,18,No,5,0,No,925.2,808.1
+F-0419,Sjælland,Business services,54,6,Yes,8,1,Yes,1923.3,2809.4
+F-1048,Hovedstaden,Manufacturing ,17,6,No,1,0,No,610.0,523.8
+F-0754,Syddanmark,Manufacturing,2,7,No,4,1,Yes,154.5,160.5
+F-1881,Syddanmark,Retail and wholesale,6,4,Yes,5,0,No,1353.7,1255.5
+F-0504,Hovedstaden,Hospitality,15,24,No,8,0,no,413.8,437.0
+F-1294,Nordjylland,Business services,12,14,Yes,6,0,Yes,692.3,1019.9
+F-1644,Midtjylland,Business services,11,32,Yes,8,0,Yes,1256.5,1390.8
+F-0121,Sjælland,Manufacturing,9,5,No,4,0,No,1825.3,1884.0
+F-1505,Sjælland,Hospitality,3,21,No,5,0,No,438.5,
+F-1121,Hovedstaden,Retail and wholesale,35,46,Yes,5,0,No,1528.2,1422.9
+F-0034,Capital Region,ICT,3,4,No,4,0,No,767.5,766.9
+F-0520,Syddanmark,Construction,17,28,Yes,5,0,No,840.0,988.7
+F-1019,midtjylland,Business services,11,12,Yes,6,0,Yes,"854,3",826.6
+F-1298,Midtjylland,Construction,18,12,No,6,0,No,"1.200,7",1278.7
+F-0711,Syddanmark,ICT,2,7,Yes,4,0,No,862.7,740.2
+F-0072,Hovedstaden,ICT,10,20,Yes,5,0,No,1043.1,996.5
+F-1365,Midtjylland,Manufacturing,10,9,No,4,0,No,816.1,971.1
+F-1803,Sjælland,Construction,5,23,Yes,5,0,Yes,"540,0",579.6
+F-1297,Syddanmark,Business services,27,14,Yes,5,0,Yes,544.4,809.4
+F-0409,Midtjylland,Retail and wholesale,47,7,No,99,0,No,"817,6",901.9
+F-1861,Midtjylland,Construction,7,,Yes,6,0,No,"1.195,5 t.kr.",1309.6
+F-0507,Syddanmark,Manufacturing,10,30,No,6,0,No,"478,5 t.kr.",500.1
+F-0397,Syddanmark,Business services,11,9,Yes,7,0,Yes,"530,1",738.5
+F-1055,Hovedstaden,Manufacturing,10,13,No,99,0,YES,892.5,1048.3
+F-1188,Hovedstaden,Construction,5,10,No,3,1,No,649.2,576.1
+F-1700,Midtjylland,Business services,2,13,No,3,1,No,"684,7 t.kr.",841.4
+F-0497,Syddanmark,Manufacturing,11,10,No,5,0,No,680.2,739.4
+F-0370,Central Denmark,Manufacturing,38,15,No,7,0,Yes,944.9,1009.3
+F-0101,Hovedstaden,Construction,39,10,No,7,0,Yes,261.2,297.5
+F-0517,Region Syddanmark,ICT,3,14,No,5,0,Yes,637.9,762.4
+F-0113,Hovedstaden,Business services,2,5,No,7,0,No,1156.8,1260.8
+F-1131,Region Midtjylland,Retail and wholesale,6,11,No,6,0,Yes,1235.0,1247.5
+F-0107,Midtjylland,Construction,22,13,Yes,4,0,No,701.8,771.0
+F-1290,Midtjylland,ICT,9,18,No,5,0,Yes,"963,1",1340.0
+F-1286,Hovedstaden,Retail and wholesale,4,12,No,5,1,Yes,1133.5,1440.1
+F-1458,Hovedstaden,Retail and wholesale,28,5,Yes,5,1,Yes,4101.7,4233.2
+F-0405,Midtjylland,Retail and wholesale,84,15,Yes,5,0,No,554.1,686.8
+F-1882,Sjælland,Retail and wholesale,1,7,No,3,1,Yes,"329,3 t.kr.",329.9
+F-1853,Sjælland,Retail and wholesale,3,4,No,2,0,No,"831,7 t.kr.",
+F-1711,Hovedstaden,Business services,1,8,No,4,1,No,"456,2",477.8
+F-0171,Midtjylland,Manufacturing ,5,7,No,3,0,No,1250.5,1508.1
+F-0984,Central Denmark,ICT,33,22,Yes,7,0,Yes,1464.4,1757.1
+F-0339,Midtjylland,Retail and wholesale,14,6,No,4,0,No,533.2,481.7
+F-1549,Sjælland,ICT,1,5,No,6,0,No,672.5,
+F-1006,Sjælland,hospitality,32,13,No,1,0,No,355.4,398.3
+F-0534,Sjælland,Hospitality,6,8,No,4,0,No,278.9,255.6
+F-1992,Midtjylland,Hospitality,5,22,Yes,3,0,No,422.6,435.6
+F-1760,Syddanmark,Hospitality,11,8,No,7,0,Yes,955.1,950.8
+F-1786,Midtjylland,Business services,81,19,Yes,7,0,Yes,1107.1,1389.9
+F-1027,Hovedstaden,ICT,212,51,Yes,9,0,Yes,2504.8,2910.7
+F-1166,Nordjylland,Construction,7,9,Yes,6,0,No,716.6,734.9
+F-0691,Nordjylland,Business services,6,16,Yes,5,0,NO,655.7,
+F-0448,Hovedstaden,Construction,5,15,No,3,0,No,639.1,519.4
+F-0619,Midtjylland,Retail and wholesale,5,5,Yes,6,0,No,1526.2,1450.6
+F-0776,Midtjylland,Business services,51,9,Yes,4,0,Yes,"475,4",545.6
+F-0709,Syddanmark,ICT,4,32,Yes,10,1,Yes,"902,8",1238.0
+F-1919,Hovedstaden,Business services,3,12,Yes,2,0,No,816.6,931.3
+F-0976,Midtjylland,Retail and wholesale,48,29,No,1,0,No,632.4,648.2
+F-1409,Syddanmark,Manufacturing,6,20,No,2,0,No,993.3,1190.0
+F-1441,hovedstaden,ICT,12,28,Yes,4,0,Yes,"983,0",1459.5
+F-1999,Midtjylland,ICT,2,16,Yes,1,0,No,"898,3",
+F-1314,Hovedstaden,ICT,4,10,Yes,4,0,Yes,775.1,1077.8
+F-0768,Hovedstaden,Retail and wholesale,12,18,Yes,7,0,No,925.0,1086.1
+F-1703,Syddanmark,Construction,5,4,No,3,1,No,859.6,1027.3
+F-1301,Syddanmark,Retail and wholesale,4,51,No,1,0,No,1768.2,
+F-0314,Region Nordjylland,Manufacturing,7,13,No,4,0,No ,555.6,707.4
+F-1583,Midtjylland,Business services,4,11,No,7,0,No,730.1,652.7
+F-1515,Sjælland,Retail and wholesale,19,22,No,2,0,No,"813,1",933.5
+F-0345,Hovedstaden,Hospitality,11,41,No,8,0,Yes,1027.7,1072.1
+F-0209,Syddanmark,Manufacturing ,15,5,Yes,8,0,N,588.7,767.0
+F-1637,midtjylland,Construction,44,18,Yes,8,0,No,"1.414,1",
+F-1508,Sjælland,Manufacturing,3,6,No,4,0,No,1021.4,975.3
+F-0151,Sjælland,ICT,8,23,No,7,1,No,1878.0,1923.8
+F-1311,Sjælland,Construction,3,17,No,3,1,No,"296,6",346.6
+F-1077,Region Hovedstaden,Hospitality,24,18,No,2,0,No,"333,3",350.3
+F-0070,Syddanmark,Business services,14,11,No,4,0,No,780.2,761.4
+F-1259,Midtjylland,Business services,0,11,Yes,5,0,Yes,455.8,631.3
+F-0400,Syddanmark,Manufacturing,11,10,No,4,0,No,"1.721,8",2215.0
+F-0875,Nordjylland,Manufacturing,9,6,No,3,0,No,770.9,906.4
+F-0062,Sjælland,Business services,16,10,Yes,5,0,No,868.5,954.3
+F-0714,sjælland,ICT,3,9,No,99,0,No,1054.9,968.4
+F-0764,Midtjylland,Retail and wholesale,3,8,No,2,0,No,760.1,
+F-1373,Region Nordjylland,Construction,137,19,No,6,0,Yes,549.9,799.5
+F-0687,Midtjylland,Hospitality,5,8,No,2,0,No,320.0,484.4
+F-0961,Syddanmark,Construction,6,14,No,99,0,Yes,"478,9",518.2
+F-0794,Syddanmark,Retail and wholesale,2,41,No,4,1,No,511.6,417.4
+F-0537,Nordjylland,ICT,11,14,Yes,6,0,No,2609.0,3240.0
+F-0115,Hovedstaden,Retail and wholesale,3,7,No,2,0,No,755.3,744.8
+F-1894,Hovedstaden,Retail and wholesale,22,20,No,7,1,Yes,"1.695,2",1843.5
+F-1518,Midtjylland,Retail and wholesale,6,29,No,4,0,No,"716,9 t.kr.",745.7
+F-0696,Midtjylland,Hospitality,3,19,Yes,2,0,No,640.6,620.3
+F-0672,Syddanmark,Business services,8,5,Yes,9,0,Yes,"1.192,5",1699.1
+F-0558,Midtjylland,Manufacturing,9,4,Yes,8,0,Yes,938.6,1161.0
+F-0357,Region Hovedstaden,Construction,5,16,No,4,0,No,483.7,591.8
+F-0625,Hovedstaden,Retail and wholesale,3,7,No,5,0,No,1048.9,1051.3
+F-1579,Midtjylland,Retail and wholesale,2,16,Yes,3,0,No,1188.8,1110.2
+F-0181,Nordjylland,Construction,90,8,No,4,1,Yes,1302.3,1577.2
+F-0733,Midtjylland,Manufacturing,29,13,No,4,0,No,255.0,258.6
+F-1399,Sjælland,Business services,2,17,Yes,6,0,Yes,1092.6,1418.9
+F-0441,Syddanmark,ICT,17,6,Yes,7,0,Yes,655.8,733.1
+F-1590,Hovedstaden,Manufacturing,6,16,Yes,6,0,No,810.3,709.6
+F-1884,Syddanmark,Construction,27,13,No,6,0,No,883.3,868.0
+F-1386,Hovedstaden,Construction,3,20,Yes,3,0,No,499.4,
+F-0247,Nordjylland,Hospitality,18,22,No,7,0,Yes,438.5,488.9
+F-1159,Hovedstaden,Hospitality,1,16,Yes,7,1,Yes,"516,7",503.2
+F-1890,Syddanmark,Construction,8,11,No,6,0,No,675.1,687.7
+F-1513,Midtjylland,Construction,4,15,No,8,0,Yes,352.4,413.2
+F-1728,Midtjylland,Retail and wholesale,5,47,No,5,0,No,1340.5,1447.5
+F-0486,Hovedstaden,Manufacturing,18,15,No,4,0,No,828.5,1077.2
+F-1497,Sjælland,Hospitality,11,,No,3,1,No,380.9,434.8
+F-1605,Hovedstaden,Business services,1,15,Yes,4,0,No,925.9,1228.8
+F-1462,Sjælland,Retail and wholesale,4,35,No,5,0,No,"625,5 t.kr.",776.4
+F-0651,Sjælland,Retail and wholesale,12,14,No,4,0,No,1661.3,1781.2
+F-1062,Midtjylland,Manufacturing,28,23,Yes,9,0,Yes,"956,6",952.2
+F-1356,Midtjylland,Hospitality,8,8,No,3,1,Yes,444.4,701.5
+F-0178,Hovedstaden,Retail and wholesale,3,20,Yes,3,0,No,800.3,834.7
+F-0699,Midtjylland,Construction,9,7,No,8,0,Yes,1006.3,1383.6
+F-1516,Midtjylland,Manufacturing,7,6,No,3,0,No,"1.115,8 t.kr.",1213.1
+F-1483,Hovedstaden,Business services,22,17,No,3,0,Yes,"951,4",1011.5
+F-0864,Midtjylland,Business services,7,9,Yes,9,1,No,1224.9,1274.4
+F-0557,Midtjylland,Retail and wholesale,224,26,No,6,1,Yes,2430.6,2775.1
+F-0624,Nordjylland,Hospitality,8,17,No,3,0,No,685.5,818.3
+F-0381,Midtjylland,ICT,5,16,No,6,0,No,880.9,930.6
+F-0401,Hovedstaden,Retail and wholesale,5,7,Yes,7,0,No,1250.1,1416.3
+F-0403,Hovedstaden,Construction,6,21,No,4,1,No,"1.463,1",1217.8
+F-0888,Hovedstaden,construction,6,14,No,3,1,Yes,"429,3",516.3
+F-1369,Syddanmark,ICT,14,11,No,5,0,No,1594.1,1338.8
+F-1389,Midtjylland,Construction,18,,Yes,6,0,Yes,1088.0,1483.4
+F-0727,Midtjylland,Retail and wholesale,6,10,No,6,0,No,826.8,
+F-1870,Region Midtjylland,Construction,12,11,No,1,0,No,706.7,816.3
+F-1206,Syddanmark,Retail and wholesale,3,10,No,7,0,No,814.6,886.3
+F-0069,Central Denmark,Retail and wholesale,11,10,No,4,0,No,"1.328,9",1227.4
+F-1737,Syddanmark,Construction,11,24,Yes,3,0,No,520.5,594.0
+F-1105,Midtjylland,Retail and wholesale,6,4,No,5,0,No,630.5,718.6
+F-0694,Midtjylland,Hospitality,3,12,Yes,6,0,No,330.4,413.4
+F-0913,Midtjylland,Hospitality,21,10,Yes,4,0,No,498.0,618.9
+F-1971,Nordjylland,Construction,28,11,No,6,1,No,1140.4,1309.5
+F-0276,Nordjylland,Construction,11,7,Yes,3,0,No,759.1,
+F-0822,Sjælland,Business services,18,22,Yes,5,0,Yes,"544,6 t.kr.",658.1
+F-1842,Hovedstaden,Hospitality,32,9,No,9,0,Yes,665.7,685.3
+F-0582,Syddanmark,Hospitality,10,14,No,3,1,No,229.4,296.1
+F-0380,Sjælland,Manufacturing,49,47,No,8,0,Yes,885.7,823.8
+F-0303,Zealand,Business services,13,26,Yes,9,0,No,"734,0 t.kr.",824.5
+F-1747,Capital Region,Construction,9,14,No,6,0,No,490.0,527.9
+F-0510,Nordjylland,Manufacturing,20,12,No,6,0,No,1526.9,1575.0
+F-0358,Nordjylland,Hospitality,5,13,Yes,5,0,No,"580,2 t.kr.",768.6
+F-1588,Syddanmark,Business services,24,25,No,6,0,Yes,494.8,605.4
+F-0484,Sjælland,ICT,7,24,No,5,0,Yes,836.7,1075.2
+F-0843,Midtjylland,Hospitality,40,,No,4,0,No,"677,6",484.4
+F-0166,Hovedstaden,ICT,6,22,Yes,4,0,NO,"842,1",1137.0
+F-0174,Hovedstaden,Hospitality,11,18,No,2,1,No,"348,3",380.1
+F-0389,Hovedstaden,ICT,2,19,Yes,3,1,No,688.8,874.5
+F-0436,Midtjylland,Manufacturing,26,23,Yes,2,0,No,630.3,695.0
+F-0159,Region Hovedstaden,Business services,7,12,Yes,7,0,No,1274.3,1270.4
+F-0809,Hovedstaden,Retail and wholesale,3,37,Yes,7,0,No,"1.100,5",1110.7
+F-0536,Syddanmark,Manufacturing,7,13,Yes,4,0,No,354.5,321.2
+F-1421,Hovedstaden,Hospitality,49,20,No,6,0,No,765.7,969.4
+F-0635,Midtjylland,Manufacturing,1,10,No,1,0,No,327.3,367.9
+F-0700,Hovedstaden,Business services,5,8,Yes,5,0,No,1707.6,1764.5
+F-0958,Midtjylland,ICT,5,6,Yes,6,0,Yes,585.0,
+F-0158,Capital Region,Retail and wholesale,10,5,No,6,0,Yes,1147.4,1280.8
+F-1098,Sjælland,Manufacturing,85,13,No,7,1,No,495.2,562.8
+F-1110,Hovedstaden,Construction,18,19,Yes,5,0,Yes,866.1,843.7
+F-1040,Syddanmark,ICT,17,10,Yes,8,0,Yes,"1.803,3",2797.8
+F-1396,Capital Region,Business services,0,33,No,5,0,No,897.5,
+F-1375,Sjælland,Construction,43,20,No,6,0,No ,794.6,823.4
+F-0934,Region Syddanmark,Hospitality,23,8,Yes,4,0,Yes,686.3,1190.4
+F-1142,Syddanmark,Manufacturing,8,13,No,2,0,No,578.4,679.5
+F-0092,Sjælland,Retail and wholesale,18,8,No,2,0,No,1299.8,
+F-1242,Sjælland,ICT,29,41,Yes,7,0,No,"867,9",977.1
+F-1299,Syddanmark,Construction,12,10,No,5,0,No,"457,6",554.8
+F-0495,Hovedstaden,Construction,6,9,No,3,0,No,"633,3",742.8
+F-1145,Hovedstaden,Construction,17,15,Yes,5,0,No,610.5,565.8
+F-0660,Midtjylland,Retail and wholesale,34,10,No,7,0,Yes,"2.209,8",2465.1
+F-1415, Hovedstaden,Manufacturing,1,10,No,4,0,No,"597,9",705.1
+F-1326,Sjælland,ICT,1,8,No,4,0,No,623.8,581.9
+F-0544,Hovedstaden,Manufacturing,45,27,Yes,6,0,Yes,1054.7,1155.5
+F-0292,Syddanmark,ICT,31,13,Yes,6,0,Yes,591.6,725.7
+F-0878,Syddanmark,Construction,26,20,Yes,4,1,No,323.1,305.7
+F-0702,Region Syddanmark,Construction,7,17,Yes,3,0,yes,"466,6 t.kr.",571.5
+F-0852,Nordjylland,Business services,3,16,Yes,7,1,No,886.4,840.5
+F-0752,Midtjylland,Manufacturing,3,13,No,5,0,No,"679,3",752.2
+F-1202,Midtjylland,Construction,10,4,No,4,1,Yes,470.3,519.5
+F-1419,Sjælland,Construction,7,24,No,4,1,Yes,539.6,651.7
+F-1328,Syddanmark,Retail and wholesale,2,4,No,2,0,No ,1068.7,1190.6
+F-0673,Hovedstaden,Retail and wholesale,4,15,Yes,99,0,No,1219.7,1344.5
+F-1661,Midtjylland,Manufacturing,20,33,Yes,3,0,No,1080.4,1263.7
+F-0117,Sjælland,Construction,5,25,Yes,5,0,No,604.4,697.8
+F-0506,Hovedstaden,Retail and wholesale,4,11,No,6,1,Yes,807.9,848.0
+F-1843,Hovedstaden,Retail and wholesale,15,8,No,7,0,Yes,1886.7,2047.6
+F-0921,Syddanmark,Construction,6,14,No,3,0,No,751.7,739.4
+F-0667,Syddanmark,Construction,15,13,No,5,0,No,795.7,927.2
+F-1034,Syddanmark,Business services,9,10,Yes,4,0,No,"825,0",834.2
+F-0047,Nordjylland,Business services,30,17,Yes,7,1,Yes,"1.063,8",1230.9
+F-1352,Midtjylland,Retail and wholesale,13,11,No,7,0,No,1492.7,
+F-1813,Hovedstaden,Construction,30,14,No,5,0,No,529.5,579.2
+F-0027,Hovedstaden,Retail and wholesale,5,7,Yes,4,0,No,1279.0,1405.6
+F-0706,Midtjylland,Retail & wholesale,11,8,No,3,1,No,"1.169,3",1168.2
+F-0501,Sjælland,ICT,9,11,Yes,8,0,Yes,"694,1",754.5
+F-0494, Hovedstaden,Business services,8,14,No,6,0,No,1432.3,1421.8
+F-1663,Hovedstaden,Manufacturing,146,17,No,7,0,Yes,768.2,843.2
+F-1535,Hovedstaden,Retail and wholesale,6,12,No,9,0,No,1613.8,1636.6
+F-1404,Nordjylland,Construction,7,9,No,5,0,No,596.0,525.7
+F-0518,Syddanmark,Business services,13,4,No,10,0,Yes,"596,5",660.7
+F-0326,Sjælland,Construction,3,7,No,5,0,No,731.3,576.5
+F-0813,Sjælland,construction,4,16,No,6,0,No,1201.1,1204.1
+F-0839,Nordjylland,Construction,5,,No,4,0,No,229.9,320.5
+F-1972,Hovedstaden,Business services,6,9,Yes,8,0,Yes,1483.4,1984.9
+F-0721,Sjælland,Retail and wholesale,2,6,No,4,0,No,796.8,941.4
+F-0551,Nordjylland,Construction,34,21,Yes,6,0,no,961.0,970.4
+F-0846,Nordjylland,Retail and wholesale,2,10,No,5,0,No,"376,1",
+F-0975,Midtjylland,Manufacturing,7,12,No,6,1,No,1232.3,1346.7
+F-1562,Midtjylland,Business services,35,22,Yes,9,0,Yes,1291.9,1476.9
+F-0120,Central Denmark,Construction,7,23,No,2,0,No,375.2,434.6
+F-1306,Syddanmark,Construction,6,8,No,6,1,No,432.0,495.5
+F-0695,Hovedstaden,Retail and wholesale,22,37,Yes,5,0,No,1314.8,1494.1
+F-1906,Sjælland,Business services,2,7,No,6,0,No,1047.4,1112.5
+F-1492,Syddanmark,Retail and wholesale,29,10,No,3,0,Yes,1349.1,1555.8
+F-1879,Hovedstaden,ICT,25,14,Yes,5,0,Yes,384.0,515.8
+F-0197,Hovedstaden,Manufacturing,56,40,Yes,6,0,Yes,"1.194,7",1239.2
+F-0116,Sjaelland,Construction,11,12,No,8,0,No,881.9,961.0
+F-0771,Nordjylland,Business services,2,3,No,3,0,No,"261,8 t.kr.",288.3
+F-1993,Hovedstaden,Hospitality,80,24,No,7,0,Yes,"426,3",537.5
+F-1146,Sjælland,Hospitality,71,16,Yes,4,1,No,507.3,618.4
+F-0891,Hovedstaden,Retail and wholesale,10,5,Yes,5,0,No,870.0,960.2
+F-0954,Hovedstaden,Construction,4,5,Yes,2,0,No,"417,8",514.0
+F-1429,Midtjylland,Manufacturing,20,17,Yes,5,0,No,"1.256,8",1333.4
+F-1911,Hovedstaden,Manufacturing,8,18,No,5,1,Yes,821.5,819.4
+F-0224,Syddanmark,Retail & wholesale,12,7,Yes,4,0,Yes,1512.8,1795.0
+F-1611,Hovedstaden,Business services,9,11,Yes,5,0,No,1268.2,1617.2
+F-1293,Sjælland,Hospitality,5,17,No,5,0,No,"308,6 t.kr.",431.4
+F-1423,Syddanmark,Construction,6,10,No,6,0,No,983.9,1151.5
+F-0042,Midtjylland,Retail and wholesale,5,37,No,5,0,No,"696,3",883.1
+F-0736,Hovedstaden,Retail and wholesale,11,28,No,4,1,N,"2.223,5",2640.6
+F-0705,Hovedstaden,Retail and wholesale,5,10,No,5,0,No,794.7,741.0
+F-1205,Hovedstaden,Business services,2,14,No,4,0,No,"439,3",464.9
+F-1623,Midtjylland,Manufacturing,33,20,Yes,4,0,No,873.2,1033.6
+F-1302,Region Midtjylland,Manufacturing,17,8,Yes,7,0,Yes,808.7,1120.9
+F-1200,hovedstaden,Retail and wholesale,7,30,No,2,0,No,1656.1,1763.6
+F-0093,Hovedstaden,Business services,11,15,No,7,0,Yes,672.1,890.3
+F-0792,Hovedstaden,Retail and wholesale,5,7,No,7,0,Yes,1099.3,1427.8
+F-0920,Syddanmark,Manufacturing,3,21,No,5,1,No,847.2,921.2
+F-1915,Midtjylland,Business services,35,27,Yes,7,0,Yes,828.2,1088.3
+F-1049,Nordjylland,Business services,8,13,Yes,6,0,Yes,999.1,1243.0
+F-1918,Hovedstaden,Business services,5,15,Yes,5,0,No,"911,6",851.5
+F-0781,Region Nordjylland,Business services,6,9,No,3,0,No,993.0,944.1
+F-1923,Sjælland,Construction,1,26,No,4,0,No,318.1,249.3
+F-1765,Sjælland,ICT,11,21,Yes,3,0,yes,507.8,678.8
+F-0748,Syddanmark,Business services,4,17,Yes,99,0,Yes,1188.9,1596.9
+F-0177,Midtjylland,Business services,4,12,No,4,0,Yes,"546,8",620.0
+F-0824,Midtjylland,Manufacturing,20,18,Yes,3,0,No,632.6,512.2
+F-1362,Sjælland,Hospitality,46,19,No,5,0,Yes,707.8,659.9
+F-1278,Hovedstaden,Retail and wholesale,6,11,No,2,0,No,499.7,556.7
+F-0298,Sjælland,Manufacturing,42,37,Yes,6,0,Yes,841.7,950.5
+F-0321,Midtjylland,Construction,3,25,No,2,0,No,605.0,710.9
+F-1514,Nordjylland,Manufacturing,22,11,No,5,0,No,673.8,715.0
+F-1665,Syddanmark,ICT,9,20,Yes,6,0,No,584.9,689.3
+F-0790,Hovedstaden,Manufacturing,52,20,Yes,4,0,Yes,"1.279,8",1546.3
+F-0500,Zealand,Construction,41,85,Yes,6,0,No,"466,3",338.4
+F-1792,Nordjylland,Business services,17,16,Yes,4,0,Yes,417.7,578.3
+F-0513,Nordjylland,Business services,7,11,Yes,4,0,N,571.4,643.2
+F-1158,Nordjylland,Retail and wholesale,14,30,No,4,0,No,970.0,1248.8
+F-0964,Hovedstaden,Manufacturing,4,17,No,5,0,Yes,"441,8",455.3
+F-0241,midtjylland,Business services,9,12,No,6,0,Yes,386.4,442.3
+F-1840,Sjælland,Retail and wholesale,8,30,Yes,4,1,No,847.5,877.7
+F-0570,Nordjylland,Retail and wholesale,9,28,No,6,0,No,1168.4,1533.9
+F-0770,Midtjylland,Business services,10,11,Yes,7,0,No,1173.3,1272.7
+F-0011,Hovedstaden,Business services,7,12,No,5,0,no,636.4,718.7
+F-0254,Syddanmark,Manufacturing,13,20,Yes,7,0,Yes,750.6,984.8
+F-0392,Syddanmark,ict,3,9,No,7,0,Yes,1833.7,2324.2
+F-1719,Capital Region,Hospitality,5,42,No,1,0,No,413.3,531.7
+F-1176,Midtjylland,ICT,8,10,No,5,0,No,"652,7",660.2
+F-1575,Hovedstaden,Business services,7,7,Yes,8,0,Yes,972.8,939.0
+F-0686,Syddanmark,Retail and wholesale,2,,Yes,2,0,No,702.3,685.2
+F-0063,Syddanmark,Construction,6,10,Yes,99,0,No,908.1,1179.7
+F-1929,Hovedstaden,Hospitality,14,21,Yes,99,0,No,556.7,621.4
+F-1682,Midtjylland,Retail & wholesale,11,10,Yes,7,0,No,2167.9,2339.7
+F-0287,Hovedstaden,Retail and wholesale,31,9,No,6,0,Yes,2441.9,3037.5
+F-0731,Midtjylland,Business services,51,75,No,5,0,No,1029.6,1227.9
+F-0361,Nordjylland,Hospitality,3,9,Yes,5,0,No,"350,7",
+F-0150,Syddanmark,Retail and wholesale,10,9,Yes,9,0,No,1035.5,1198.8
+F-0503,hovedstaden,Retail and wholesale,27,7,Yes,6,0,No,1272.5,1544.3
+F-0232,nordjylland,Hospitality,31,39,No,3,0,Yes,386.9,472.6
+F-0541,Sjælland,Construction,34,13,No,3,0,No,766.6,910.2
+F-1442,Hovedstaden,Retail and wholesale,21,14,No,5,0,No,1455.0,1587.3
+F-0255,sjælland,Manufacturing ,2,6,No,3,0,Yes,407.1,456.9
+F-1826,Region Midtjylland,Business Services,34,12,Yes,9,0,Yes,2321.0,3453.1
+F-0002,Midtjylland,Retail and wholesale,5,9,Yes,6,0,No,"2.540,1 t.kr.",2723.4
+F-0643,Nordjylland,Manufacturing,9,21,No,2,0,No,1180.2,1027.4
+F-0906,Midtjylland,Business services,24,26,Yes,6,0,Yes,608.9,576.0
+F-1322,Sjælland,Construction,9,28,Yes,5,0,Yes,653.1,575.8
+F-1353,Midtjylland,Hospitality,37,6,Yes,6,0,Yes,"871,2",1223.0
+F-0367,Hovedstaden,Construction,25,14,No,8,0,Yes,"536,4",555.6
+F-0194,Hovedstaden,Manufacturing,55,24,No,4,0,Yes,"565,1",670.0
+F-1321,Midtjylland,Manufacturing,70,9,No,7,0,No,443.0,557.7
+F-1775,Syddanmark,Retail & wholesale,1,3,No,1,1,No,594.7,
+F-0895,North Denmark,ICT,11,37,Yes,8,0,Yes,2303.4,2554.7
+F-1252,Central Denmark,ICT,13,9,Yes,5,0,Yes,"891,5",1236.9
+F-1017,Midtjylland,Retail and wholesale,6,26,Yes,3,0,Yes,541.5,570.1
+F-0223,Hovedstaden,Business services,18,7,Yes,4,0,Yes,462.3,617.9
+F-0516,Syddanmark,Retail and wholesale,14,11,Yes,8,0,Yes,2060.1,2103.5
+F-1979,Sjælland,ICT,8,,No,6,1,No,841.4,912.3
+F-1498,Syddanmark,Hospitality,49,13,Yes,7,0,Yes,607.4,599.7
+F-0112,Midtjylland,Construction,15,20,Yes,4,0,No,364.1,424.3
+F-1124,Sjælland,Business services,23,12,Yes,8,0,Yes,819.4,
+F-1169,Region Syddanmark,Construction,14,23,No,5,0,No,569.0,
+F-1517,Hovedstaden,Retail and wholesale,8,15,No,3,0,No,910.8,1014.7
+F-1645,Midtjylland,Business services,13,22,No,5,1,No,620.1,839.9
+F-1446,Syddanmark,Business services,51,16,Yes,10,1,Yes,1423.5,2044.9
+F-1670,Syddanmark,ICT,4,11,No,5,0,No,2185.7,2100.7
+F-0827,Nordjylland,Manufacturing ,58,19,No,4,0,Yes,"406,8",451.3
+F-0894,Midtjylland,ICT,2,13,Yes,5,0,No,669.7,632.1
+F-1150,Nordjylland,Retail and wholesale,4,20,No,4,0,No,"749,0",807.7
+F-1534,Midtjylland,Hospitality,25,7,Yes,99,0,No,"296,5 t.kr.",354.2
+F-1697,Nordjylland,Manufacturing,2,15,No,8,0,Yes,"2.291,9",2676.9
+F-1138,North Denmark,Business Services,6,26,Yes,8,0,Y,917.7,1271.3
+F-1678,Sjælland,construction,3,10,No,3,0,No,833.2,
+F-1160,Syddanmark,business services,3,8,No,2,0,No,773.1,648.8
+F-1148,Sjælland,Manufacturing,13,22,No,3,0,No,656.9,765.0
+F-1506,Central Denmark,Retail and wholesale,11,22,Yes,3,0,No,1138.3,1283.9
+F-1300,Sjaelland,Hospitality,2,17,No,4,0,No,"1.003,5",945.4
+F-1725,Midtjylland,Manufacturing,8,15,No,5,0,No,831.7,851.7
+F-1695,Hovedstaden,Business services,4,7,No,5,0,No,684.6,744.5
+F-0382,Region Syddanmark,Manufacturing,18,20,No,7,0,No,"1.000,2",1033.0
+F-0248,Midtjylland,Construction,6,11,Yes,4,0,No,"420,6",420.9
+F-1901,Hovedstaden,Retail and wholesale,19,4,No,5,0,No,2329.3,2291.0
+F-1132,Syddanmark,ICT,21,8,Yes,9,0,Yes,1830.5,2281.2
+F-0105,Syddanmark,Manufacturing,168,24,Yes,7,0,No,896.7,999.4
+F-0603,Hovedstaden,Manufacturing,13,12,Yes,6,0,No,559.7,648.8
+F-1402,Sjælland,Manufacturing,7,16,Yes,6,0,Yes,821.9,850.6
+F-0207,Midtjylland,Hospitality,26,9,No,7,0,Yes,345.5,372.4
+F-1689,syddanmark,Construction,17,15,No,5,0,No,418.4,486.3
+F-0501,Sjælland,ICT,9,11,Yes,8,0,Yes,"694,1",754.5
+F-0927,Sjælland,Retail and wholesale,1,6,No,1,0,No,1180.8,1012.4
+F-1384,Sjælland,Retail and wholesale,41,14,No,5,0,Yes,892.9,
+F-0168,Region Midtjylland,Manufacturing,39,18,No,1,1,No,1024.2,1296.3
+F-1965,Syddanmark,Business services,10,17,Yes,5,0,Yes,1307.0,1689.4
+F-1219,Midtjylland,Retail and wholesale,29,70,No,2,0,Yes,1559.1,1594.7
+F-1333,Hovedstaden,Retail and wholesale,10,17,No,6,0,No,1095.0,1161.1
+F-1374,Midtjylland,Retail and wholesale,3,14,No,6,1,No,"642,6",562.9
+F-1526,Hovedstaden,Manufacturing,17,13,Yes,7,0,No,1340.3,1444.8
+F-0615,Hovedstaden,Hospitality,26,9,No,7,1,Yes,1352.2,1867.6
+F-0052,Midtjylland,Retail and wholesale,15,20,No,1,0,No,1005.3,1325.1
+F-1757,Syddanmark,Manufacturing,8,23,No,6,0, Yes,"740,5",791.5
+F-0574,Hovedstaden,Business services,8,8,Yes,9,0,Yes,"1.371,0",
+F-0051,Sjælland,Construction,8,15,Yes,5,0,Yes,1245.0,1236.6
+F-1586,Nordjylland,Business services,5,10,Yes,4,0,No,"1.182,3",1321.1
+F-0491,Sjælland,Retail and wholesale,2,23,No,4,0,No,996.1,960.1
+F-0732,Sjælland,Manufacturing,31,7,No,4,0,No,"334,0",375.8
+F-1591,Sjælland,Manufacturing,5,9,No,6,0,No,"967,3",952.8
+F-0104,Hovedstaden,Retail and wholesale,1,8,No,3,1,No,433.3,490.2
+F-1344,Hovedstaden,Retail and wholesale,6,11,No,4,0,No,1307.9,
+F-0668,Syddanmark,Manufacturing,21,24,No,1,0,No,270.4,297.9
+F-1732,Sjælland,Business services,18,16,No,5,0,Yes,"1.464,5",1856.5
+F-0797,Midtjylland,Manufacturing,5,16,No,5,0,No,"1.099,0",1231.7
+F-1531,Sjælland,Retail and wholesale,19,21,Yes,4,0,No,1294.4,1530.1
+F-0572,Capital Region,Retail and wholesale,17,38,No,6,0,No,704.3,732.7
+F-0391,Midtjylland,Manufacturing,6,43,Yes,6,0,No,629.7,808.7
+F-0911,Sjælland,Construction,6,20,No,5,0,No,817.4,1029.3
+F-0862,Hovedstaden,Retail and wholesale,23,18,Yes,5,1,No,703.6,795.4
+F-0160,Syddanmark,hospitality,34,19,No,8,0,Yes,"1.160,5",1324.1
+F-0327,Sjælland,Manufacturing,15,24,No,4,0,No,710.6,794.5
+F-0608,Sjælland,Hospitality,45,43,Yes,8,0,Yes,"659,5",808.0
+F-1250,Hovedstaden,Hospitality,18,29,Yes,5,0,No,659.9,740.0
+F-0571,Hovedstaden,Hospitality,13,17,No,5,0,No,"442,1",382.3
+F-0473,Hovedstaden,Manufacturing,31,14,Yes,9,0,No,1806.7,2001.6
+F-0666,Midtjylland,ICT,8,13,No,7,0,Yes,1705.7,2203.1
+F-1231,Midtjylland,Business services,29,20,Yes,6,0,Yes,886.7,
+F-1254,Syddanmark,Manufacturing,3,6,No,6,0,No,682.8,686.1
+F-1457,Syddanmark,retail and wholesale,11,13,Yes,9,0,No,2364.6,2604.4
+F-1539,Hovedstaden,Retail and wholesale,3,5,No,5,1,No,"587,8",570.9
+F-0268,Region Syddanmark,Construction,20,2,Yes,2,0,No,"1.406,8",1179.4
+F-1436,Central Denmark,Retail and wholesale,10,14,Yes,5,0,Yes,"2.030,3",2073.4
+F-1755,Syddanmark,hospitality,219,6,No,6,0,No,"673,0",725.2
+F-1974,Nordjylland,Hospitality,10,21,No,3,0,No,623.5,529.6
+F-0833,Sjælland,Business services,17,8,No,6,0,No,921.0,1090.9
+F-1382,Nordjylland,ICT,4,4,Yes,5,0,N,"1.342,0",1235.7
+F-1260,Syddanmark,Business services,1,22,No,3,1,No,730.4,907.2
+F-1407,Syddanmark,Construction,141,8,Yes,7,0,Y,1452.5,1696.0
+F-1184,Midtjylland,ict,5,16,Yes,3,0,No,1148.1,1234.8
+F-0056,Hovedstaden,Construction,5,13,No,7,0,No,205.5,
+F-0331,Sjælland,Manufacturing,55,53,Yes,3,0,Yes,1274.9,1404.7
+F-0007,Hovedstaden,Retail and wholesale,3,8,Yes,5,0,No,1415.0,1923.8
+F-1804,Hovedstaden,Retail and wholesale,3,25,No,3,0,No,2304.8,2625.4
+F-1589,Hovedstaden,Manufacturing,124,36,Yes,8,0,Yes,1665.7,1744.4
+F-0379,Sjælland,ICT,2,8,Yes,5,0,Yes,1154.7,1421.5
+F-1519,Hovedstaden,Retail and wholesale,3,11,No,6,0,No,879.1,1008.4
+F-1883,Syddanmark,Retail and wholesale,4,9,Yes,4,0,No,935.8,948.3
+F-0221,Syddanmark,Retail and wholesale,3,41,No,6,1,No,1153.1,1353.9
+F-0941,Hovedstaden,Hospitality,3,7,Yes,6,0,No,270.6,272.0
+F-1746,Midtjylland,Hospitality,7,39,Yes,6,1,No,542.9,673.8
+F-1545,Syddanmark,Retail and wholesale,19,14,No,4,0,No,1536.9,1298.1
+F-0830,Region Hovedstaden,Retail and wholesale,15,14,No,7,0,Yes,1051.9,1427.0
+F-1819,Midtjylland,construction,32,24,Yes,6,0,Yes,1842.0,1610.0
+F-0206,Hovedstaden,ICT,4,13,Yes,9,0,Yes,"700,3",999.4
+F-1093,Syddanmark,Retail and wholesale,69,62,No,5,0,Yes,1850.2,1917.8
+F-0583,midtjylland,Manufacturing,150,29,No,7,0,Yes,985.4,909.9
+F-0066,Syddanmark,Business services,14,24,No,2,1,No,390.5,408.0
+F-0123,Nordjylland,Manufacturing,12,18,No,5,1,No,"537,8 t.kr.",583.4
+F-0988,Hovedstaden,Manufacturing,58,16,Yes,6,0,Yes,"1.654,3",1744.8
+F-0449,Syddanmark,retail and wholesale,16,7,Yes,7,0,Yes,1580.4,1796.4
+F-1033,Midtjylland,Retail & wholesale,3,23,Yes,4,0,No,880.7,989.4
+F-0351,Hovedstaden,Construction,21,10,No,8,0,No,825.9,720.7
+F-0012,Midtjylland,Business services,7,7,Yes,9,0,Yes,"848,9",936.3
