@@ -19,6 +19,7 @@ The files for Lectures 1 to 4 are clean: there are no missing or impossible valu
 | `customer_survey.csv` | 612 | Customer survey linked to purchases (messy) | Workshop 5 |
 | `customers_population.csv` | 60,000 | All customers with an account before 2025 who ordered in 2025 (the population) | Lecture 6 |
 | `customers_sample.csv` | 1,000 | A simple random sample of customers from the population | Lecture 6 |
+| `service_contacts.csv` | 2,000 | Contacts handled by a customer service center | Lecture 10 |
 | `sme_ai_survey.csv` | 2,024 | Survey of Danish SMEs on the use of AI tools, linked to annual accounts (messy) | Exam assignment |
 
 ## Loading a file
@@ -135,6 +136,31 @@ RetailCorp wants to understand what goes with how much a customer spends in a ye
 | `spend_2025` | number | Total spend in DKK in 2025 |
 | `churned` | 0 or 1 | 1 if the customer placed no order in January to June 2026 |
 
+
+## Customer service contacts (`service_contacts.csv`, Lecture 10)
+
+TeleNag, an internet and mobile provider, handles customer contacts by phone and chat in its customer service center. The file has one row for each of 2,000 contacts drawn at random from all contacts this autumn. The center has several sites and many hundreds of agents, so most agents appear only once or twice in the file. Some agents have taken a course on handling and documenting contacts; managers chose which agents to send. The course has been offered during the past year. The company is invented and the data are simulated for the course. The file is clean, apart from two columns with empty cells by design: the satisfaction survey, which not every customer answered, and the agent's earlier time, which newer agents do not have.
+
+| Column | Type | Description |
+|---|---|---|
+| `contact_id` | number | Running number of the contact |
+| `channel` | text | "Phone" or "Chat" |
+| `issue_type` | text | What the customer contacted the center about: "Billing", "Technical", "Plan change" or "Cancellation" |
+| `segment` | text | "Private" or "Business" customer |
+| `shift` | text | When the contact came in: "Morning", "Afternoon" or "Evening" |
+| `customer_years` | number | Years the customer has been with TeleNag |
+| `agent_experience_months` | number | The agent's months in the job |
+| `agent_contacts_handled` | number | The number of contacts the agent has handled in the job so far |
+| `agent_trained` | 0 or 1 | 1 if the agent has taken the course |
+| `agent_minutes_before` | number | The agent's average time per contact (`total_minutes`) in the same autumn period one year earlier, before the course started; empty for agents who were not in the job then |
+| `queue_minutes` | number | Minutes the customer waited before the contact was answered |
+| `transfers` | number | Times the contact was passed on to another agent while it went on |
+| `escalated` | 0 or 1 | 1 if the agent passed the issue on to the second-line team at the end of the contact |
+| `handling_minutes` | number | Minutes the agent spent talking or chatting with the customer, including time on hold |
+| `wrapup_minutes` | number | Minutes the agent spent on the contact after the customer had left (notes and follow-up tasks) |
+| `total_minutes` | number | `handling_minutes` plus `wrapup_minutes` |
+| `repeat_contact_7d` | 0 or 1 | 1 if the customer contacted the center again within seven days |
+| `satisfaction` | number | 1 (very dissatisfied) to 5 (very satisfied), from a survey sent the day after the contact; empty if the customer did not answer |
 
 ## employee_wages_dk.csv: private-sector employees in Denmark
 - `wage`: monthly salary before tax, DKK
